@@ -126,6 +126,17 @@ $(window).resize(function () {
 });
 
 //
+// Modal
+//
+function openModal(e, modalPrefix) {
+    $('#' + modalPrefix + 'Modal').fadeIn(100);
+}
+
+function closeModal(e, modalPrefix) {
+    $('#' + modalPrefix + 'Modal').fadeOut(100);
+}
+
+// 
 // ONREADY
 //
 $(document).ready(function () {
@@ -139,12 +150,5 @@ $(document).ready(function () {
     //
     // Modal Close
     //
-    $('#JmModal').click(function (e) {
-        if (!e)
-            e = window.event;
-        var sender = e.srcElement || e.target;
-
-        if (sender.id === "JmModal")
-            $('#JmModal').fadeOut(100);
-    });
+    // $("[id$='Modal']").click(closeModal);
 });

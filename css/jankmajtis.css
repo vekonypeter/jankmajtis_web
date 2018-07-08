@@ -12,7 +12,6 @@ body {
     color: #000000;
     font-family: sans-serif;
     margin: 0;
-    text-align: center;
 }
 
 .col-1 {
@@ -103,6 +102,7 @@ table {
 }
 
 #subheader {
+    text-align: center;
     display: flex;
     align-items: center;
     height: 250px;
@@ -126,6 +126,7 @@ table {
 }
 
 #footer {
+    text-align: center;
     bottom: 10px;
     padding-top: 10px;
     margin-top: 50px;
@@ -223,6 +224,16 @@ table {
     text-align: justify;
 }
 
+.new > p,ul {
+    margin-left: 20px;
+    padding-right: 20px;
+}
+
+.new > ul {
+    padding-left: 0px;
+    list-style-position: inside;
+}
+
 .newTitle {
     background-color: #eaeaea;
     border: 1px #999999 solid;
@@ -299,6 +310,7 @@ table {
 ********************/
 
 #menuBar {
+    text-align: center;
     background-color: #4169E1;
     background: -moz-linear-gradient(bottom, #4169E1 0%, #48A4FF 100%);
     background: -webkit-linear-gradient(bottom, #4169E1 0%, #48A4FF 100%);
@@ -427,4 +439,13 @@ table {
     margin-right: 3%;
     margin-bottom: 10px;
     box-shadow: 2px 2px 5px #000000;
+}
+
+/*******************
+   MODAL OVERWRITES
+********************/
+
+.w3-modal {
+    padding-top: 25px;
+    padding-bottom: 25px;
 }
