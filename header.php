@@ -50,6 +50,7 @@
                 <div class="menuBtn subbedMenu" onclick="submenu(4)">Vállalkozások</div>
                 <div class="menuBtn subbedMenu" onclick="submenu(5)">Szálláshelyek</div>
                 <div class="menuBtn subbedMenu" onclick="submenu(6)">Pályázatok</div>
+                <a href="ASP.html" target="_blank"><div class="menuBtn">ASP Központ</div></a>
 
                 <div id="burger" onclick="mainmenu()">
                     <span class="burgerLine"></span>
@@ -78,6 +79,7 @@
                     </li>
                     <li onclick="submenu(6)"><a>Pályázatok</a>
                     </li>
+                    <li><a href="ASP.html" target="_blank">ASP Központ</a>
                 </ul>
             </div>
 
@@ -160,6 +162,8 @@
                 <div class="subMenuContainer">
                     <ul>
                         <li><a href="./napelem.php">Napelemes rendszer telepítése</a>
+                        </li>
+                        <li><a href="./ovodafejlesztes.php">Napközi Otthonos Óvoda fejlesztése</a>
                         </li>
                     </ul>
                 </div>

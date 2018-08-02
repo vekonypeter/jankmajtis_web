@@ -26,7 +26,11 @@ include('header.php');
                 <br> kívánunk!
             </div>
 
-            <a href="ASP.html" target="_blank">
+            <a class="fancybox" href="images_jpg/OvodaFejlesztes_tabla-B.jpg" data-fancybox-group="gallery" title="Napközi Otthonos Óvoda fejlesztése Jánkmajtison">
+                <img src="images_jpg/OvodaFejlesztes_tabla-B.jpg" alt="Óvodafejlesztési Projekt" class="sideBarElement sideBarImage">
+            </a>
+
+            <a class="fancybox" href="images_jpg/ASP_tabla.jpg" data-fancybox-group="gallery" title="ASP Központ">
                 <img src="images_jpg/ASP_tabla.jpg" alt="ASP Projekt" class="sideBarElement sideBarImage">
             </a>
 

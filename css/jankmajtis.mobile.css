@@ -90,7 +90,13 @@
         width: 100%;
     }
     #sideBarGrey {
-        width: 70%;
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+        padding-bottom: 0px;
+    }
+    .sideBarElement {
+        width: 100%;
         margin-left: auto;
         margin-right: auto;
     }
@@ -104,6 +110,7 @@
         margin-left: 5px;
         margin-right: 5px;
     }
+    
 }
 
 @media only screen and (max-width: 478px) {
