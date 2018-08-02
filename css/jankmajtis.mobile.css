@@ -52,18 +52,7 @@
         background-color: #87CEFA;
     }
     #subheader {
-        display: block;
-        width: 70%;
-        margin-left: auto;
-        margin-right: auto;
-        padding-left: 10px;
-        border-bottom: 2px #F5F5F5 solid;
-    }
-    #subheader>#crest {
-        float: none;
-    }
-    #subheader>#crest>img {
-        max-height: 100px;
+        display: none;
     }
     #header {
         padding-top: 50px;
@@ -76,15 +65,6 @@
     }
     #headerCaption {
         display: none;
-    }
-    #headerCaption-mobile {
-        display: block;
-        float: none;
-        color: #000;
-    }
-    #headerCaption-mobile>h3 {
-        font-family: Bookman Old Style;
-        line-height: 1;
     }
     #sideright {
         width: 100%;
@@ -110,7 +90,23 @@
         margin-left: 5px;
         margin-right: 5px;
     }
-    
+    #crest-mobile {
+        display: block; 
+        float: left;
+        margin-top: -15px;      
+        height: 150%;
+        margin-left: .5rem;
+    } 
+    #headerCaption-mobile {
+        margin-left: .5rem;
+        display: block;
+        float: left;
+        color: #fff;
+    }
+    #headerCaption-mobile>h3 {
+        font-family: Bookman Old Style;
+        line-height: 1.0;
+    }
 }
 
 @media only screen and (max-width: 478px) {

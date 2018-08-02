@@ -31,16 +31,18 @@
                 <a href="index.php">
                     <div id="subheader">
                         <div id="crest">
-                            <img src="images_png/cimer_jo_kicsi_javitott.png" alt="Cimer">
-                        </div>
-                        <div id="headerCaption-mobile">
-                            <h3>Jánkmajtis község honlapja</h3>
+                            <img src="images_png/cimer_jo_kicsi_javitott.png" alt="Cimer" />
                         </div>
                     </div>
                 </a>
             </div>
 
             <div id="menuBar">
+                <img id="crest-mobile" src="images_png/cimer_jo_kicsi_javitott_korvonal.png" alt="Cimer" />
+                <div id="headerCaption-mobile">
+                    <h3>Jánkmajtis</h3>
+                </div>
+
                 <a href="index.php"><div class="menuBtn">Főoldal</div></a>
                 <div class="menuBtn subbedMenu" onclick="submenu(0)">Településünk</div>
                 <div class="menuBtn subbedMenu" onclick="submenu(1)">Önkormányzat</div>
