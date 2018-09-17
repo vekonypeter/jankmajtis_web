@@ -27,20 +27,18 @@ include('header.php');
             </div>
 
             <a class="fancybox" href="images_jpg/OvodaFejlesztes_tabla-B.jpg" data-fancybox-group="gallery" title="Napközi Otthonos Óvoda fejlesztése Jánkmajtison">
-                <img src="images_jpg/OvodaFejlesztes_tabla-B.jpg" alt="Óvodafejlesztési Projekt" class="sideBarElement sideBarImage">
+                <img src="images_jpg/OvodaFejlesztes_tabla-B.jpg" alt="Óvodafejlesztési Projekt" class="sideBarElement sideBarImage sideBarSelectable">
             </a>
 
             <a class="fancybox" href="images_jpg/ASP_tabla.jpg" data-fancybox-group="gallery" title="ASP Központ">
-                <img src="images_jpg/ASP_tabla.jpg" alt="ASP Projekt" class="sideBarElement sideBarImage">
+                <img src="images_jpg/ASP_tabla.jpg" alt="ASP Projekt" class="sideBarElement sideBarImage sideBarSelectable">
             </a>
 
-            <img src="images_jpg/Szennyvizelvezetes.jpg" alt="SzennyvizelvezetesiProjekt" class="sideBarElement sideBarImage">
-            <a href="documents/Jm_TR_foeljaras.pdf" target="_blank">
-                <img src="images_jpg/Jm_TR.jpg" alt="Teruletrendezes" class="sideBarElement sideBarImage">
+            <a href="vodafone.php" class="sideBarElement sideBarVoda sideBarSelectable">
+                <img src="images_png/vodafonelogo.png" alt="Vodafone">
+                <strong>Kormányzati csomagos készülékárlista</strong>
             </a>
-            <div onclick="openModal(event, 'Jm')" style="cursor: pointer;">
-                <img src="images_jpg/Jm_TR2.jpg" alt="Teruletrendezes2" class="sideBarElement sideBarImage">
-            </div>
+            
         </div>
     </div>
 

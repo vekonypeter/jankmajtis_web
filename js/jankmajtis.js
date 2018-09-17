@@ -151,4 +151,45 @@ $(document).ready(function () {
     // Modal Close
     //
     // $("[id$='Modal']").click(closeModal);
+
+    //
+    // Vodafone submit action
+    //
+
+    $("#vodaForm").submit(onVodaSubmit);
 });
+
+//
+// Vodafone "login" 
+//
+
+
+
+function onVodaSubmit(e) {
+
+    e.preventDefault();
+
+    if (!window.CryptoJS) {
+        sendVodaAlert("A beléptető szolgáltatás sajnos nem elérhető. Kérjük próbálja meg később.");
+        return;
+    }
+
+    var value = $("#vodaPassword").val();
+    var hash = CryptoJS.MD5(value).toString();
+   
+    if (hash === "b777b38f200b690d8c15642d343f861e") {
+        clearVodaAlert();
+        window.open("vodafone/list1.pdf", "_blank");
+    }
+    else {
+        sendVodaAlert("Helytelen jelszó!");
+    }
+}
+
+function sendVodaAlert(message) {
+    clearVodaAlert().html(message);
+}
+
+function clearVodaAlert() {
+    return $("#vodaAlert").empty();
+}
