@@ -70,7 +70,7 @@
         width: 100%;
     }
     #sideBarGrey {
-        width: 90%;
+        width: 95%;
         margin-left: auto;
         margin-right: auto;
         padding-bottom: 0px;
@@ -87,8 +87,7 @@
         margin-right: 5px;
     }
     .contentContainer {
-        margin-left: 5px;
-        margin-right: 5px;
+        width: 95%;
     }
     #crest-mobile {
         display: block; 
@@ -104,8 +103,11 @@
         color: #fff;
     }
     #headerCaption-mobile>h3 {
-        font-family: Bookman Old Style;
+        font-family: BookmanOldStyle, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
         line-height: 1.0;
+    }
+    #sideBarGrey > *:last-child {
+        padding-bottom: 15px;
     }
 }
 

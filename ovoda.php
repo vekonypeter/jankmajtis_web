@@ -24,9 +24,7 @@ include('header.php');
 
 
     <div id="sideright">
-
-        <div class="containerCaption"></div>
-
+    
         <div class="contentContainer">
 
             <div class="row new">

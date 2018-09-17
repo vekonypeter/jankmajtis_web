@@ -26,12 +26,11 @@ include('header.php');
         </div>
     </div>
 
+    <br>
 
-    <div id="sideright">
+    <div id="sideright"> 
 
-        <div class="containerCaption"></div>
-
-        <div class="contentContainer"SS>
+        <div class="contentContainer">
 
             <div class="new row">
                 <div class="newTitle">Móricz Zsigmond Általános Iskola</div>

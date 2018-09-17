@@ -2,6 +2,11 @@
         BASICS
 ********************/
 
+@font-face {
+    font-family: BookmanOldStyle;
+    src: url(bookman_old_style.ttf);
+}
+
 * {
     box-sizing: border-box;
 }
@@ -170,7 +175,7 @@ table {
     margin: 0px;
     line-height: 1;
     color: #000000;
-    font-family: Bookman Old Style;
+    font-family: BookmanOldStyle, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 35px;
     background-color: #FFD700;
     border: 2px #F5F5F5 solid;
@@ -283,8 +288,8 @@ table {
 #pageName {
     margin-top: 20px;
     padding: 5px 0px 5px 0px;
-    color: #ff3300;
-    font-family: Bookman Old Style;
+    color: #ff3300; 
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 12pt;
     font-weight: bold;
     background-color: #FFD700;
