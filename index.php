@@ -132,12 +132,62 @@ include('header.php');
         <div class="contentContainer">
 
             <div class="new">
+                <div class="newTitle">BURSA pályázat 2019</div>
+                <i class="newDate">2018.10.07.</i>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="news/181007/bursa2019_felh.pdf" target="_blank">Pályázati felhívás</a>
+                    </li>
+                    <li>
+                        <a href="news/181007/bursa2019_a.pdf" target="_blank">A típusú pályázati kiírás</a>
+                    </li>
+                    <li>
+                        <a href="news/181007/bursa2019_b.pdf" target="_blank">B típusú pályázati kiírás</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="new">
+                <div class="newTitle">Roma holokauszt megemlékezés</div>
+                <i class="newDate">2018.09.15.</i>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="news/180915/180915_roma_holokauszt.pdf" target="_blank">Összefoglaló</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="new">
+                <div class="newTitle">Roma tábor</div>
+                <i class="newDate">2018.07.17.</i>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="news/180717/180717_roma_tabor.pdf" target="_blank">Összefoglaló</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="new">
                 <div class="newTitle">Pályázati felhívás "Manókuckó" Biztos Kezdet Gyerekház munkatárs beosztás ellátására</div>
                 <i class="newDate">2018.06.26.</i>
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
                         <a href="news/180626/180626_manokucko_palyazati_felhivas.pdf" target="_blank">Pályázati felhívás</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="new">
+                <div class="newTitle">Roma Kulturális Nap</div>
+                <i class="newDate">2018.05.26.</i>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="news/180526/180526_roma_kultura.pdf" target="_blank">Összefoglaló</a>
                     </li>
                 </ul>
             </div>
