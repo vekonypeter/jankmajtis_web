@@ -12,7 +12,7 @@ include('header.php');
             </div>
 
             <div id="pageName" class="sideBarElement">
-                Kisebbségi önkormányzat
+                Roma Nemzetiségi Önkormányzat
             </div>
 
         </div>
@@ -24,11 +24,25 @@ include('header.php');
         <div class="contentContainer">
 
             <div class="new">
-                    <p>
-                        Falunkban jelenleg nem működik kisebbségi önkormányzat.
-                    </p>
+                <table cellpadding="0" cellspacing="1" id="Table1">
+                    <tr>
+                        <th width="120em">Elnök:</th>
+                        <td>Szőcsi Gusztáv</td>
+                    </tr>
+                    <tr>
+                        <th>Tagok:</th>
+                        <td>Rézműves Ferenc</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>Rézműves Miklós</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>Tyukodi István</td>
+                    </tr>
+                </table>  
             </div>
-
         </div>
     </div>
 </div>

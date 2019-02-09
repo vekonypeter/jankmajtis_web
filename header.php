@@ -102,7 +102,7 @@
                     <ul>
                         <li><a href="./korjegyzoseg.php">Körjegyzőség</a>
                         </li>
-                        <li><a href="./kisebbsegionk.php">Kisebbségi önkormányzat</a>
+                        <li><a href="./kisebbsegionk.php">Roma Nemzetiségi Önkormányzat</a>
                         </li>
                     </ul>
                 </div>

@@ -32,7 +32,7 @@ include('header.php');
                 
                 <table cellpadding="0" cellspacing="1" id="Table1">
                     <tr>
-                        <td colspan="2" ><strong> Körjegyző: Dr. Erdei Anita</strong>
+                        <td colspan="2" style="padding-top:8px; padding-bottom:8px;"><strong> Körjegyző: Dr. Erdei Anita</strong>
                         </td>
                     </tr>
                     <tr>

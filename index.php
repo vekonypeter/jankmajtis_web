@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 include('header.php');
 ?>
 
@@ -130,7 +130,21 @@ include('header.php');
         </div>
 
         <div class="contentContainer">
-
+        
+        <div class="new">
+                <div class="newTitle">Jánkmajtis Helyi Választási Iroda vezetőjétől</div>
+                <i class="newDate">2019.02.07.</i>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="news/190207/szavazokori_es_korzadatok.pdf" target="_blank">Szavazóköri és körzetadatok felülvizsgálata</a>
+                    </li>
+                    <li>
+                        <a href="news/190207/megvalaszt_onkorm_kepvis_szam.pdf" target="_blank">A megválasztandó önkormányzati képviselők számának megállapítása</a>
+                    </li>
+                </ul>
+            </div>
+            
             <div class="new">
                 <div class="newTitle">BURSA pályázat 2019</div>
                 <i class="newDate">2018.10.07.</i>
