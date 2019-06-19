@@ -53,6 +53,7 @@
                 <div class="menuBtn subbedMenu" onclick="submenu(5)">Szálláshelyek</div>
                 <div class="menuBtn subbedMenu" onclick="submenu(6)">Pályázatok</div>
                 <a href="ASP.html" target="_blank"><div class="menuBtn">ASP Központ</div></a>
+                <a href="docs/190619_efop-1.5.3-16-2017-00112.pdf" target="_blank"><div class="menuBtn">EFOP-1.5.3-16-2017-00112</div></a>
 
                 <div id="burger" onclick="mainmenu()">
                     <span class="burgerLine"></span>
@@ -81,7 +82,8 @@
                     </li>
                     <li onclick="submenu(6)"><a>Pályázatok</a>
                     </li>
-                    <li><a href="ASP.html" target="_blank">ASP Központ</a>
+                    <li><a href="ASP.html" target="_blank">ASP Központ</a></li>
+                    <li><a href="docs/190619_efop-1.5.3-16-2017-00112.pdf" target="_blank">EFOP-1.5.3-16-2017-00112</a></li>
                 </ul>
             </div>
 
