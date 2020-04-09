@@ -130,6 +130,80 @@ include('header.php');
         </div>
 
         <div class="contentContainer">
+
+            <div class="new">
+                <div class="newTitle">Tájékoztató - a katonák feladatai veszélyhelyzet idején</div>
+                <i class="newDate">2020.04.09.</i>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="news/200409/200409_katonai_tajekoztato.pdf" target="_blank">Tájékoztató</a>
+                    </li>
+                </ul>
+                <p>Kapcsolódó képek:</p>
+                <p class="news-gal">
+                    <a class="fancybox"
+                        href="news/200409/200409_katonai_tajekoztato_01.jpg"
+                        data-fancybox-group="katonai_tajekoztato"
+                        title="Tájékoztató - a katonák feladatai veszélyhelyzet idején">
+                        <img class="news-gal-tmb" src="news/200409/tmb/200409_katonai_tajekoztato_01_tmb.jpg" />
+                    </a>
+                    <a class="fancybox"
+                        href="news/200409/200409_katonai_tajekoztato_02.jpg"
+                        data-fancybox-group="katonai_tajekoztato"
+                        title="Tájékoztató - a katonák feladatai veszélyhelyzet idején">
+                        <img class="news-gal-tmb" src="news/200409/tmb/200409_katonai_tajekoztato_02_tmb.jpg" />
+                    </a>
+                    <a class="fancybox"
+                        href="news/200409/200409_katonai_tajekoztato_03.jpg"
+                        data-fancybox-group="katonai_tajekoztato"
+                        title="Tájékoztató - a katonák feladatai veszélyhelyzet idején">
+                        <img class="news-gal-tmb" src="news/200409/tmb/200409_katonai_tajekoztato_03_tmb.jpg" />
+                    </a>
+                    <a class="fancybox"
+                        href="news/200409/200409_katonai_tajekoztato_04.jpg"
+                        data-fancybox-group="katonai_tajekoztato"
+                        title="Tájékoztató - a katonák feladatai veszélyhelyzet idején">
+                        <img class="news-gal-tmb" src="news/200409/tmb/200409_katonai_tajekoztato_04_tmb.jpg" />
+                    </a>
+                    <a class="fancybox"
+                        href="news/200409/200409_katonai_tajekoztato_05.jpg"
+                        data-fancybox-group="katonai_tajekoztato"
+                        title="Tájékoztató - a katonák feladatai veszélyhelyzet idején">
+                        <img class="news-gal-tmb" src="news/200409/tmb/200409_katonai_tajekoztato_05_tmb.jpg" />
+                    </a>
+                    <a class="fancybox"
+                        href="news/200409/200409_katonai_tajekoztato_06.jpg"
+                        data-fancybox-group="katonai_tajekoztato"
+                        title="Tájékoztató - a katonák feladatai veszélyhelyzet idején">
+                        <img class="news-gal-tmb" src="news/200409/tmb/200409_katonai_tajekoztato_06_tmb.jpg"  />
+                    </a>
+                    <a class="fancybox"
+                        href="news/200409/200409_katonai_tajekoztato_07.jpg"
+                        data-fancybox-group="katonai_tajekoztato"
+                        title="Tájékoztató - a katonák feladatai veszélyhelyzet idején">
+                        <img class="news-gal-tmb" src="news/200409/tmb/200409_katonai_tajekoztato_07_tmb.jpg" />
+                    </a>
+                    <a class="fancybox"
+                        href="news/200409/200409_katonai_tajekoztato_08.jpg"
+                        data-fancybox-group="katonai_tajekoztato"
+                        title="Tájékoztató - a katonák feladatai veszélyhelyzet idején">
+                        <img class="news-gal-tmb" src="news/200409/tmb/200409_katonai_tajekoztato_08_tmb.jpg" />
+                    </a>
+                    <a class="fancybox"
+                        href="news/200409/200409_katonai_tajekoztato_09.jpg"
+                        data-fancybox-group="katonai_tajekoztato"
+                        title="Tájékoztató - a katonák feladatai veszélyhelyzet idején">
+                        <img class="news-gal-tmb" src="news/200409/tmb/200409_katonai_tajekoztato_09_tmb.jpg" />
+                    </a>
+                    <a class="fancybox"
+                        href="news/200409/200409_katonai_tajekoztato_10.jpg"
+                        data-fancybox-group="katonai_tajekoztato"
+                        title="Tájékoztató - a katonák feladatai veszélyhelyzet idején">
+                        <img class="news-gal-tmb" src="news/200409/tmb/200409_katonai_tajekoztato_10_tmb.jpg" />
+                    </a>
+                </p>
+            </div>
             
             <div class="new">
                 <div class="newTitle">BURSA pályázat 2020</div>

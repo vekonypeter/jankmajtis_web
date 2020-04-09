@@ -468,6 +468,10 @@ table {
     border: 1px solid #48A4FF;
 }
 
+.news-gal {
+    text-align: left;
+}
+
 .news-gal-tmb {
     height: 90px;
     max-width: 130px;
