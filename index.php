@@ -130,8 +130,63 @@ include('header.php');
         </div>
 
         <div class="contentContainer">
+            
+            <div class="new">
+                <div class="newTitle">BURSA pályázat 2020</div>
+                <i class="newDate">2019.10.04.</i>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="news/191004/191004_bursa2020_felh.pdf" target="_blank">Pályázati felhívás</a>
+                    </li>
+                    <li>
+                        <a href="news/191004/191004_bursa2020_a.pdf" target="_blank">A típusú pályázati kiírás</a>
+                    </li>
+                    <li>
+                        <a href="news/191004/191004_bursa2020_b.pdf" target="_blank">B típusú pályázati kiírás</a>
+                    </li>
+                </ul>
+            </div>
         
-        <div class="new">
+            <div class="new">
+                <div class="newTitle">Jánkmajtis Helyi Választási Iroda vezetőjétől</div>
+                <i class="newDate">2019.08.08.</i>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="news/190808/190808_szav_dar.pdf" target="_blank">Szavazóköri és körzetadatok felülvizsgálata - Darnó</a>
+                    </li>
+                    <li>
+                        <a href="news/190808/190808_szav_jm.pdf" target="_blank">Szavazóköri és körzetadatok felülvizsgálata - Jánkmajtis</a>
+                    </li>
+                    <li>
+                        <a href="news/190808/190808_pm_dar.pdf" target="_blank">Polgármesterjelölt állításhoz szükséges ajánlások számának meghatározása - Darnó</a>
+                    </li>
+                    <li>
+                        <a href="news/190808/190808_pm_jm.pdf" target="_blank">Polgármesterjelölt állításhoz szükséges ajánlások számának meghatározása - Jánkmajtis</a>
+                    </li>
+                    <li>
+                        <a href="news/190808/190808_kepv_dar.pdf" target="_blank">Egyéni listás és egyéni választókerületi jelölt állításhoz szükséges ajánlások számának  meghatározása - Darnó</a>
+                    </li>
+                    <li>
+                        <a href="news/190808/190808_kepv_jm.pdf" target="_blank">Egyéni listás és egyéni választókerületi jelölt állításhoz szükséges ajánlások számának  meghatározása - Jánkmajtis</a>
+                    </li>
+                </ul>
+            </div>
+
+            
+            <div class="new">
+                <div class="newTitle">Roma tábor</div>
+                <i class="newDate">2019.07.21.</i>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="news/190721/190721_roma_tabor.pdf" target="_blank">Tájékoztató</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="new">
                 <div class="newTitle">Jánkmajtis Helyi Választási Iroda vezetőjétől</div>
                 <i class="newDate">2019.02.07.</i>
                 <p>Kapcsolódó dokumentum(ok):</p>
@@ -242,194 +297,6 @@ include('header.php');
                     </li>
                     <li>
                         <a href="news/180110/180110_ovodapedagogus.pdf" target="_blank">Óvodapedagógus munkakör</a>
-                    </li>
-                </ul>
-            </div>
-
-            <div class="new">
-                <div class="newTitle">Jánkmajtis KSE - TAO Sportfejlesztési Program</div>
-                <i class="newDate">2017.12.05.</i>
-                <p>Kapcsolódó dokumentum(ok):</p>
-                <ul class="documentList">
-                    <li>
-                        <a href="news/171205/171205_tao_jovahagyo_hatarozat.pdf" target="_blank">Jóváhagyó határozat</a>
-                    </li>
-                    <li>
-                        <a href="news/171205/171205_tao_sportfejlesztesi_program.pdf" target="_blank">Sportfejlesztési program</a>
-                    </li>
-                </ul>
-            </div>
-
-            <div class="new">
-                <div class="newTitle">Holokauszt megemlékezés</div>
-                <i class="newDate">2017.12.01.</i>
-                <p>Kapcsolódó dokumentum(ok):</p>
-                <ul class="documentList">
-                    <li>
-                        <a href="news/171201/171201_romaholokauszt.pdf" target="_blank">Ismertető</a>
-                    </li>
-                </ul>
-            </div>
-
-            <div class="new">
-                <div class="newTitle">Lakossági Fórum meghívó</div>
-                <i class="newDate">2017.11.29.</i>
-                <p>Kapcsolódó dokumentum(ok):</p>
-                <ul class="documentList">
-                    <li>
-                        <a href="news/171129/171129_lakossagi_forum_meghivo.pdf" target="_blank">Meghívó</a>
-                    </li>
-                </ul>
-            </div>
-
-            <div class="new">
-                <div class="newTitle">III. Márton Napi Ludasságok</div>
-                <i class="newDate">2017.11.09.</i>
-                <p>
-                    <br /> Jánkmajtis község önkormányzata egy nagyon sikeres rendezvényen van túl. Rengeteg érdeklődő látogatott
-                    el a III. Márton Napi Ludasságokra, ahol nemcsak a gasztronómiáé, a fenséges libás ételeké volt a főszerep,
-                    hanem szuper koncertek is várták az idelátogatókat. Együtt énekelhetett a közönség Magyar Rózsával, Bódi
-                    Gusztival és Margóval, együtt tomboltak a rajongók Pápai Joci Origo dalára és Zoltán Erika koncertjére.
-                    <br />
-                    <br /> Jövőre ugyanitt!
-                    <br />
-                    <br />
-                    <a class="fancybox" href="news/171109/171109_ludassagok_01.jpg" data-fancybox-group="ludassagok3" title="III. Márton Napi Ludasságok">
-                        <img class="news-gal-tmb" src="news/171109/171109_ludassagok_th_01.jpg" alt="III. Márton Napi Ludasságok" />
-                    </a>
-                    <a class="fancybox" href="news/171109/171109_ludassagok_02.jpg" data-fancybox-group="ludassagok3" title="III. Márton Napi Ludasságok">
-                        <img class="news-gal-tmb" src="news/171109/171109_ludassagok_th_02.jpg" alt="III. Márton Napi Ludasságok" />
-                    </a>
-                    <a class="fancybox" href="news/171109/171109_ludassagok_03.jpg" data-fancybox-group="ludassagok3" title="III. Márton Napi Ludasságok">
-                        <img class="news-gal-tmb" src="news/171109/171109_ludassagok_th_03.jpg" alt="III. Márton Napi Ludasságok" />
-                    </a>
-                    <a class="fancybox" href="news/171109/171109_ludassagok_04.jpg" data-fancybox-group="ludassagok3" title="III. Márton Napi Ludasságok">
-                        <img class="news-gal-tmb" src="news/171109/171109_ludassagok_th_04.jpg" alt="III. Márton Napi Ludasságok" />
-                    </a>
-                    <a class="fancybox" href="news/171109/171109_ludassagok_09.jpg" data-fancybox-group="ludassagok3" title="III. Márton Napi Ludasságok">
-                        <img class="news-gal-tmb" src="news/171109/171109_ludassagok_th_09.jpg" alt="III. Márton Napi Ludasságok" />
-                    </a>
-                    <a class="fancybox" href="news/171109/171109_ludassagok_06.jpg" data-fancybox-group="ludassagok3" title="III. Márton Napi Ludasságok">
-                        <img class="news-gal-tmb" src="news/171109/171109_ludassagok_th_06.jpg" alt="III. Márton Napi Ludasságok" />
-                    </a>
-                    <a class="fancybox" href="news/171109/171109_ludassagok_07.jpg" data-fancybox-group="ludassagok3" title="III. Márton Napi Ludasságok">
-                        <img class="news-gal-tmb" src="news/171109/171109_ludassagok_th_07.jpg" alt="III. Márton Napi Ludasságok" />
-                    </a>
-                    <a class="fancybox" href="news/171109/171109_ludassagok_08.jpg" data-fancybox-group="ludassagok3" title="III. Márton Napi Ludasságok">
-                        <img class="news-gal-tmb" src="news/171109/171109_ludassagok_th_08.jpg" alt="III. Márton Napi Ludasságok" />
-                    </a>
-                    <a class="fancybox" href="news/171109/171109_ludassagok_05.jpg" data-fancybox-group="ludassagok3" title="III. Márton Napi Ludasságok">
-                        <img class="news-gal-tmb" src="news/171109/171109_ludassagok_th_05.jpg" alt="III. Márton Napi Ludasságok" />
-                    </a>
-                </p>
-            </div>
-
-            <div class="new">
-                <div class="newTitle">2. Jánkmajtisi Roma Kulturális Nap</div>
-                <i class="newDate">2017.11.03.</i>
-                <p>Kapcsolódó dokumentum(ok):</p>
-                <ul class="documentList">
-                    <li>
-                        <a href="news/171103/171103_romakulturalis.pdf" target="_blank">Ismertető</a>
-                    </li>
-                </ul>
-            </div>
-
-            <div class="new">
-                <div class="newTitle">BURSA pályázat 2018</div>
-                <i class="newDate">2017.10.03.</i>
-                <p>Kapcsolódó dokumentum(ok):</p>
-                <ul class="documentList">
-                    <li>
-                        <a href="news/171003/171003_bursa2018_felh.docx" target="_blank">Pályázati felhívás</a>
-                    </li>
-                    <li>
-                        <a href="news/171003/171003_bursa2018_a.docx" target="_blank">A típusú pályázati kiírás</a>
-                    </li>
-                    <li>
-                        <a href="news/171003/171003_bursa2018_b.docx" target="_blank">B típusú pályázati kiírás</a>
-                    </li>
-                </ul>
-            </div>
-
-            <div class="new">
-                <div class="newTitle">Roma tábor</div>
-                <i class="newDate">2017.07.30.</i>
-                <p>Kapcsolódó dokumentum(ok):</p>
-                <ul class="documentList">
-                    <li>
-                        <a href="news/170730/170730_romatabor.pdf" target="_blank">Ismertető</a>
-                    </li>
-                </ul>
-            </div>
-
-            <div class="new">
-                <div class="newTitle">Az 1956-os forradalom és szabadságharc 60. éfordulójára emlékeztünk</div>
-                <i class="newDate">2017.05.17.</i>
-                <p>Kapcsolódó dokumentum(ok):</p>
-                <ul class="documentList">
-                    <li>
-                        <a href="news/170517/170517_1956_a_jankmajtisi_diakok_szemevel.pdf" target="_blank">1956 a jánkmajtisi diákok szemével</a>
-                    </li>
-                    <li>
-                        <a href="news/170517/170517_felavatasra_kerult_az_1956os_emlekmu.pdf" target="_blank">Felavatásra került az 1956-os emlékmű községünkben</a>
-                    </li>
-                </ul>
-            </div>
-
-            <div class="new">
-                <div class="newTitle">Iparűzési adó bevallás 2016</div>
-                <i class="newDate">2017.05.11.</i>
-                <p>Kapcsolódó dokumentum(ok):</p>
-                <ul class="documentList">
-                    <li>
-                        <a href="news/170511/170511_iparado17_tajekoztato.doc" target="_blank">Tájékoztató</a>
-                    </li>
-                    <li>
-                        <a href="news/170511/170511_iparado17_bevallas.doc" target="_blank">Bevallási űrlap</a>
-                    </li>
-                    <li>
-                        <a href="news/170511/170511_iparado17_bejelentkezes_valtozasbejelentes.doc" target="_blank">Bejelentkezés,változás-bejelentés űrlap</a>
-                    </li>
-                </ul>
-
-            </div>
-
-            <div class="new">
-                <div class="newTitle">Telepengedély nyilvántartás</div>
-                <i class="newDate">2017.01.11.</i>
-                <p>A telepengedély nyilvántartás megtekinthető az
-                    <a href="news/170111/170111_telepengedely_bejelentes.pdf" target="_blank"> itt található linkre kattintva</a>
-                </p>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div id="JmModal" class="w3-modal" onclick="closeModal(event, 'Jm')">
-    <div class="w3-modal-content" style="border: 3px solid #666666">
-        <div class="w3-container  contentContainer" style="margin: 0px;">
-            <span onclick="closeModal(event, 'Jm')" class="w3-closebtn">&times;</span>
-            <br />
-            <div class="new">
-                <div class="newTitle">Jánkmajtis Község Településrendezési Tervének módosításához</div>
-                <i class="newDate">2016.11.28.</i>
-                <p>Kapcsolódó dokumentum(ok):</p>
-                <ul class="documentList">
-                    <li>
-                        <a href="news/161128/161128_jm_tr2_veldok.pdf" target="_blank">Jánkmajtis RT módosítás 2016 - Véleményezési dokumentáció</a>
-                    </li>
-                    <li>
-                        <a href="news/161128/161128_jm_tr2_mell01_bt4000hat.pdf" target="_blank">1. melléklet - Jánkmajtis BT 4000 - hatályos</a>
-                    </li>
-                    <li>
-                        <a href="news/161128/161128_jm_tr2_mell02_bt4000mod.pdf" target="_blank">2. melléklet - Jánkmajtis BT 4000 - módosított</a>
-                    </li>
-                    <li>
-                        <a href="news/161128/161128_jm_tr2_mell03_kt8000hat.pdf" target="_blank">3. melléklet - Jánkmajtis KT 8000 - hatályos</a>
-                    </li>
-                    <li>
-                        <a href="news/161128/161128_jm_tr2_mell04_kt8000mod.pdf" target="_blank">4. melléklet - Jánkmajtis KT 8000 - módosított</a>
                     </li>
                 </ul>
             </div>
