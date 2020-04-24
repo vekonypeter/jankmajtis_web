@@ -179,7 +179,7 @@ function onVodaSubmit(e) {
    
     if (hash === "b777b38f200b690d8c15642d343f861e") {
         clearVodaAlert();
-        window.open("vodafone/list1.pdf", "_blank");
+        window.open("https://www.vodafone.hu/documents/20143/634102/CorporateArlista.pdf", "_blank");
     }
     else {
         sendVodaAlert("Helytelen jelszó!");
