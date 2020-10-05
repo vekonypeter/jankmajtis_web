@@ -132,6 +132,23 @@ include('header.php');
         <div class="contentContainer">
 
             <div class="new">
+                <div class="newTitle">BURSA pályázat 2021</div>
+                <i class="newDate">2020.10.05.</i>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="news/201005/201005_bursa2021_felh.pdf" target="_blank">Pályázati felhívás</a>
+                    </li>
+                    <li>
+                        <a href="news/201005/201005_bursa2021_a.pdf" target="_blank">A típusú pályázati kiírás</a>
+                    </li>
+                    <li>
+                        <a href="news/201005/201005_bursa2021_b.pdf" target="_blank">B típusú pályázati kiírás</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="new">
                 <div class="newTitle">Tájékoztató - a katonák feladatai veszélyhelyzet idején</div>
                 <i class="newDate">2020.04.09.</i>
                 <p>Kapcsolódó dokumentum(ok):</p>
