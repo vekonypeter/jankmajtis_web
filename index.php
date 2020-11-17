@@ -131,6 +131,92 @@ include('header.php');
 
         <div class="contentContainer">
 
+        <div class="new">
+                <div class="newTitle">Honvédségi felhívás</div>
+                <i class="newDate">2020.11.17.</i>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="news/201117/201117_katonai_felhivas.pdf" target="_blank">Felhívás</a>
+                    </li>
+                </ul>
+                <p>Kapcsolódó képek:</p>
+                <p class="news-gal">
+                    <a class="fancybox"
+                        href="news/201117/201117_katonai_felhivas_01.jpeg"
+                        data-fancybox-group="katonai_felhivas"
+                        title="Honvédségi felhívás">
+                        <img class="news-gal-tmb" src="news/201117/tmb/201117_katonai_felhivas_01_tmb.jpeg" />
+                    </a>
+                    <a class="fancybox"
+                        href="news/201117/201117_katonai_felhivas_02.jpg"
+                        data-fancybox-group="katonai_felhivas"
+                        title="Honvédségi felhívás">
+                        <img class="news-gal-tmb" src="news/201117/tmb/201117_katonai_felhivas_02_tmb.jpg" />
+                    </a>
+                    <a class="fancybox"
+                        href="news/201117/201117_katonai_felhivas_03.jpeg"
+                        data-fancybox-group="katonai_felhivas"
+                        title="Honvédségi felhívás">
+                        <img class="news-gal-tmb" src="news/201117/tmb/201117_katonai_felhivas_03_tmb.jpeg" />
+                    </a>
+                    <a class="fancybox"
+                        href="news/201117/201117_katonai_felhivas_04.jpg"
+                        data-fancybox-group="katonai_felhivas"
+                        title="Honvédségi felhívás">
+                        <img class="news-gal-tmb" src="news/201117/tmb/201117_katonai_felhivas_04_tmb.jpg" />
+                    </a>
+                    <a class="fancybox"
+                        href="news/201117/201117_katonai_felhivas_05.jpg"
+                        data-fancybox-group="katonai_felhivas"
+                        title="Honvédségi felhívás">
+                        <img class="news-gal-tmb" src="news/201117/tmb/201117_katonai_felhivas_05_tmb.jpg" />
+                    </a>
+                    <a class="fancybox"
+                        href="news/201117/201117_katonai_felhivas_06.jpg"
+                        data-fancybox-group="katonai_felhivas"
+                        title="Honvédségi felhívás">
+                        <img class="news-gal-tmb" src="news/201117/tmb/201117_katonai_felhivas_06_tmb.jpg"  />
+                    </a>
+                    <a class="fancybox"
+                        href="news/201117/201117_katonai_felhivas_07.jpg"
+                        data-fancybox-group="katonai_felhivas"
+                        title="Honvédségi felhívás">
+                        <img class="news-gal-tmb" src="news/201117/tmb/201117_katonai_felhivas_07_tmb.jpg" />
+                    </a>
+                    <a class="fancybox"
+                        href="news/201117/201117_katonai_felhivas_08.jpg"
+                        data-fancybox-group="katonai_felhivas"
+                        title="Honvédségi felhívás">
+                        <img class="news-gal-tmb" src="news/201117/tmb/201117_katonai_felhivas_08_tmb.jpg" />
+                    </a>
+                    <a class="fancybox"
+                        href="news/201117/201117_katonai_felhivas_09.jpg"
+                        data-fancybox-group="katonai_felhivas"
+                        title="Honvédségi felhívás">
+                        <img class="news-gal-tmb" src="news/201117/tmb/201117_katonai_felhivas_09_tmb.jpg" />
+                    </a>
+                    <a class="fancybox"
+                        href="news/201117/201117_katonai_felhivas_10.jpg"
+                        data-fancybox-group="katonai_felhivas"
+                        title="Honvédségi felhívás">
+                        <img class="news-gal-tmb" src="news/201117/tmb/201117_katonai_felhivas_10_tmb.jpg" />
+                    </a>
+                    <a class="fancybox"
+                        href="news/201117/201117_katonai_felhivas_11.jpg"
+                        data-fancybox-group="katonai_felhivas"
+                        title="Honvédségi felhívás">
+                        <img class="news-gal-tmb" src="news/201117/tmb/201117_katonai_felhivas_11_tmb.jpg" />
+                    </a>
+                    <a class="fancybox"
+                        href="news/201117/201117_katonai_felhivas_12.jpg"
+                        data-fancybox-group="katonai_felhivas"
+                        title="Honvédségi felhívás">
+                        <img class="news-gal-tmb" src="news/201117/tmb/201117_katonai_felhivas_12_tmb.jpg" />
+                    </a>
+                </p>
+            </div>
+
             <div class="new">
                 <div class="newTitle">BURSA pályázat 2021</div>
                 <i class="newDate">2020.10.05.</i>
