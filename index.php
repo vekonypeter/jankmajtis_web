@@ -132,6 +132,17 @@ include('header.php');
         <div class="contentContainer">
 
         <div class="new">
+                <div class="newTitle">Óvodai intézményvezető állás</div>
+                <i class="newDate">2021.01.10.</i>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="news/210110/210110_ovoda_intezmenyvezeto_allas.pdf" target="_blank">Álláshirdetés</a>
+                    </li>
+                </ul>
+            </div>
+
+        <div class="new">
                 <div class="newTitle">Honvédségi felhívás</div>
                 <i class="newDate">2020.11.17.</i>
                 <p>Kapcsolódó dokumentum(ok):</p>
@@ -230,6 +241,28 @@ include('header.php');
                     </li>
                     <li>
                         <a href="news/201005/201005_bursa2021_b.pdf" target="_blank">B típusú pályázati kiírás</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="new">
+                <div class="newTitle">Roma Kulturális Nap</div>
+                <i class="newDate">2020.09.19.</i>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="news/200919/200919_roma_kultura.pdf" target="_blank">Összefoglaló</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="new">
+                <div class="newTitle">Roma tábor</div>
+                <i class="newDate">2020.07.19.</i>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="news/200719/200719_roma_tabor.pdf" target="_blank">Tájékoztató</a>
                     </li>
                 </ul>
             </div>
