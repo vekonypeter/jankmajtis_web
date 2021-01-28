@@ -149,7 +149,7 @@
             <div class="subMenu">
                 <div class="subMenuContainer">
                     <ul>
-                        <li><i><a href="documents/vallalkozasok.pdf" target="_blank">Jánkmajtison működő vállalkozások (pdf)</a></i>
+                        <li><i><a href="./docs/vallalkozasok.pdf" target="_blank">Jánkmajtison működő vállalkozások (pdf)</a></i>
                         </li>
                     </ul>
                 </div>
@@ -170,6 +170,8 @@
                         <li><a href="./napelem.php">Napelemes rendszer telepítése</a>
                         </li>
                         <li><a href="./ovodafejlesztes.php">Napközi Otthonos Óvoda fejlesztése</a>
+                        </li>
+                        <li><a href="./docs/GondKozpKonyhaFejlesztes.pdf" target="_blank">Gondozási Központ konyhájának fejlesztése (pdf)</a>
                         </li>
                     </ul>
                 </div>
