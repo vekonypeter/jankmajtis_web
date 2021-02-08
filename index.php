@@ -38,6 +38,10 @@ include('header.php');
                 <img src="images_jpg/GondKozpKonyhaFejlesztes_tabla.jpg" alt="A Gondozási Központ konyhájának fejlesztése Jánkmajtison" class="sideBarElement sideBarImage sideBarSelectable">
             </a>
 
+            <a class="fancybox" href="images_jpg/KoztemetoFejlesztes_tabla.jpg" data-fancybox-group="gallery" title="Köztemető fejlesztése Jánkmajtison">
+                <img src="images_jpg/KoztemetoFejlesztes_tabla.jpg" alt="Köztemető fejlesztése Jánkmajtison" class="sideBarElement sideBarImage sideBarSelectable">
+            </a>
+
             <a href="vodafone.php" class="sideBarElement sideBarVoda sideBarSelectable">
                 <img src="images_png/vodafonelogo.png" alt="Vodafone">
                 <strong>Kormányzati csomagos készülékárlista</strong>

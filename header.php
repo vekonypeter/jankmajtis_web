@@ -173,6 +173,8 @@
                         </li>
                         <li><a href="./docs/GondKozpKonyhaFejlesztes.pdf" target="_blank">Gondozási Központ konyhájának fejlesztése (pdf)</a>
                         </li>
+                        <li><a href="./docs/KoztemetoFejlesztes.pdf" target="_blank">Köztemető fejlesztése (pdf)</a>
+                        </li>
                     </ul>
                 </div>
             </div>
