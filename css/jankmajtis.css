@@ -238,11 +238,6 @@ table {
     padding-right: 20px;
 }
 
-.new > ul {
-    padding-left: 0px;
-    list-style-position: inside;
-}
-
 .newTitle {
     background-color: #eaeaea;
     border: 1px #999999 solid;
@@ -258,6 +253,7 @@ table {
 }
 
 .documentList {
+    padding-left: 20px;
     list-style: square outside;
     line-height: 1.8;
 }
