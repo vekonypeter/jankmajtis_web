@@ -140,15 +140,40 @@ include('header.php');
         <div class="contentContainer">
 
         <div class="new">
-                <div class="newTitle">Óvodai intézményvezető állás</div>
-                <i class="newDate">2021.01.10.</i>
-                <p>Kapcsolódó dokumentum(ok):</p>
-                <ul class="documentList">
-                    <li>
-                        <a href="news/210110/210110_ovoda_intezmenyvezeto_allas.pdf" target="_blank">Álláshirdetés</a>
-                    </li>
-                </ul>
-            </div>
+            <div class="newTitle">Gyermekvédelmi ellátásokhoz kapcsolódó formanyomtatványok</div>
+            <i class="newDate">2021.05.24.</i>
+            <p>Kapcsolódó dokumentum(ok):</p>
+            <ul class="documentList">
+                <li>
+                    <a href="news/210524/210524_formanyomtatvany_1.pdf" target="_blank">Környezettanulmány hátrányos helyzet, halmozottan hátrányos helyzet megállapításához</a>
+                </li>
+                <li>
+                    <a href="news/210524/210524_formanyomtatvany_2.pdf" target="_blank">Formanyomtatvány a rendszeres gyermekvédelmi kedvezmény megállapításához és felülvizsgálatához, valamint a hátrányos, halmozottan hátrányos helyzet fennállásának megállapításához</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="new">
+            <div class="newTitle">Óvodai intézményvezető állás</div>
+            <i class="newDate">2021.05.24.</i>
+            <p>Kapcsolódó dokumentum(ok):</p>
+            <ul class="documentList">
+                <li>
+                    <a href="news/210524/210524_ovoda_intezmenyvezeto_allas.pdf" target="_blank">Álláshirdetés</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="new">
+            <div class="newTitle">Óvodai intézményvezető állás</div>
+            <i class="newDate">2021.01.10.</i>
+            <p>Kapcsolódó dokumentum(ok):</p>
+            <ul class="documentList">
+                <li>
+                    <a href="news/210110/210110_ovoda_intezmenyvezeto_allas.pdf" target="_blank">Álláshirdetés</a>
+                </li>
+            </ul>
+        </div>
 
         <div class="new">
                 <div class="newTitle">Honvédségi felhívás</div>
