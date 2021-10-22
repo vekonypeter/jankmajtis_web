@@ -140,6 +140,17 @@ include('header.php');
         <div class="contentContainer">
 
         <div class="new">
+            <div class="newTitle">Pályázati felhívás - Önkormányzati tulajdonú ingatlan értékesítése</div>
+            <i class="newDate">2021.10.22.</i>
+            <p>Kapcsolódó dokumentum(ok):</p>
+            <ul class="documentList">
+                <li>
+                    <a href="news/211022/211022_onkormanyzat_ingatlan_ertekesites.pdf" target="_blank">Pályázati kiírás</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="new">
             <div class="newTitle">Gyermekvédelmi ellátásokhoz kapcsolódó formanyomtatványok</div>
             <i class="newDate">2021.05.24.</i>
             <p>Kapcsolódó dokumentum(ok):</p>
