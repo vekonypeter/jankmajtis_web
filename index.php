@@ -151,6 +151,28 @@ include('header.php');
         </div>
 
         <div class="new">
+            <div class="newTitle">Roma Kulturális Nap</div>
+            <i class="newDate">2021.08.07.</i>
+            <p>Kapcsolódó dokumentum(ok):</p>
+            <ul class="documentList">
+                <li>
+                    <a href="news/210807/210807_roma_kultura_szakmai_beszamolo.pdf" target="_blank">Szakmai beszámoló</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="new">
+            <div class="newTitle">Roma tábor</div>
+            <i class="newDate">2021.07.20.</i>
+            <p>Kapcsolódó dokumentum(ok):</p>
+            <ul class="documentList">
+                <li>
+                    <a href="news/210720/210720_roma_tabor_szakmai_beszamolo.pdf" target="_blank">Szakmai beszámoló</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="new">
             <div class="newTitle">Gyermekvédelmi ellátásokhoz kapcsolódó formanyomtatványok</div>
             <i class="newDate">2021.05.24.</i>
             <p>Kapcsolódó dokumentum(ok):</p>
