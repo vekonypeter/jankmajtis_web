@@ -42,6 +42,10 @@ include('header.php');
                 <img src="images_jpg/KoztemetoFejlesztes_tabla.jpg" alt="Köztemető fejlesztése Jánkmajtison" class="sideBarElement sideBarImage sideBarSelectable">
             </a>
 
+            <a class="fancybox" href="images_jpg/BolcsodeKialakitas_tabla.jpg" data-fancybox-group="gallery" title="Bölcsőde kialakítása Jánkmajtison">
+                <img src="images_jpg/BolcsodeKialakitas_tabla.jpg" alt="Bölcsőde kialakítása Jánkmajtison" class="sideBarElement sideBarImage sideBarSelectable">
+            </a>
+
             <a class="fancybox" href="images_jpg/OrvRendFelujitas_tabla.jpg" data-fancybox-group="gallery" title="Orvosi Rendelő felújítása Jánkmajtison">
                 <img src="images_jpg/OrvRendFelujitas_tabla.jpg" alt="Orvosi Rendelő felújítása Jánkmajtison" class="sideBarElement sideBarImage sideBarSelectable">
             </a>
