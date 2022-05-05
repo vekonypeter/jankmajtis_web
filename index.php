@@ -148,6 +148,23 @@ include('header.php');
         <div class="contentContainer">
 
         <div class="new">
+            <div class="newTitle">NAK választás</div>
+            <i class="newDate">2022.05.05.</i>
+            <p class="news-gal">
+                <a class="fancybox"
+                    href="news/2022-05-05/nak_valasztas.jpeg"
+                    data-fancybox-group="nak_valasztas"
+                    title="NAK választás">
+                    <img
+                        class="news-gal-tmb"
+                        style="max-width: 200px; height: 282px"
+                        src="news/2022-05-05/nak_valasztas_tmb.jpeg"
+                    />
+                </a>
+            </p>
+        </div>
+
+        <div class="new">
             <div class="newTitle">Pályázati felhívás - Önkormányzati tulajdonú ingatlan értékesítése</div>
             <i class="newDate">2021.10.22.</i>
             <p>Kapcsolódó dokumentum(ok):</p>
