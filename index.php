@@ -148,6 +148,17 @@ include('header.php');
         <div class="contentContainer">
 
         <div class="new">
+            <div class="newTitle">Pályázati felhívás óvodapedagógus munkakör betöltésére</div>
+            <i class="newDate">2022.06.13.</i>
+            <p>Kapcsolódó dokumentum(ok):</p>
+            <ul class="documentList">
+                <li>
+                    <a href="news/220613/ovodapedagogus_palyazat.pdf" target="_blank">Pályázati kiírás</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="new">
             <div class="newTitle">NAK választás</div>
             <i class="newDate">2022.05.05.</i>
             <p class="news-gal">
