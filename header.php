@@ -53,7 +53,6 @@
                 <div class="menuBtn subbedMenu" onclick="submenu(5)">Szálláshelyek</div>
                 <div class="menuBtn subbedMenu" onclick="submenu(6)">Pályázatok</div>
                 <a href="ASP.html" target="_blank"><div class="menuBtn">ASP Központ</div></a>
-                <div class="menuBtn subbedMenu" onclick="submenu(7)">EFOP-1.5.3-16-2017-00112</div>
             
                 <div id="burger" onclick="mainmenu()">
                     <span class="burgerLine"></span>
@@ -83,8 +82,6 @@
                     <li onclick="submenu(6)"><a>Pályázatok</a>
                     </li>
                     <li><a href="ASP.html" target="_blank">ASP Központ</a>
-                    </li>
-                    <li onclick="submenu(7)"><a>EFOP-1.5.3-16-2017-00112</a>
                     </li>
                 </ul>
             </div>
@@ -178,16 +175,3 @@
                     </ul>
                 </div>
             </div>
-
-            <div class="subMenu">
-                <div class="subMenuContainer">
-                    <ul>
-                        <li><i><a href="docs/190619_efop-1.5.3-16-2017-00112.pdf" target="_blank">Projekt bemutató (pdf, feltöltve: 2019.06.19.)</a></i>
-                        </li>
-                        <li><i><a href="docs/190715_palyazati_felhivas.pdf" target="_blank">Pályázati felhívás (pdf, feltöltve: 2019.07.15.)</a></i>
-                        </li>
-                        <li><i><a href="docs/190715_palyazati_adatlap.pdf" target="_blank">Pályázati adatlap (pdf, feltöltve: 2019.07.15.)</a></i>
-                        </li>
-                    </ul>
-                </div>
-            </div>      

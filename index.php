@@ -26,6 +26,16 @@ include('header.php');
                 <br> kívánunk!
             </div>
 
+            <a href="top-141-19-sb1-2019-00040.php" class="sideBarElement sideBarTender">
+                <div class="sideBarTenderId">TOP-1.4.1-19-SB1-2019-00040</div>
+                <div class="sideBarTenderTitle">Bölcsőde kialakítása Jánkmajtison</div>
+            </a>
+
+            <a href="efop-153-16-2017-00112.php" class="sideBarElement sideBarTender">
+                <div class="sideBarTenderId">EFOP-1.5.3-16-2017-00112</div>
+                <div class="sideBarTenderTitle">Humán szolgáltatások fejlesztése Fehérgyarmaton és térségében</div>
+            </a>
+
             <a class="fancybox" href="images_jpg/OvodaFejlesztes_tabla-B.jpg" data-fancybox-group="gallery" title="Napközi Otthonos Óvoda fejlesztése Jánkmajtison">
                 <img src="images_jpg/OvodaFejlesztes_tabla-B.jpg" alt="Óvodafejlesztési Projekt" class="sideBarElement sideBarImage sideBarSelectable">
             </a>
