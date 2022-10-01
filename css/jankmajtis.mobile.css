@@ -9,6 +9,7 @@
     #sideleft {
         width: 100%;
         float: none;
+        padding-top: 20px;
     }
     #sideright {
         overflow: visible;
@@ -69,11 +70,16 @@
     #sideright {
         width: 100%;
     }
+    #pageName {
+        margin-top: unset;
+    }
     #sideBarGrey {
         width: 95%;
+        background-color: #dcdcdc;
+        border: 1px #a9a9a9 solid;
         margin-left: auto;
         margin-right: auto;
-        padding-bottom: 0px;
+        padding-bottom: 10px;
     }
     .sideBarElement {
         width: 100%;
@@ -105,9 +111,6 @@
     #headerCaption-mobile>h3 {
         font-family: BookmanOldStyle, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
         line-height: 1.0;
-    }
-    #sideBarGrey > *:last-child {
-        padding-bottom: 15px;
     }
 }
 

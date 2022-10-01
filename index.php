@@ -47,14 +47,16 @@ include('header.php');
             </a>
 
             <a class="fancybox" href="images_jpg/OrvRendFelujitas_tabla.jpg" data-fancybox-group="gallery" title="Orvosi Rendelő felújítása Jánkmajtison">
-                <img src="images_jpg/OrvRendFelujitas_tabla.jpg" alt="Orvosi Rendelő felújítása Jánkmajtison" class="sideBarElement sideBarImage sideBarSelectable">
+                <img src="images_jpg/OrvRendFelujitas_tabla.jpg"
+                    alt="Orvosi Rendelő felújítása Jánkmajtison"
+                    class="sideBarElement sideBarImage sideBarSelectable"
+                    style="height:unset;">
             </a>
 
             <a href="vodafone.php" class="sideBarElement sideBarVoda sideBarSelectable">
                 <img src="images_png/vodafonelogo.png" alt="Vodafone">
                 <strong>Kormányzati csomagos készülékárlista</strong>
             </a>
-            
         </div>
     </div>
 
