@@ -212,11 +212,12 @@ table {
 ********************/
 
 .containerCaption {
-    padding: 20px 0px 10px 0px;
-    text-align: right;
+    padding: 20px 0px 0px 0px;
+    text-align: center;
     font-weight: bold;
     margin-left: auto;
     margin-right: auto;
+    text-decoration: underline;
 }
 
 .contentContainer {
@@ -224,8 +225,10 @@ table {
     border: 1px #a9a9a9 solid;
     text-align: left;
     min-width: 200px;
-    margin-left: auto;
+    margin-top: 20px;
     margin-right: auto;
+    margin-bottom: 20px;
+    margin-left: auto;
 }
 
 .new {
@@ -326,6 +329,7 @@ table {
 }
 
 .sideBarTender {
+    max-width: 300px;
     background-color: #F5F5F5;
     border: 1px #666666 solid;
     cursor: pointer;

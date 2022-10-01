@@ -73,9 +73,7 @@ include('header.php');
     <div id="sideright">
 
         <div class="containerCaption">
-            <h5>
-                <u>Címek, elérhetőségek</u>
-            </h5>
+            <h5>Címek, elérhetőségek</h5>
         </div>
 
         <div class="contentContainer">
@@ -152,9 +150,7 @@ include('header.php');
 
 
         <div class="containerCaption">
-            <h5>
-                <u>Aktualitások</u>
-            </h5>
+            <h5>Aktualitások</h5>
         </div>
 
         <div class="contentContainer">
