@@ -62,10 +62,24 @@ include('header.php');
                     class="sideBarElement sideBarImage sideBarSelectable"
                     style="height:unset;">
             </a>
-
+            
             <a class="fancybox" href="images_jpg/OrvRendFelujitas_tabla.jpg" data-fancybox-group="gallery" title="Orvosi Rendelő felújítása Jánkmajtison">
                 <img src="images_jpg/OrvRendFelujitas_tabla.jpg"
-                    alt="Orvosi Rendelő felújítása Jánkmajtison"
+                alt="Orvosi Rendelő felújítása Jánkmajtison"
+                class="sideBarElement sideBarImage sideBarSelectable"
+                style="height:unset;">
+            </a>
+            
+            <a class="fancybox" href="images_jpg/JatszoterDarno_tabla.jpg" data-fancybox-group="gallery" title="Közterületi játszóterek fejlesztése Darnón">
+                <img src="images_jpg/JatszoterDarno_tabla.jpg"
+                    alt="Közterületi játszóterek fejlesztése Darnón"
+                    class="sideBarElement sideBarImage sideBarSelectable"
+                    style="height:unset;">
+            </a>
+
+            <a class="fancybox" href="images_jpg/MFP_tabla.jpg" data-fancybox-group="gallery" title="Magyar Falu Program">
+                <img src="images_jpg/MFP_tabla.jpg"
+                    alt="Magyar Falu Program"
                     class="sideBarElement sideBarImage sideBarSelectable"
                     style="height:unset;">
             </a>
