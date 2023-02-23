@@ -27,7 +27,10 @@ include('header.php');
                 <div class="newTitle">Bölcsőde kialakítása Jánkmajtison</div>
                 <div class="col-12">
                     <p>
-                        Projekt azonosítója: <strong>TOP-1.4.1-19-SB1-2019-00040</strong>
+                        <strong>Projekt azonosítója: </strong>TOP-1.4.1-19-SB1-2019-00040
+                    </p>
+                    <p>
+                        <strong>Sajtóközlemény 2022.12.31: </strong><a href="docs/bolcsode_sajtokozlemeny_2022-12-31.pdf" target="_blank" class="visibleLink">megtekintés (pdf)</a>
                     </p>
                 </div>
                 <div class="col-12">
