@@ -56,6 +56,13 @@ include('header.php');
                 <img src="images_jpg/BolcsodeKialakitas_tabla.jpg" alt="Bölcsőde kialakítása Jánkmajtison" class="sideBarElement sideBarImage sideBarSelectable">
             </a>
 
+            <a class="fancybox" href="images_jpg/OvodaJatszoUdvar_tabla.jpg" data-fancybox-group="gallery" title="Óvodai játszóudvar kialakítása">
+                <img src="images_jpg/OvodaJatszoUdvar_tabla.jpg"
+                    alt="Óvodai játszóudvar kialakítása"
+                    class="sideBarElement sideBarImage sideBarSelectable"
+                    style="height:unset;">
+            </a>
+
             <a class="fancybox" href="images_jpg/TanyaGondBusz_tabla.jpg" data-fancybox-group="gallery" title="Tanyagondnoki busz beszerzése Jánkmajtison">
                 <img src="images_jpg/TanyaGondBusz_tabla.jpg"
                     alt="Tanyagondnoki busz beszerzése Jánkmajtison"
