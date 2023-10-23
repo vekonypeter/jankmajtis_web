@@ -4,6 +4,11 @@ include('header.php');
 
 <div id="content">
 
+    <a href="docs/csapadekviz_elvezetes_projekt_2023-10-10.pdf">
+        <img id="finSupportCorner" src="images_png/tamogatasok_banner_felso.png" alt="EU_MO_kormanya_Szechenyi2020">
+    </a>
+
+
     <div id="sideleft">
 
         <div id="sideBarGrey">

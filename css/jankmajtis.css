@@ -553,3 +553,14 @@ table {
     color: white;
     font-weight: bold;
 }
+
+/*******************
+ FIN. SUPPORT CORNER
+********************/
+
+#finSupportCorner {
+    position: fixed;
+    right: 0px;
+    top: 0px;
+    width: 320px;
+}
