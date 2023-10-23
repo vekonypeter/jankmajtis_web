@@ -183,6 +183,33 @@ include('header.php');
 
         <div class="contentContainer">
 
+        
+
+        <div class="new">
+            <div class="newTitle">Szolgálati lakás felújítása Jánkmajtison</div>
+            <i class="newDate">2023.10.19.</i>
+            <p>Kapcsolódó dokumentum(ok):</p>
+            <ul class="documentList">
+                <li>
+                    <a href="news/231019/szolgalati_lakas_felujitas_jm.pdf" target="_blank">Projekt összefoglaló</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="new">
+            <div class="newTitle">Jánkmajtis Helyi Választási Iroda vezetőjétől</div>
+            <i class="newDate">2023.10.18.</i>
+            <p>Kapcsolódó dokumentum(ok):</p>
+            <ul class="documentList">
+                <li>
+                    <a href="news/231018/kepv_test_letszam_darno.pdf" target="_blank">A megválasztandó önkormányzati képviselők számának megállapítása - Darnó</a>
+                </li>
+                <li>
+                    <a href="news/231018/kepv_test_letszam_jm.pdf" target="_blank">A megválasztandó önkormányzati képviselők számának megállapítása - Jánkmajtis</a>
+                </li>
+            </ul>
+        </div>
+
         <div class="new">
             <div class="newTitle">Pályázati felhívás óvodapedagógus munkakör betöltésére</div>
             <i class="newDate">2022.06.13.</i>
