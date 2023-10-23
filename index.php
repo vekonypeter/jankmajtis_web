@@ -36,6 +36,10 @@ include('header.php');
                 <div class="sideBarTenderTitle">Humán szolgáltatások fejlesztése Fehérgyarmaton és térségében</div>
             </a>
 
+            <a class="fancybox" href="images_jpg/SzolgalatiLakasFejlesztes_tabla.jpg" data-fancybox-group="gallery" title="Szolgálati lakás felújítása Jánkmajtison">
+                <img src="images_jpg/SzolgalatiLakasFejlesztes_tabla_thmb.jpg" alt="Szolgálati lakás felújítása Jánkmajtison" class="sideBarElement sideBarImage sideBarSelectable">
+            </a>
+
             <a class="fancybox" href="images_jpg/OvodaFejlesztes_tabla-B.jpg" data-fancybox-group="gallery" title="Napközi Otthonos Óvoda fejlesztése Jánkmajtison">
                 <img src="images_jpg/OvodaFejlesztes_tabla-B.jpg" alt="Óvodafejlesztési Projekt" class="sideBarElement sideBarImage sideBarSelectable">
             </a>
