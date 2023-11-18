@@ -491,6 +491,11 @@ table {
     color: #FFD700;
 }
 
+.subMenuContainer .subMenuHeader {
+    padding-left: 20px;
+    color: #272b68;
+}
+
 /*******************
        GALLERY
 ********************/

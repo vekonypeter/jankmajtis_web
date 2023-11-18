@@ -50,9 +50,9 @@
                 <a href="egyhazak.php"><div class="menuBtn">Egyházak</div></a>
                 <div class="menuBtn subbedMenu" onclick="submenu(3)">Civil szervezetek</div>
                 <div class="menuBtn subbedMenu" onclick="submenu(4)">Vállalkozások</div>
-                <div class="menuBtn subbedMenu" onclick="submenu(5)">Szálláshelyek</div>
-                <div class="menuBtn subbedMenu" onclick="submenu(6)">Pályázatok</div>
-                <a href="ASP.html" target="_blank"><div class="menuBtn">ASP Központ</div></a>
+                <div class="menuBtn subbedMenu" onclick="submenu(5)">Pályázatok</div>
+                <div class="menuBtn subbedMenu" onclick="submenu(6)">Választási információk</div>
+                <a href="ASP.html" target="_blank"><div class="menuBtn">ASP Központ&nbsp;&nbsp;<i class="fa-solid fa-solid fa-arrow-up-right-from-square" style="font-size: 0.9rem"></i></div></a>
             
                 <div id="burger" onclick="mainmenu()">
                     <span class="burgerLine"></span>
@@ -77,9 +77,9 @@
                     </li>
                     <li onclick="submenu(4)"><a>Vállalkozások</a>
                     </li>
-                    <li onclick="submenu(5)"><a>Szálláshelyek</a>
+                    <li onclick="submenu(5)"><a>Pályázatok</a>
                     </li>
-                    <li onclick="submenu(6)"><a>Pályázatok</a>
+                    <li onclick="submenu(6)"><a>Választási információk</a>
                     </li>
                     <li><a href="ASP.html" target="_blank">ASP Központ</a>
                     </li>
@@ -146,16 +146,7 @@
             <div class="subMenu">
                 <div class="subMenuContainer">
                     <ul>
-                        <li><i><a href="./docs/vallalkozasok.pdf" target="_blank">Jánkmajtison működő vállalkozások (pdf)</a></i>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <div class="subMenu">
-                <div class="subMenuContainer">
-                    <ul>
-                        <li><a href="./akacliget.php">Akácliget Vendégház</a>
+                        <li><a href="./docs/vallalkozasok.pdf" target="_blank">Jánkmajtison működő vállalkozások (pdf)</a>
                         </li>
                     </ul>
                 </div>
@@ -171,6 +162,33 @@
                         <li><a href="./docs/GondKozpKonyhaFejlesztes.pdf" target="_blank">Gondozási Központ konyhájának fejlesztése (pdf)</a>
                         </li>
                         <li><a href="./docs/KoztemetoFejlesztes.pdf" target="_blank">Köztemető fejlesztése (pdf)</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="subMenu">
+                <div class="subMenuContainer">
+                    <ul>
+                        <li><a href="https://www.valasztas.hu/ugyintezes" target="_blank">Választási ügyintézés&nbsp;&nbsp;<i class="fa-solid fa-solid fa-arrow-up-right-from-square" style="font-size: 0.8rem"></i></a>
+                        </li>
+                    </ul>
+                    <div class="subMenuHeader" style="margin-top: 20px">Jánkmajtis</div>
+                    <ul>
+                        <li><a href="./valasztas-jm-szervek.php">Választási szervek</a>
+                        </li>
+                        <li><a href="./valasztas-jm-altalanos-2024.php">2024. évi általános választások</a>
+                        </li>
+                        <li><a href="./valasztas-jm-korabbi.php">Korábbi választások</a>
+                        </li>
+                    </ul>
+                    <div class="subMenuHeader" style="margin-top: 20px">Darnó</div>
+                    <ul>
+                        <li><a href="./valasztas-dr-szervek.php">Választási szervek</a>
+                        </li>
+                        <li><a href="./valasztas-dr-altalanos-2024.php">2024. évi általános választások</a>
+                        </li>
+                        <li><a href="./valasztas-dr-korabbi.php">Korábbi választások</a>
                         </li>
                     </ul>
                 </div>
