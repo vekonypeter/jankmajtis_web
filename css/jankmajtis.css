@@ -569,3 +569,12 @@ table {
     top: 0px;
     width: 320px;
 }
+
+/*******************
+        ICONS
+********************/
+
+.fa-menu {
+    margin-left: 6px;
+    font-size: 0.8rem;
+}

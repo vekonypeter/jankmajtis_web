@@ -52,7 +52,7 @@
                 <div class="menuBtn subbedMenu" onclick="submenu(4)">Vállalkozások</div>
                 <div class="menuBtn subbedMenu" onclick="submenu(5)">Pályázatok</div>
                 <div class="menuBtn subbedMenu" onclick="submenu(6)">Választási információk</div>
-                <a href="ASP.html" target="_blank"><div class="menuBtn">ASP Központ&nbsp;&nbsp;<i class="fa-solid fa-solid fa-arrow-up-right-from-square" style="font-size: 0.9rem"></i></div></a>
+                <a href="ASP.html" target="_blank"><div class="menuBtn">ASP Központ<i class="fa-solid fa-menu fa-arrow-up-right-from-square"></i></div></a>
             
                 <div id="burger" onclick="mainmenu()">
                     <span class="burgerLine"></span>
@@ -81,7 +81,7 @@
                     </li>
                     <li onclick="submenu(6)"><a>Választási információk</a>
                     </li>
-                    <li><a href="ASP.html" target="_blank">ASP Központ</a>
+                    <li><a href="ASP.html" target="_blank">ASP Központ<i class="fa-solid fa-menu fa-arrow-up-right-from-square"></i></a>
                     </li>
                 </ul>
             </div>
@@ -146,7 +146,7 @@
             <div class="subMenu">
                 <div class="subMenuContainer">
                     <ul>
-                        <li><a href="./docs/vallalkozasok.pdf" target="_blank">Jánkmajtison működő vállalkozások (pdf)</a>
+                        <li><a href="./docs/vallalkozasok.pdf" target="_blank">Jánkmajtison működő vállalkozások<i class="fa-solid fa-menu fa-file-pdf"></i></a>
                         </li>
                     </ul>
                 </div>
@@ -159,9 +159,9 @@
                         </li>
                         <li><a href="./ovodafejlesztes.php">Napközi Otthonos Óvoda fejlesztése</a>
                         </li>
-                        <li><a href="./docs/GondKozpKonyhaFejlesztes.pdf" target="_blank">Gondozási Központ konyhájának fejlesztése (pdf)</a>
+                        <li><a href="./docs/GondKozpKonyhaFejlesztes.pdf" target="_blank">Gondozási Központ konyhájának fejlesztése<i class="fa-solid fa-menu fa-file-pdf"></i></a>
                         </li>
-                        <li><a href="./docs/KoztemetoFejlesztes.pdf" target="_blank">Köztemető fejlesztése (pdf)</a>
+                        <li><a href="./docs/KoztemetoFejlesztes.pdf" target="_blank">Köztemető fejlesztése<i class="fa-solid fa-menu fa-file-pdf"></i></a>
                         </li>
                     </ul>
                 </div>
@@ -170,7 +170,7 @@
             <div class="subMenu">
                 <div class="subMenuContainer">
                     <ul>
-                        <li><a href="https://www.valasztas.hu/ugyintezes" target="_blank">Választási ügyintézés&nbsp;&nbsp;<i class="fa-solid fa-solid fa-arrow-up-right-from-square" style="font-size: 0.8rem"></i></a>
+                        <li><a href="https://www.valasztas.hu/ugyintezes" target="_blank">Választási ügyintézés<i class="fa-solid fa-menu fa-arrow-up-right-from-square"></i></a>
                         </li>
                     </ul>
                     <div class="subMenuHeader" style="margin-top: 20px">Jánkmajtis</div>
