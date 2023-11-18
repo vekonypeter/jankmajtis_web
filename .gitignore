@@ -3,3 +3,5 @@ vodafone/
 docs/
 
 .DS_STORE
+
+.vscode
