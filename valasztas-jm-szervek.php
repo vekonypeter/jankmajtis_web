@@ -60,7 +60,7 @@ include('header.php');
                     <p>
                         <strong>Dokumentumok:</strong>
                     </p>
-                    <table width="100%" border="0" style="margin-left: unset">
+                    <table border="0" style="margin-left: unset">
                         <tr>
                             <td>A választási iroda vezetőjének a mandátumok számának megállapításáról szóló határozata:</td>
                             <td><a href="./docs/valasztas_2024/kepv_test_letszam_jm.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
