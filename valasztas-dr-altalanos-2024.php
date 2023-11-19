@@ -25,10 +25,16 @@ include('header.php');
         <div class="contentContainer">
 
             <div class="row new">
-                <div class="newTitle">Feltöltés alatt...</div>
+                <div class="newTitle">Választópolgároknak</div>
                 <div class="col-12">
-                    <p>
-                    </p>
+                    <p>Feltöltés alatt...</p>
+                </div>
+            </div>
+
+            <div class="row new">
+                <div class="newTitle">Jelölteknek</div>
+                <div class="col-12">
+                    <p>Feltöltés alatt...</p>
                 </div>
             </div>
 
