@@ -29,11 +29,15 @@ include('header.php');
                     <p>
                         Projekt azonosítója: <strong>EFOP-1.5.3-16-2017-00112</strong><br />
                         <br />
-                        Projekt bemutató: <a href="docs/190619_efop-1.5.3-16-2017-00112.pdf" target="_blank">letöltés</a> - feltöltve: 2019. 06. 19.
+                        Projekt bemutató: <a href="docs/240218_efop-1.5.3-16-2017-00112.pdf" target="_blank">letöltés</a> - feltöltve: 2024. 02. 18.
                         <br />
                         Pályázati felhívás: <a href="docs/190715_palyazati_felhivas.pdf" target="_blank">letöltés</a> - feltöltve: 2019. 07. 15.
                         <br />
                         Pályázati adatlap: <a href="docs/190715_palyazati_adatlap.pdf" target="_blank">letöltés</a> - feltöltve: 2019. 07. 15.
+                        <br />
+                        Sajtóközlemény a projekt elindulásáról: <a href="docs/240218_efop-1.5.3-16-2017-00112_sajto_nyito.pdf" target="_blank">letöltés</a> -  feltöltve: 2024. 02. 18.
+                        <br />
+                        Sajtóközlemény a projekt zárásáról: <a href="docs/240218_efop-1.5.3-16-2017-00112_sajto_zaro.pdf" target="_blank">letöltés</a> -  feltöltve: 2024. 02. 18.
                         <br />
                     </p>
                 </div>
