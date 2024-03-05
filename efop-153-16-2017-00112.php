@@ -40,6 +40,9 @@ include('header.php');
                         Sajtóközlemény a projekt zárásáról: <a href="docs/240218_efop-1.5.3-16-2017-00112_sajto_zaro.pdf" target="_blank">letöltés</a> -  feltöltve: 2024. 02. 18.
                         <br />
                     </p>
+                    <p>
+                        Sajtóközlemény EFOP-1.4.2-16-2016-00006 sz. projekt: <a href="docs/240305_efop-1.4.2-16-2016-00006.pdf" target="_blank">letöltés</a>
+                    </p>
                 </div>
             </div>
 
