@@ -65,6 +65,14 @@ include('header.php');
                             <td>A választási iroda vezetőjének a mandátumok számának megállapításáról szóló határozata:</td>
                             <td><a href="./docs/valasztas_2024/kepv_test_letszam_jm.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
+                        <tr>
+                            <td>Egyéni listás és az egyéni választókerületi jelölt állításához szükséges ajánlások számának meghatározása:</td>
+                            <td><a href="./docs/valasztas_2024/egyeni_jm.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
+                            <td>Polgármesterjelölt állításához szükséges ajánlások számának meghatározása:</td>
+                            <td><a href="./docs/valasztas_2024/pm_jm.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
                     </table>
                 </div>
             </div>
