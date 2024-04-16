@@ -192,7 +192,14 @@ include('header.php');
 
         <div class="contentContainer">
 
-        
+        <div class="new">
+            <div class="newTitle">Magyar Máltai Szeretetszolgálat Alapítvány pályázat</div>
+            <i class="newDate">2024.04.16.</i>
+            <p>
+                A Magyar Máltai Szeretetszolgálat Alapítvány nyílt pályázatot hirdet az RRF-3.3.1-22-2022-00001 projekt keretében a Felzárkózó településen lévő ingatlanok szociális alapon történő bérbeadására.
+                <br/><br/>A pályázati anyagok a következő linken érhetőek el: <a href="https://fete.hu/jankmajtis/" target="_blank">https://fete.hu/jankmajtis/</a>
+            </p>
+        </div>
 
         <div class="new">
             <div class="newTitle">Szolgálati lakás felújítása Jánkmajtison</div>
