@@ -27,7 +27,48 @@ include('header.php');
             <div class="row new">
                 <div class="newTitle">Választópolgároknak</div>
                 <div class="col-12">
-                    <p>Feltöltés alatt...</p>
+                    <table border="0" style="margin-left: unset">
+                        <tr>
+                            <td>Szabó Ágnes - polgármester-jelölt nyilvántartásba vétele</td>
+                            <td><a href="./docs/valasztas_2024/jm_pm_nyilv_vetel_szabo-agnes.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
+                            <td>Sándor Mária - egyéni listás képviselő-jelölt nyilvántartásba vétele</td>
+                            <td><a href="./docs/valasztas_2024/jm_ekepv_nyilv_vetel_sandor_maria.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
+                            <td>Kocsisné Nyíri Anett - egyéni listás képviselő-jelölt nyilvántartásba vétele</td>
+                            <td><a href="./docs/valasztas_2024/jm_ekepv_nyilv_vetel_kocsisne_nyiri_anett.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
+                            <td>Farkas Elemér László - egyéni listás képviselő-jelölt nyilvántartásba vétele</td>
+                            <td><a href="./docs/valasztas_2024/jm_ekepv_nyilv_vetel_farkas_elemer.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
+                            <td>Szász Sándor - egyéni listás képviselő-jelölt nyilvántartásba vétele</td>
+                            <td><a href="./docs/valasztas_2024/jm_ekepv_nyilv_vetel_szasz_sandor.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
+                            <td>Szőcsi István - egyéni listás képviselő-jelölt nyilvántartásba vétele</td>
+                            <td><a href="./docs/valasztas_2024/jm_ekepv_nyilv_vetel_szocsi_istvan.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
+                            <td>Szőcsi Gusztáv - nemzetiségi képviselő-jelölt nyilvántartásba vétele</td>
+                            <td><a href="./docs/valasztas_2024/jm_nkepv_nyilv_vetel_szocsi_gusztav.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
+                            <td>Szőcsi Patrik - nemzetiségi képviselő-jelölt nyilvántartásba vétele</td>
+                            <td><a href="./docs/valasztas_2024/jm_nkepv_nyilv_vetel_szocsi_patrik.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
+                            <td>Rostás Ferenc - nemzetiségi képviselő-jelölt nyilvántartásba vétele</td>
+                            <td><a href="./docs/valasztas_2024/jm_nkepv_nyilv_vetel_rostas_ferenc.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
+                            <td>Rézműves Zoltán - nemzetiségi képviselő-jelölt nyilvántartásba vétele</td>
+                            <td><a href="./docs/valasztas_2024/jm_nkepv_nyilv_vetel_rezmuves_zoltan.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                    </table>
                 </div>
             </div>
 
