@@ -33,6 +33,10 @@ include('header.php');
                             <td><a href="./docs/valasztas_2024/jm_pm_nyilv_vetel_szabo-agnes.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
+                            <td>Bíró Csaba - egyéni listás képviselő-jelölt nyilvántartásba vétele</td>
+                            <td><a href="./docs/valasztas_2024/jm_ekepv_nyilv_vetel_biro_csaba.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
                             <td>Botos István - egyéni listás képviselő-jelölt nyilvántartásba vétele</td>
                             <td><a href="./docs/valasztas_2024/jm_ekepv_nyilv_vetel_botos_istvan.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
@@ -51,6 +55,10 @@ include('header.php');
                         <tr>
                             <td>Halóka Ferenc - egyéni listás képviselő-jelölt nyilvántartásba vétele</td>
                             <td><a href="./docs/valasztas_2024/jm_ekepv_nyilv_vetel_haloka_ferenc.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
+                            <td>Juhos Imre - egyéni listás képviselő-jelölt nyilvántartásba vétele</td>
+                            <td><a href="./docs/valasztas_2024/jm_ekepv_nyilv_vetel_juhos_imre.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Kocsisné Nyíri Anett - egyéni listás képviselő-jelölt nyilvántartásba vétele</td>

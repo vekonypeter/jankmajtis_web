@@ -41,12 +41,20 @@ include('header.php');
                             <td><a href="./docs/valasztas_2024/dr_ekepv_nyilv_vetel_joni_lajos.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
+                            <td>Lakatos Ödön - egyéni listás képviselő-jelölt nyilvántartásba vétele</td>
+                            <td><a href="./docs/valasztas_2024/dr_ekepv_nyilv_vetel_lakatos_odon.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
                             <td>Szűcs Imréné - egyéni listás képviselő-jelölt nyilvántartásba vétele</td>
                             <td><a href="./docs/valasztas_2024/dr_ekepv_nyilv_vetel_szucs_imrene.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Váraljai Józsefné - egyéni listás képviselő-jelölt nyilvántartásba vétele</td>
                             <td><a href="./docs/valasztas_2024/dr_ekepv_nyilv_vetel_varaljai jozsefne.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
+                            <td>Jóni Józsefné - nemzetiségi képviselő-jelölt nyilvántartásba vétele</td>
+                            <td><a href="./docs/valasztas_2024/dr_nkepv_nyilv_vetel_joni_jozsefne.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                     </table>
                 </div>
