@@ -193,6 +193,17 @@ include('header.php');
         <div class="contentContainer">
 
         <div class="new">
+            <div class="newTitle">Jánkmajtis Község Roma Nemzetiségi Önkormányzatának eszközbeszerzése</div>
+            <i class="newDate">2024.07.14.</i>
+            <p>Kapcsolódó dokumentum(ok):</p>
+            <ul class="documentList">
+                <li>
+                    <a href="news/240714/beszamolo_roma_eszkoz_2024.pdf" target="_blank">Szakmai beszámoló</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="new">
             <div class="newTitle">Magyar Máltai Szeretetszolgálat Alapítvány pályázat</div>
             <i class="newDate">2024.04.16.</i>
             <p>
