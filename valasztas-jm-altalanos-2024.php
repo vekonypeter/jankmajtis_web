@@ -61,6 +61,10 @@ include('header.php');
                             <td><a href="./docs/valasztas_2024/jm_ekepv_nyilv_vetel_juhos_imre.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
+                            <td>Kanyó Ádám - egyéni listás képviselő-jelölt nyilvántartásba vétele</td>
+                            <td><a href="./docs/valasztas_2024/jm_ekepv_nyilv_vetel_kanyo_adam.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
                             <td>Kocsisné Nyíri Anett - egyéni listás képviselő-jelölt nyilvántartásba vétele</td>
                             <td><a href="./docs/valasztas_2024/jm_ekepv_nyilv_vetel_kocsisne_nyiri_anett.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
@@ -115,6 +119,17 @@ include('header.php');
                         <tr>
                             <td>Szőcsi Patrik - nemzetiségi képviselő-jelölt nyilvántartásba vétele</td>
                             <td><a href="./docs/valasztas_2024/jm_nkepv_nyilv_vetel_szocsi_patrik.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td>Polgármester és egyéni listás képviselő választás szavazólapjának sorrendje</td>
+                            <td><a href="./docs/valasztas_2024/jm_sorsolas.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
+                            <td>Roma nemzetiségi képviselő választás szavazólapjának sorrendje</td>
+                            <td><a href="./docs/valasztas_2024/jm_sorsolas_roma.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                     </table>
                 </div>
