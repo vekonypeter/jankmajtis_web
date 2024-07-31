@@ -52,6 +52,7 @@
                 <div class="menuBtn subbedMenu" onclick="submenu(4)">Vállalkozások</div>
                 <div class="menuBtn subbedMenu" onclick="submenu(5)">Pályázatok</div>
                 <div class="menuBtn subbedMenu" onclick="submenu(6)">Választási információk</div>
+                <div class="menuBtn subbedMenu" onclick="submenu(7)">Gazdálkodási adatok</div>
                 <a href="ASP.html" target="_blank"><div class="menuBtn">ASP Központ<i class="fa-solid fa-menu fa-arrow-up-right-from-square"></i></div></a>
             
                 <div id="burger" onclick="mainmenu()">
@@ -80,6 +81,8 @@
                     <li onclick="submenu(5)"><a>Pályázatok</a>
                     </li>
                     <li onclick="submenu(6)"><a>Választási információk</a>
+                    </li>
+                    <li onclick="submenu(7)"><a>Gazdálkodási adatok</a>
                     </li>
                     <li><a href="ASP.html" target="_blank">ASP Központ<i class="fa-solid fa-menu fa-arrow-up-right-from-square"></i></a>
                     </li>
@@ -191,5 +194,32 @@
                         <li><a href="./valasztas-dr-korabbi.php">Korábbi választások</a>
                         </li>
                     </ul>
+                </div>
+            </div>
+
+            <div class="subMenu">
+                <div class="subMenuContainer">
+
+                    <div class="subMenuHeader">A működés törvényessége, ellenőrzések</div>
+                    <ul>
+                        <li>Vizsgálatok, ellenőrzések listája</li>
+                        <li>Az Állami Számvevőszék ellenőrzései</li>
+                        <li>Egyéb ellenőrzések, vizsgálatok</li>
+                        <li>Működés eredményessége, teljesítmény</li>
+                        <li>Működési statisztika</li>
+                    </ul>
+
+                    <div class="subMenuHeader" style="margin-top: 20px">Költségvetések, beszámolók</div>
+                    <ul>
+                        <li>Éves költségvetések, számviteli beszámolók, a költségvetés végrehajtása</li>
+                    </ul>
+
+                    <div class="subMenuHeader" style="margin-top: 20px">Működés</div>
+                    <ul>
+                        <li>A foglalkoztatottak (a létszám, illetmények, juttatások és költségtérítések adatait a költségvetési beszámoló tartalmazza)</li>
+                        <li>Támogatások</li>
+                        <li>Szerződések</li>
+                        <li>Koncessziók</li>
+                        <li>Egyéb kifizetések</li>
                 </div>
             </div>
