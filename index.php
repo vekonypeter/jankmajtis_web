@@ -202,7 +202,7 @@ include('header.php');
                 </li>
             </ul>
             <p>
-                Felnőttképzés regisztráció: <a href="https://www.felnottkepzes.hu">https://www.felnottkepzes.hu</a>
+                Felnőttképzés regisztráció: <a href="https://www.felnottkepzes.hu" target="_blank">https://www.felnottkepzes.hu</a>
             </p>
         </div>
 
