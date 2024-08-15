@@ -193,6 +193,20 @@ include('header.php');
         <div class="contentContainer">
 
         <div class="new">
+            <div class="newTitle">Hivatalos Hirdetmény az „Agrárgazdasági képzések és felkészítő tréningek” című (VP1-1.1.1-23 kódszámú) felhívás vonatkozásában</div>
+            <i class="newDate">2024.08.15.</i>
+            <p>Kapcsolódó dokumentum(ok):</p>
+            <ul class="documentList">
+                <li>
+                    <a href="news/240815/agrar_felnott_kepzes_hirdetmeny.pdf" target="_blank">Hirdetmény</a>
+                </li>
+            </ul>
+            <p>
+                Felnőttképzés regisztráció: <a href="https://www.felnottkepzes.hu">https://www.felnottkepzes.hu</a>
+            </p>
+        </div>
+
+        <div class="new">
             <div class="newTitle">Jánkmajtis Község Roma Nemzetiségi Önkormányzatának eszközbeszerzése</div>
             <i class="newDate">2024.07.14.</i>
             <p>Kapcsolódó dokumentum(ok):</p>
