@@ -193,6 +193,21 @@ include('header.php');
         <div class="contentContainer">
 
         <div class="new">
+            <div class="newTitle">Bursa Hungarica Pályázat</div>
+            <i class="newDate">2024.11.01.</i>
+            <p>
+                A Bursa Hungarica Felsőoktatási Önkormányzati Ösztöndíjrendszer célja az esélyteremtés érdekében a hátrányos helyzetű, szociálisan rászoruló fiatalok felsőfokú tanulmányainak támogatása.<br/>
+                <br/>
+                A program keretében olyan szociálisan hátrányos helyzetű felsőoktatásban résztvevő hallgatóknak folyósítható az ösztöndíj, akik a települési önkormányzat illetékességi területén lakóhellyel rendelkeznek, felsőoktatási intézményben (felsőoktatási hallgatói jogviszony keretében) teljes idejű (nappali tagozatos) képzésben vesznek részt.<br/>
+                <br/>
+                A pályázat benyújtásának határideje: 2024. december 4.<br/>
+                <br/>
+                Az alábbiakban elérhető a felhívás és mellékletei:<br/>
+                <a target="_blank" href="https://emet.gov.hu/kategoria/kiemelt-kategoriak/palyazatok/aktualis-felhivasok/bursa-hungarica/">https://emet.gov.hu/kategoria/kiemelt-kategoriak/palyazatok/aktualis-felhivasok/bursa-hungarica</a>
+            </p>
+        </div>
+
+        <div class="new">
             <div class="newTitle">Hivatalos Hirdetmény az „Agrárgazdasági képzések és felkészítő tréningek” című (VP1-1.1.1-23 kódszámú) felhívás vonatkozásában</div>
             <i class="newDate">2024.08.15.</i>
             <p>Kapcsolódó dokumentum(ok):</p>
