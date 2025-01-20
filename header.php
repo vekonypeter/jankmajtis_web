@@ -202,8 +202,8 @@
 
                     <div class="subMenuHeader">A működés törvényessége, ellenőrzések</div>
                     <ul>
-                        <li>Vizsgálatok, ellenőrzések listája</li>
-                        <li>Az Állami Számvevőszék ellenőrzései</li>
+                        <li><a href="./gazd_vizsgalatok.php">Vizsgálatok, ellenőrzések listája</a></li>
+                        <li><a href="./gazd_asz.php">Az Állami Számvevőszék ellenőrzései</a></li>
                         <li>Egyéb ellenőrzések, vizsgálatok</li>
                         <li>Működés eredményessége, teljesítmény</li>
                         <li>Működési statisztika</li>
@@ -211,7 +211,7 @@
 
                     <div class="subMenuHeader" style="margin-top: 20px">Költségvetések, beszámolók</div>
                     <ul>
-                        <li>Éves költségvetések, számviteli beszámolók, a költségvetés végrehajtása</li>
+                        <li><a href="./gazd_eves_koltsegvetesek.php">Éves költségvetések, számviteli beszámolók, a költségvetés végrehajtása</a></li>
                     </ul>
 
                     <div class="subMenuHeader" style="margin-top: 20px">Működés</div>
