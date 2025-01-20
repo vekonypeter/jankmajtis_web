@@ -41,6 +41,15 @@ include('header.php');
                 <div class="sideBarTenderTitle">Humán szolgáltatások fejlesztése Fehérgyarmaton és térségében</div>
             </a>
 
+            <a href="top-2.1.3-16-SB2-2020-00017.php" class="sideBarElement sideBarTender">
+                <div class="sideBarTenderId">TOP-2.1.3-16-SB2-2020-00017</div>
+                <div class="sideBarTenderTitle">Csapadékvíz elvezetés fejlesztése Jánkmajtison</div>
+            </a>
+
+            <a class="fancybox" href="images_jpg/CsapadekvizElvezetes_tabla.jpg" data-fancybox-group="gallery" title="Csapadékvíz elvezetés fejlesztése Jánkmajtison">
+                <img src="images_jpg/CsapadekvizElvezetes_tabla_thmb.jpg" alt="Csapadékvíz elvezetés fejlesztése Jánkmajtison" class="sideBarElement sideBarImage sideBarSelectable">
+            </a>
+
             <a class="fancybox" href="images_jpg/SzolgalatiLakasFejlesztes_tabla.jpg" data-fancybox-group="gallery" title="Szolgálati lakás felújítása Jánkmajtison">
                 <img src="images_jpg/SzolgalatiLakasFejlesztes_tabla_thmb.jpg" alt="Szolgálati lakás felújítása Jánkmajtison" class="sideBarElement sideBarImage sideBarSelectable">
             </a>
