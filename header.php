@@ -200,6 +200,11 @@
             <div class="subMenu">
                 <div class="subMenuContainer">
 
+                    <div class="subMenuHeader">Közérdekű adatok</div>
+                    <ul>
+                        <li><a href="./docs/gazdalkodas/gazdalkodasi_adatok.pdf" target="_blank">Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 1. melléklete szerinti általános közzétételi lista<i class="fa-solid fa-menu fa-file-pdf"></i></a></li>
+                    </ul>
+
                     <div class="subMenuHeader">A működés törvényessége, ellenőrzések</div>
                     <ul>
                         <li><a href="./gazd_vizsgalatok.php">Vizsgálatok, ellenőrzések listája</a></li>
