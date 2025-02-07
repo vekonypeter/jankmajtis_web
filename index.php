@@ -202,6 +202,16 @@ include('header.php');
         <div class="contentContainer">
 
         <div class="new">
+            <div class="newTitle">Vegyen részt a KSH Életkörülmény Felmérésében!</div>
+            <i class="newDate">2025.02.07.</i>
+            <p>
+                <a target="_blank" href="news/250207/eletkorulmeny_plakat_2025.pdf" title="KSH Életkörülmény Felmérés">
+                    <img style="max-width: 200px; height: 282px" src="news/250207/eletkorulmeny_plakat_2025_tmb.jpg" />
+                </a>
+            </p>
+        </div>
+
+        <div class="new">
             <div class="newTitle">Bursa Hungarica Pályázat</div>
             <i class="newDate">2024.11.01.</i>
             <p>
