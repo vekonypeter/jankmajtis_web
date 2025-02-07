@@ -201,552 +201,183 @@ include('header.php');
 
         <div class="contentContainer">
 
-        <div class="new">
-            <div class="newTitle">Vegyen részt a KSH Életkörülmény Felmérésében!</div>
-            <i class="newDate">2025.02.07.</i>
-            <p>
-                <a target="_blank" href="news/250207/eletkorulmeny_plakat_2025.pdf" title="KSH Életkörülmény Felmérés">
-                    <img style="max-width: 200px; height: 282px" src="news/250207/eletkorulmeny_plakat_2025_tmb.jpg" />
-                </a>
-            </p>
-        </div>
-
-        <div class="new">
-            <div class="newTitle">Bursa Hungarica Pályázat</div>
-            <i class="newDate">2024.11.01.</i>
-            <p>
-                A Bursa Hungarica Felsőoktatási Önkormányzati Ösztöndíjrendszer célja az esélyteremtés érdekében a hátrányos helyzetű, szociálisan rászoruló fiatalok felsőfokú tanulmányainak támogatása.<br/>
-                <br/>
-                A program keretében olyan szociálisan hátrányos helyzetű felsőoktatásban résztvevő hallgatóknak folyósítható az ösztöndíj, akik a települési önkormányzat illetékességi területén lakóhellyel rendelkeznek, felsőoktatási intézményben (felsőoktatási hallgatói jogviszony keretében) teljes idejű (nappali tagozatos) képzésben vesznek részt.<br/>
-                <br/>
-                A pályázat benyújtásának határideje: 2024. december 4.<br/>
-                <br/>
-                Az alábbiakban elérhető a felhívás és mellékletei:<br/>
-                <a target="_blank" href="https://emet.gov.hu/kategoria/kiemelt-kategoriak/palyazatok/aktualis-felhivasok/bursa-hungarica/">https://emet.gov.hu/kategoria/kiemelt-kategoriak/palyazatok/aktualis-felhivasok/bursa-hungarica</a>
-            </p>
-        </div>
-
-        <div class="new">
-            <div class="newTitle">Hivatalos Hirdetmény az „Agrárgazdasági képzések és felkészítő tréningek” című (VP1-1.1.1-23 kódszámú) felhívás vonatkozásában</div>
-            <i class="newDate">2024.08.15.</i>
-            <p>Kapcsolódó dokumentum(ok):</p>
-            <ul class="documentList">
-                <li>
-                    <a href="news/240815/agrar_felnott_kepzes_hirdetmeny.pdf" target="_blank">Hirdetmény</a>
-                </li>
-            </ul>
-            <p>
-                Felnőttképzés regisztráció: <a href="https://www.felnottkepzes.hu" target="_blank">https://www.felnottkepzes.hu</a>
-            </p>
-        </div>
-
-        <div class="new">
-            <div class="newTitle">Jánkmajtis Község Roma Nemzetiségi Önkormányzatának eszközbeszerzése</div>
-            <i class="newDate">2024.07.14.</i>
-            <p>Kapcsolódó dokumentum(ok):</p>
-            <ul class="documentList">
-                <li>
-                    <a href="news/240714/beszamolo_roma_eszkoz_2024.pdf" target="_blank">Szakmai beszámoló</a>
-                </li>
-            </ul>
-        </div>
-
-        <div class="new">
-            <div class="newTitle">Magyar Máltai Szeretetszolgálat Alapítvány pályázat</div>
-            <i class="newDate">2024.04.16.</i>
-            <p>
-                A Magyar Máltai Szeretetszolgálat Alapítvány nyílt pályázatot hirdet az RRF-3.3.1-22-2022-00001 projekt keretében a Felzárkózó településen lévő ingatlanok szociális alapon történő bérbeadására.
-                <br/><br/>A pályázati anyagok a következő linken érhetőek el: <a href="https://fete.hu/jankmajtis/" target="_blank">https://fete.hu/jankmajtis/</a>
-            </p>
-        </div>
-
-        <div class="new">
-            <div class="newTitle">Szolgálati lakás felújítása Jánkmajtison</div>
-            <i class="newDate">2023.10.19.</i>
-            <p>Kapcsolódó dokumentum(ok):</p>
-            <ul class="documentList">
-                <li>
-                    <a href="news/231019/szolgalati_lakas_felujitas_jm.pdf" target="_blank">Projekt összefoglaló</a>
-                </li>
-            </ul>
-        </div>
-
-        <div class="new">
-            <div class="newTitle">Jánkmajtis Helyi Választási Iroda vezetőjétől</div>
-            <i class="newDate">2023.10.18.</i>
-            <p>Kapcsolódó dokumentum(ok):</p>
-            <ul class="documentList">
-                <li>
-                    <a href="news/231018/kepv_test_letszam_darno.pdf" target="_blank">A megválasztandó önkormányzati képviselők számának megállapítása - Darnó</a>
-                </li>
-                <li>
-                    <a href="news/231018/kepv_test_letszam_jm.pdf" target="_blank">A megválasztandó önkormányzati képviselők számának megállapítása - Jánkmajtis</a>
-                </li>
-            </ul>
-        </div>
-
-        <div class="new">
-            <div class="newTitle">Pályázati felhívás óvodapedagógus munkakör betöltésére</div>
-            <i class="newDate">2022.06.13.</i>
-            <p>Kapcsolódó dokumentum(ok):</p>
-            <ul class="documentList">
-                <li>
-                    <a href="news/220613/ovodapedagogus_palyazat.pdf" target="_blank">Pályázati kiírás</a>
-                </li>
-            </ul>
-        </div>
-
-        <div class="new">
-            <div class="newTitle">NAK választás</div>
-            <i class="newDate">2022.05.05.</i>
-            <p class="news-gal">
-                <a class="fancybox"
-                    href="news/2022-05-05/nak_valasztas.jpeg"
-                    data-fancybox-group="nak_valasztas"
-                    title="NAK választás">
-                    <img
-                        class="news-gal-tmb"
-                        style="max-width: 200px; height: 282px"
-                        src="news/2022-05-05/nak_valasztas_tmb.jpeg"
-                    />
-                </a>
-            </p>
-        </div>
-
-        <div class="new">
-            <div class="newTitle">Pályázati felhívás - Önkormányzati tulajdonú ingatlan értékesítése</div>
-            <i class="newDate">2021.10.22.</i>
-            <p>Kapcsolódó dokumentum(ok):</p>
-            <ul class="documentList">
-                <li>
-                    <a href="news/211022/211022_onkormanyzat_ingatlan_ertekesites.pdf" target="_blank">Pályázati kiírás</a>
-                </li>
-            </ul>
-        </div>
-
-        <div class="new">
-            <div class="newTitle">Roma Kulturális Nap</div>
-            <i class="newDate">2021.08.07.</i>
-            <p>Kapcsolódó dokumentum(ok):</p>
-            <ul class="documentList">
-                <li>
-                    <a href="news/210807/210807_roma_kultura_szakmai_beszamolo.pdf" target="_blank">Szakmai beszámoló</a>
-                </li>
-            </ul>
-        </div>
-
-        <div class="new">
-            <div class="newTitle">Roma tábor</div>
-            <i class="newDate">2021.07.20.</i>
-            <p>Kapcsolódó dokumentum(ok):</p>
-            <ul class="documentList">
-                <li>
-                    <a href="news/210720/210720_roma_tabor_szakmai_beszamolo.pdf" target="_blank">Szakmai beszámoló</a>
-                </li>
-            </ul>
-        </div>
-
-        <div class="new">
-            <div class="newTitle">Gyermekvédelmi ellátásokhoz kapcsolódó formanyomtatványok</div>
-            <i class="newDate">2021.05.24.</i>
-            <p>Kapcsolódó dokumentum(ok):</p>
-            <ul class="documentList">
-                <li>
-                    <a href="news/210524/210524_formanyomtatvany_1.pdf" target="_blank">Környezettanulmány hátrányos helyzet, halmozottan hátrányos helyzet megállapításához</a>
-                </li>
-                <li>
-                    <a href="news/210524/210524_formanyomtatvany_2.pdf" target="_blank">Formanyomtatvány a rendszeres gyermekvédelmi kedvezmény megállapításához és felülvizsgálatához, valamint a hátrányos, halmozottan hátrányos helyzet fennállásának megállapításához</a>
-                </li>
-            </ul>
-        </div>
-
-        <div class="new">
-            <div class="newTitle">Óvodai intézményvezető állás</div>
-            <i class="newDate">2021.05.24.</i>
-            <p>Kapcsolódó dokumentum(ok):</p>
-            <ul class="documentList">
-                <li>
-                    <a href="news/210524/210524_ovoda_intezmenyvezeto_allas.pdf" target="_blank">Álláshirdetés</a>
-                </li>
-            </ul>
-        </div>
-
-        <div class="new">
-            <div class="newTitle">Óvodai intézményvezető állás</div>
-            <i class="newDate">2021.01.10.</i>
-            <p>Kapcsolódó dokumentum(ok):</p>
-            <ul class="documentList">
-                <li>
-                    <a href="news/210110/210110_ovoda_intezmenyvezeto_allas.pdf" target="_blank">Álláshirdetés</a>
-                </li>
-            </ul>
-        </div>
-
-        <div class="new">
-                <div class="newTitle">Honvédségi felhívás</div>
-                <i class="newDate">2020.11.17.</i>
-                <p>Kapcsolódó dokumentum(ok):</p>
-                <ul class="documentList">
-                    <li>
-                        <a href="news/201117/201117_katonai_felhivas.pdf" target="_blank">Felhívás</a>
-                    </li>
-                </ul>
-                <p>Kapcsolódó képek:</p>
-                <p class="news-gal">
-                    <a class="fancybox"
-                        href="news/201117/201117_katonai_felhivas_01.jpeg"
-                        data-fancybox-group="katonai_felhivas"
-                        title="Honvédségi felhívás">
-                        <img class="news-gal-tmb" src="news/201117/tmb/201117_katonai_felhivas_01_tmb.jpeg" />
-                    </a>
-                    <a class="fancybox"
-                        href="news/201117/201117_katonai_felhivas_02.jpg"
-                        data-fancybox-group="katonai_felhivas"
-                        title="Honvédségi felhívás">
-                        <img class="news-gal-tmb" src="news/201117/tmb/201117_katonai_felhivas_02_tmb.jpg" />
-                    </a>
-                    <a class="fancybox"
-                        href="news/201117/201117_katonai_felhivas_03.jpeg"
-                        data-fancybox-group="katonai_felhivas"
-                        title="Honvédségi felhívás">
-                        <img class="news-gal-tmb" src="news/201117/tmb/201117_katonai_felhivas_03_tmb.jpeg" />
-                    </a>
-                    <a class="fancybox"
-                        href="news/201117/201117_katonai_felhivas_04.jpg"
-                        data-fancybox-group="katonai_felhivas"
-                        title="Honvédségi felhívás">
-                        <img class="news-gal-tmb" src="news/201117/tmb/201117_katonai_felhivas_04_tmb.jpg" />
-                    </a>
-                    <a class="fancybox"
-                        href="news/201117/201117_katonai_felhivas_05.jpg"
-                        data-fancybox-group="katonai_felhivas"
-                        title="Honvédségi felhívás">
-                        <img class="news-gal-tmb" src="news/201117/tmb/201117_katonai_felhivas_05_tmb.jpg" />
-                    </a>
-                    <a class="fancybox"
-                        href="news/201117/201117_katonai_felhivas_06.jpg"
-                        data-fancybox-group="katonai_felhivas"
-                        title="Honvédségi felhívás">
-                        <img class="news-gal-tmb" src="news/201117/tmb/201117_katonai_felhivas_06_tmb.jpg"  />
-                    </a>
-                    <a class="fancybox"
-                        href="news/201117/201117_katonai_felhivas_07.jpg"
-                        data-fancybox-group="katonai_felhivas"
-                        title="Honvédségi felhívás">
-                        <img class="news-gal-tmb" src="news/201117/tmb/201117_katonai_felhivas_07_tmb.jpg" />
-                    </a>
-                    <a class="fancybox"
-                        href="news/201117/201117_katonai_felhivas_08.jpg"
-                        data-fancybox-group="katonai_felhivas"
-                        title="Honvédségi felhívás">
-                        <img class="news-gal-tmb" src="news/201117/tmb/201117_katonai_felhivas_08_tmb.jpg" />
-                    </a>
-                    <a class="fancybox"
-                        href="news/201117/201117_katonai_felhivas_09.jpg"
-                        data-fancybox-group="katonai_felhivas"
-                        title="Honvédségi felhívás">
-                        <img class="news-gal-tmb" src="news/201117/tmb/201117_katonai_felhivas_09_tmb.jpg" />
-                    </a>
-                    <a class="fancybox"
-                        href="news/201117/201117_katonai_felhivas_10.jpg"
-                        data-fancybox-group="katonai_felhivas"
-                        title="Honvédségi felhívás">
-                        <img class="news-gal-tmb" src="news/201117/tmb/201117_katonai_felhivas_10_tmb.jpg" />
-                    </a>
-                    <a class="fancybox"
-                        href="news/201117/201117_katonai_felhivas_11.jpg"
-                        data-fancybox-group="katonai_felhivas"
-                        title="Honvédségi felhívás">
-                        <img class="news-gal-tmb" src="news/201117/tmb/201117_katonai_felhivas_11_tmb.jpg" />
-                    </a>
-                    <a class="fancybox"
-                        href="news/201117/201117_katonai_felhivas_12.jpg"
-                        data-fancybox-group="katonai_felhivas"
-                        title="Honvédségi felhívás">
-                        <img class="news-gal-tmb" src="news/201117/tmb/201117_katonai_felhivas_12_tmb.jpg" />
+            <div class="new">
+                <div class="newTitle">Vegyen részt a KSH Életkörülmény Felmérésében!</div>
+                <i class="newDate">2025.02.07.</i>
+                <p>
+                    <a target="_blank" href="news/250207/eletkorulmeny_plakat_2025.pdf" title="KSH Életkörülmény Felmérés">
+                        <img style="max-width: 200px; height: 282px" src="news/250207/eletkorulmeny_plakat_2025_tmb.jpg" />
                     </a>
                 </p>
             </div>
 
             <div class="new">
-                <div class="newTitle">BURSA pályázat 2021</div>
-                <i class="newDate">2020.10.05.</i>
-                <p>Kapcsolódó dokumentum(ok):</p>
-                <ul class="documentList">
-                    <li>
-                        <a href="news/201005/201005_bursa2021_felh.pdf" target="_blank">Pályázati felhívás</a>
-                    </li>
-                    <li>
-                        <a href="news/201005/201005_bursa2021_a.pdf" target="_blank">A típusú pályázati kiírás</a>
-                    </li>
-                    <li>
-                        <a href="news/201005/201005_bursa2021_b.pdf" target="_blank">B típusú pályázati kiírás</a>
-                    </li>
-                </ul>
-            </div>
-
-            <div class="new">
-                <div class="newTitle">Roma Kulturális Nap</div>
-                <i class="newDate">2020.09.19.</i>
-                <p>Kapcsolódó dokumentum(ok):</p>
-                <ul class="documentList">
-                    <li>
-                        <a href="news/200919/200919_roma_kultura.pdf" target="_blank">Összefoglaló</a>
-                    </li>
-                </ul>
-            </div>
-
-            <div class="new">
-                <div class="newTitle">Roma tábor</div>
-                <i class="newDate">2020.07.19.</i>
-                <p>Kapcsolódó dokumentum(ok):</p>
-                <ul class="documentList">
-                    <li>
-                        <a href="news/200719/200719_roma_tabor.pdf" target="_blank">Tájékoztató</a>
-                    </li>
-                </ul>
-            </div>
-
-            <div class="new">
-                <div class="newTitle">Tájékoztató - a katonák feladatai veszélyhelyzet idején</div>
-                <i class="newDate">2020.04.09.</i>
-                <p>Kapcsolódó dokumentum(ok):</p>
-                <ul class="documentList">
-                    <li>
-                        <a href="news/200409/200409_katonai_tajekoztato.pdf" target="_blank">Tájékoztató</a>
-                    </li>
-                </ul>
-                <p>Kapcsolódó képek:</p>
-                <p class="news-gal">
-                    <a class="fancybox"
-                        href="news/200409/200409_katonai_tajekoztato_01.jpg"
-                        data-fancybox-group="katonai_tajekoztato"
-                        title="Tájékoztató - a katonák feladatai veszélyhelyzet idején">
-                        <img class="news-gal-tmb" src="news/200409/tmb/200409_katonai_tajekoztato_01_tmb.jpg" />
-                    </a>
-                    <a class="fancybox"
-                        href="news/200409/200409_katonai_tajekoztato_02.jpg"
-                        data-fancybox-group="katonai_tajekoztato"
-                        title="Tájékoztató - a katonák feladatai veszélyhelyzet idején">
-                        <img class="news-gal-tmb" src="news/200409/tmb/200409_katonai_tajekoztato_02_tmb.jpg" />
-                    </a>
-                    <a class="fancybox"
-                        href="news/200409/200409_katonai_tajekoztato_03.jpg"
-                        data-fancybox-group="katonai_tajekoztato"
-                        title="Tájékoztató - a katonák feladatai veszélyhelyzet idején">
-                        <img class="news-gal-tmb" src="news/200409/tmb/200409_katonai_tajekoztato_03_tmb.jpg" />
-                    </a>
-                    <a class="fancybox"
-                        href="news/200409/200409_katonai_tajekoztato_04.jpg"
-                        data-fancybox-group="katonai_tajekoztato"
-                        title="Tájékoztató - a katonák feladatai veszélyhelyzet idején">
-                        <img class="news-gal-tmb" src="news/200409/tmb/200409_katonai_tajekoztato_04_tmb.jpg" />
-                    </a>
-                    <a class="fancybox"
-                        href="news/200409/200409_katonai_tajekoztato_05.jpg"
-                        data-fancybox-group="katonai_tajekoztato"
-                        title="Tájékoztató - a katonák feladatai veszélyhelyzet idején">
-                        <img class="news-gal-tmb" src="news/200409/tmb/200409_katonai_tajekoztato_05_tmb.jpg" />
-                    </a>
-                    <a class="fancybox"
-                        href="news/200409/200409_katonai_tajekoztato_06.jpg"
-                        data-fancybox-group="katonai_tajekoztato"
-                        title="Tájékoztató - a katonák feladatai veszélyhelyzet idején">
-                        <img class="news-gal-tmb" src="news/200409/tmb/200409_katonai_tajekoztato_06_tmb.jpg"  />
-                    </a>
-                    <a class="fancybox"
-                        href="news/200409/200409_katonai_tajekoztato_07.jpg"
-                        data-fancybox-group="katonai_tajekoztato"
-                        title="Tájékoztató - a katonák feladatai veszélyhelyzet idején">
-                        <img class="news-gal-tmb" src="news/200409/tmb/200409_katonai_tajekoztato_07_tmb.jpg" />
-                    </a>
-                    <a class="fancybox"
-                        href="news/200409/200409_katonai_tajekoztato_08.jpg"
-                        data-fancybox-group="katonai_tajekoztato"
-                        title="Tájékoztató - a katonák feladatai veszélyhelyzet idején">
-                        <img class="news-gal-tmb" src="news/200409/tmb/200409_katonai_tajekoztato_08_tmb.jpg" />
-                    </a>
-                    <a class="fancybox"
-                        href="news/200409/200409_katonai_tajekoztato_09.jpg"
-                        data-fancybox-group="katonai_tajekoztato"
-                        title="Tájékoztató - a katonák feladatai veszélyhelyzet idején">
-                        <img class="news-gal-tmb" src="news/200409/tmb/200409_katonai_tajekoztato_09_tmb.jpg" />
-                    </a>
-                    <a class="fancybox"
-                        href="news/200409/200409_katonai_tajekoztato_10.jpg"
-                        data-fancybox-group="katonai_tajekoztato"
-                        title="Tájékoztató - a katonák feladatai veszélyhelyzet idején">
-                        <img class="news-gal-tmb" src="news/200409/tmb/200409_katonai_tajekoztato_10_tmb.jpg" />
-                    </a>
+                <div class="newTitle">Bursa Hungarica Pályázat</div>
+                <i class="newDate">2024.11.01.</i>
+                <p>
+                    A Bursa Hungarica Felsőoktatási Önkormányzati Ösztöndíjrendszer célja az esélyteremtés érdekében a hátrányos helyzetű, szociálisan rászoruló fiatalok felsőfokú tanulmányainak támogatása.<br/>
+                    <br/>
+                    A program keretében olyan szociálisan hátrányos helyzetű felsőoktatásban résztvevő hallgatóknak folyósítható az ösztöndíj, akik a települési önkormányzat illetékességi területén lakóhellyel rendelkeznek, felsőoktatási intézményben (felsőoktatási hallgatói jogviszony keretében) teljes idejű (nappali tagozatos) képzésben vesznek részt.<br/>
+                    <br/>
+                    A pályázat benyújtásának határideje: 2024. december 4.<br/>
+                    <br/>
+                    Az alábbiakban elérhető a felhívás és mellékletei:<br/>
+                    <a target="_blank" href="https://emet.gov.hu/kategoria/kiemelt-kategoriak/palyazatok/aktualis-felhivasok/bursa-hungarica/">https://emet.gov.hu/kategoria/kiemelt-kategoriak/palyazatok/aktualis-felhivasok/bursa-hungarica</a>
                 </p>
             </div>
-            
+
             <div class="new">
-                <div class="newTitle">BURSA pályázat 2020</div>
-                <i class="newDate">2019.10.04.</i>
+                <div class="newTitle">Hivatalos Hirdetmény az „Agrárgazdasági képzések és felkészítő tréningek” című (VP1-1.1.1-23 kódszámú) felhívás vonatkozásában</div>
+                <i class="newDate">2024.08.15.</i>
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
-                        <a href="news/191004/191004_bursa2020_felh.pdf" target="_blank">Pályázati felhívás</a>
-                    </li>
-                    <li>
-                        <a href="news/191004/191004_bursa2020_a.pdf" target="_blank">A típusú pályázati kiírás</a>
-                    </li>
-                    <li>
-                        <a href="news/191004/191004_bursa2020_b.pdf" target="_blank">B típusú pályázati kiírás</a>
+                        <a href="news/240815/agrar_felnott_kepzes_hirdetmeny.pdf" target="_blank">Hirdetmény</a>
                     </li>
                 </ul>
+                <p>
+                    Felnőttképzés regisztráció: <a href="https://www.felnottkepzes.hu" target="_blank">https://www.felnottkepzes.hu</a>
+                </p>
             </div>
-        
+
             <div class="new">
-                <div class="newTitle">Jánkmajtis Helyi Választási Iroda vezetőjétől</div>
-                <i class="newDate">2019.08.08.</i>
+                <div class="newTitle">Jánkmajtis Község Roma Nemzetiségi Önkormányzatának eszközbeszerzése</div>
+                <i class="newDate">2024.07.14.</i>
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
-                        <a href="news/190808/190808_szav_dar.pdf" target="_blank">Szavazóköri és körzetadatok felülvizsgálata - Darnó</a>
-                    </li>
-                    <li>
-                        <a href="news/190808/190808_szav_jm.pdf" target="_blank">Szavazóköri és körzetadatok felülvizsgálata - Jánkmajtis</a>
-                    </li>
-                    <li>
-                        <a href="news/190808/190808_pm_dar.pdf" target="_blank">Polgármesterjelölt állításhoz szükséges ajánlások számának meghatározása - Darnó</a>
-                    </li>
-                    <li>
-                        <a href="news/190808/190808_pm_jm.pdf" target="_blank">Polgármesterjelölt állításhoz szükséges ajánlások számának meghatározása - Jánkmajtis</a>
-                    </li>
-                    <li>
-                        <a href="news/190808/190808_kepv_dar.pdf" target="_blank">Egyéni listás és egyéni választókerületi jelölt állításhoz szükséges ajánlások számának  meghatározása - Darnó</a>
-                    </li>
-                    <li>
-                        <a href="news/190808/190808_kepv_jm.pdf" target="_blank">Egyéni listás és egyéni választókerületi jelölt állításhoz szükséges ajánlások számának  meghatározása - Jánkmajtis</a>
+                        <a href="news/240714/beszamolo_roma_eszkoz_2024.pdf" target="_blank">Szakmai beszámoló</a>
                     </li>
                 </ul>
             </div>
 
-            
             <div class="new">
-                <div class="newTitle">Roma tábor</div>
-                <i class="newDate">2019.07.21.</i>
+                <div class="newTitle">Magyar Máltai Szeretetszolgálat Alapítvány pályázat</div>
+                <i class="newDate">2024.04.16.</i>
+                <p>
+                    A Magyar Máltai Szeretetszolgálat Alapítvány nyílt pályázatot hirdet az RRF-3.3.1-22-2022-00001 projekt keretében a Felzárkózó településen lévő ingatlanok szociális alapon történő bérbeadására.
+                    <br/><br/>A pályázati anyagok a következő linken érhetőek el: <a href="https://fete.hu/jankmajtis/" target="_blank">https://fete.hu/jankmajtis/</a>
+                </p>
+            </div>
+
+            <div class="new">
+                <div class="newTitle">Szolgálati lakás felújítása Jánkmajtison</div>
+                <i class="newDate">2023.10.19.</i>
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
-                        <a href="news/190721/190721_roma_tabor.pdf" target="_blank">Tájékoztató</a>
+                        <a href="news/231019/szolgalati_lakas_felujitas_jm.pdf" target="_blank">Projekt összefoglaló</a>
                     </li>
                 </ul>
             </div>
 
             <div class="new">
                 <div class="newTitle">Jánkmajtis Helyi Választási Iroda vezetőjétől</div>
-                <i class="newDate">2019.02.07.</i>
+                <i class="newDate">2023.10.18.</i>
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
-                        <a href="news/190207/szavazokori_es_korzadatok.pdf" target="_blank">Szavazóköri és körzetadatok felülvizsgálata</a>
+                        <a href="news/231018/kepv_test_letszam_darno.pdf" target="_blank">A megválasztandó önkormányzati képviselők számának megállapítása - Darnó</a>
                     </li>
                     <li>
-                        <a href="news/190207/megvalaszt_onkorm_kepvis_szam.pdf" target="_blank">A megválasztandó önkormányzati képviselők számának megállapítása</a>
-                    </li>
-                </ul>
-            </div>
-            
-            <div class="new">
-                <div class="newTitle">BURSA pályázat 2019</div>
-                <i class="newDate">2018.10.07.</i>
-                <p>Kapcsolódó dokumentum(ok):</p>
-                <ul class="documentList">
-                    <li>
-                        <a href="news/181007/bursa2019_felh.pdf" target="_blank">Pályázati felhívás</a>
-                    </li>
-                    <li>
-                        <a href="news/181007/bursa2019_a.pdf" target="_blank">A típusú pályázati kiírás</a>
-                    </li>
-                    <li>
-                        <a href="news/181007/bursa2019_b.pdf" target="_blank">B típusú pályázati kiírás</a>
+                        <a href="news/231018/kepv_test_letszam_jm.pdf" target="_blank">A megválasztandó önkormányzati képviselők számának megállapítása - Jánkmajtis</a>
                     </li>
                 </ul>
             </div>
 
             <div class="new">
-                <div class="newTitle">Roma holokauszt megemlékezés</div>
-                <i class="newDate">2018.09.15.</i>
+                <div class="newTitle">Pályázati felhívás óvodapedagógus munkakör betöltésére</div>
+                <i class="newDate">2022.06.13.</i>
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
-                        <a href="news/180915/180915_roma_holokauszt.pdf" target="_blank">Összefoglaló</a>
+                        <a href="news/220613/ovodapedagogus_palyazat.pdf" target="_blank">Pályázati kiírás</a>
                     </li>
                 </ul>
             </div>
 
             <div class="new">
-                <div class="newTitle">Roma tábor</div>
-                <i class="newDate">2018.07.17.</i>
-                <p>Kapcsolódó dokumentum(ok):</p>
-                <ul class="documentList">
-                    <li>
-                        <a href="news/180717/180717_roma_tabor.pdf" target="_blank">Összefoglaló</a>
-                    </li>
-                </ul>
+                <div class="newTitle">NAK választás</div>
+                <i class="newDate">2022.05.05.</i>
+                <p class="news-gal">
+                    <a class="fancybox"
+                        href="news/2022-05-05/nak_valasztas.jpeg"
+                        data-fancybox-group="nak_valasztas"
+                        title="NAK választás">
+                        <img
+                            class="news-gal-tmb"
+                            style="max-width: 200px; height: 282px"
+                            src="news/2022-05-05/nak_valasztas_tmb.jpeg"
+                        />
+                    </a>
+                </p>
             </div>
 
             <div class="new">
-                <div class="newTitle">Pályázati felhívás "Manókuckó" Biztos Kezdet Gyerekház munkatárs beosztás ellátására</div>
-                <i class="newDate">2018.06.26.</i>
+                <div class="newTitle">Pályázati felhívás - Önkormányzati tulajdonú ingatlan értékesítése</div>
+                <i class="newDate">2021.10.22.</i>
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
-                        <a href="news/180626/180626_manokucko_palyazati_felhivas.pdf" target="_blank">Pályázati felhívás</a>
+                        <a href="news/211022/211022_onkormanyzat_ingatlan_ertekesites.pdf" target="_blank">Pályázati kiírás</a>
                     </li>
                 </ul>
             </div>
 
             <div class="new">
                 <div class="newTitle">Roma Kulturális Nap</div>
-                <i class="newDate">2018.05.26.</i>
+                <i class="newDate">2021.08.07.</i>
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
-                        <a href="news/180526/180526_roma_kultura.pdf" target="_blank">Összefoglaló</a>
+                        <a href="news/210807/210807_roma_kultura_szakmai_beszamolo.pdf" target="_blank">Szakmai beszámoló</a>
                     </li>
                 </ul>
             </div>
 
             <div class="new">
-                <div class="newTitle">Jánkmajtis Község Településrendezési Terve</div>
-                <i class="newDate">2018.02.15.</i>
+                <div class="newTitle">Roma tábor</div>
+                <i class="newDate">2021.07.20.</i>
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
-                        <a href="news/180215/180215_modrend_epitesiszabalyzat.pdf" target="_blank">Módosító rendelet a község építési szabályzatáról és szabályozási tervéről</a>
-                    </li>
-                    <li>
-                        <a href="news/180215/180215_rend_telepuleskepvedelem.pdf" target="_blank">Rendelet a településkép védelméről</a>
-                    </li>
-                    <li>
-                        <a href="news/180215/180215_arculatikezikonyv.pdf" target="_blank">Településképi arculati kézikönyv</a>
-                    </li>
-                    <li>
-                        <a href="news/180215/180215_szabterv_bt.pdf" target="_blank">Szabályozási terv módosítás - belterület</a>
-                    </li>
-                    <li>
-                        <a href="news/180215/180215_szabterv_kt.pdf" target="_blank">Szabályozási terv módosítás - külterület</a>
+                        <a href="news/210720/210720_roma_tabor_szakmai_beszamolo.pdf" target="_blank">Szakmai beszámoló</a>
                     </li>
                 </ul>
             </div>
 
             <div class="new">
-                <div class="newTitle">Óvodai állások</div>
-                <i class="newDate">2018.01.10.</i>
+                <div class="newTitle">Gyermekvédelmi ellátásokhoz kapcsolódó formanyomtatványok</div>
+                <i class="newDate">2021.05.24.</i>
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
-                        <a href="news/180110/180110_dajka.pdf" target="_blank">Dajka munkakör</a>
+                        <a href="news/210524/210524_formanyomtatvany_1.pdf" target="_blank">Környezettanulmány hátrányos helyzet, halmozottan hátrányos helyzet megállapításához</a>
                     </li>
                     <li>
-                        <a href="news/180110/180110_ovodavezeto.pdf" target="_blank">Óvodavezető munkakör</a>
+                        <a href="news/210524/210524_formanyomtatvany_2.pdf" target="_blank">Formanyomtatvány a rendszeres gyermekvédelmi kedvezmény megállapításához és felülvizsgálatához, valamint a hátrányos, halmozottan hátrányos helyzet fennállásának megállapításához</a>
                     </li>
+                </ul>
+            </div>
+
+            <div class="new">
+                <div class="newTitle">Óvodai intézményvezető állás</div>
+                <i class="newDate">2021.05.24.</i>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
                     <li>
-                        <a href="news/180110/180110_ovodapedagogus.pdf" target="_blank">Óvodapedagógus munkakör</a>
+                        <a href="news/210524/210524_ovoda_intezmenyvezeto_allas.pdf" target="_blank">Álláshirdetés</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="new">
+                <div class="newTitle">Óvodai intézményvezető állás</div>
+                <i class="newDate">2021.01.10.</i>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="news/210110/210110_ovoda_intezmenyvezeto_allas.pdf" target="_blank">Álláshirdetés</a>
                     </li>
                 </ul>
             </div>
