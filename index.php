@@ -202,6 +202,17 @@ include('header.php');
         <div class="contentContainer">
 
             <div class="new">
+                <div class="newTitle">SK NETWORK Kft. - Földtulajdonosi közösség közgyűlés összehívó</div>
+                <i class="newDate">2025.02.20.</i>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="news/250220/hirdetmeny_sk_network_kft_foldtulajdonosi_kozossegi_kozgyules.pdf" target="_blank">Hirdetmény</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="new">
                 <div class="newTitle">Vegyen részt a KSH Életkörülmény Felmérésében!</div>
                 <i class="newDate">2025.02.07.</i>
                 <p>
