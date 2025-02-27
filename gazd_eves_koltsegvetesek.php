@@ -54,7 +54,7 @@ include('header.php');
                         </tr>
                         <tr>
                             <td>Óvoda 2025. költségvetés</td>
-                            <td><a href="docs/gazdalkodas/Óvoda 2025. költségvetés.pd" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="docs/gazdalkodas/Óvoda 2025. költségvetés.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Óvoda beszámoló 2023</td>
