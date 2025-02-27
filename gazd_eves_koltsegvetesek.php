@@ -53,6 +53,10 @@ include('header.php');
                             <td><a href="docs/gazdalkodas/Óvoda 2024. költségvetés.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
+                            <td>Óvoda 2025. költségvetés</td>
+                            <td><a href="docs/gazdalkodas/Óvoda 2025. költségvetés.pd" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
                             <td>Óvoda beszámoló 2023</td>
                             <td><a href="docs/gazdalkodas/Óvoda beszámoló 2023.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
@@ -65,8 +69,16 @@ include('header.php');
                             <td><a href="docs/gazdalkodas/Roma 2024 költségvetés.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
+                            <td>Roma 2025 költségvetés</td>
+                            <td><a href="docs/gazdalkodas/Roma 2025 költségvetés.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
                             <td>Társulás 2024 költségvetés</td>
                             <td><a href="docs/gazdalkodas/Társulás 2024 költségvetés.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
+                            <td>Társulás 2025 költségvetés</td>
+                            <td><a href="docs/gazdalkodas/Társulás 2025 költségvetés.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Vízikömű 2023 zárszámadás</td>
@@ -75,6 +87,10 @@ include('header.php');
                         <tr>
                             <td>Víziközmű 2024 költségvetés</td>
                             <td><a href="docs/gazdalkodas/Víziközmű 2024 költségvetés.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
+                            <td>Víziközmű 2025 költségvetés</td>
+                            <td><a href="docs/gazdalkodas/Víziközmű 2025 költségvetés.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                     </table>
                 </div>
