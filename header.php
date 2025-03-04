@@ -12,7 +12,7 @@
         <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
 
         <!-- Custom styles -->
-        <link rel="stylesheet" type="text/css" href="css/jankmajtis.css?v=1">
+        <link rel="stylesheet" type="text/css" href="css/jankmajtis.css?v=2">
         <link rel="stylesheet" type="text/css" href="css/jankmajtis.mobile.css">
 
     </head>
