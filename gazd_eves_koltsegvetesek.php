@@ -27,18 +27,22 @@ include('header.php');
                 <div class="newTitle">Dokumentumok</div>
 
                 <div class="col-12">
-                    <table width="100%" border="0" style="margin-left: unset">
-                        <tr>
-                            <td>Zárszámadás 2022</td>
-                            <td><a href="./docs/gazdalkodas/Jánkmajtis 2022. zárszámadás.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
-                        </tr>
+                    <table width="100%" border="0" style="margin-left: unset; border: 1px">
                         <tr>
                             <td>Költségvetés 2023</td>
                             <td><a href="./docs/gazdalkodas/Jánkmajtis 2023. költségvetés.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
-                            <td>Zárszámadás 2023</td>
-                            <td><a href="./docs/gazdalkodas/Jánkmajtis 2023. zárszámadás.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td>Költségvetés 2024</td>
+                            <td><a href="./docs/gazdalkodas/Jánkmajtis 2024. költségvetés.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
+                            <td>Költségvetés 2025</td>
+                            <td><a href="./docs/gazdalkodas/Jánkmajtis 2025. költségvetés.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
+                            <td>Zárszámadás 2022</td>
+                            <td><a href="./docs/gazdalkodas/Jánkmajtis 2022. zárszámadás.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Zárszámadás 2023</td>
