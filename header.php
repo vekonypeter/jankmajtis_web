@@ -209,7 +209,7 @@
                     <ul>
                         <li><a href="./gazd_vizsgalatok.php">Vizsgálatok, ellenőrzések listája</a></li>
                         <li><a href="./gazd_asz.php">Az Állami Számvevőszék ellenőrzései</a></li>
-                        <li><a href="./gazd_egyeb.php">Egyéb ellenőrzések, vizsgálatok</li>
+                        <li><a href="./gazd_egyeb.php">Egyéb ellenőrzések, vizsgálatok</a></li>
                         <li>Működés eredményessége, teljesítmény</li>
                         <li>Működési statisztika</li>
                     </ul>
