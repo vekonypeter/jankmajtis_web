@@ -239,7 +239,9 @@ table {
     text-align: justify;
 }
 
-.new > p,ul,table {
+.new > p,
+.new > ul,
+.new > table {
     margin-left: 20px;
     padding-right: 20px;
 }
@@ -577,4 +579,25 @@ table {
 .fa-menu {
     margin-left: 6px;
     font-size: 0.8rem;
+}
+
+/*******************
+ DOC. DOWNLOAD PAGES
+********************/
+
+.docs-table {
+    border-collapse: collapse;
+    line-height: 1.6em;
+}
+
+.docs-table td {
+    padding-left: 4px;
+}
+
+.docs-table tr:nth-child(odd):not(:only-child) {
+    background: #b9b9b9;
+}
+
+.docs-table td:nth-child(2) {
+    text-align: center;
 }

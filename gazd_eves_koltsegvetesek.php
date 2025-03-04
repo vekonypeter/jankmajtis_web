@@ -23,11 +23,10 @@ include('header.php');
     
         <div class="contentContainer">
 
-            <div class="row new">
-                <div class="newTitle">Dokumentumok</div>
+            <div class="row">
 
                 <div class="col-12">
-                    <table width="100%" border="0" style="margin-left: unset; border: 1px">
+                    <table width="100%" class="docs-table">
                         <tr>
                             <td>Költségvetés 2023</td>
                             <td><a href="./docs/gazdalkodas/Jánkmajtis 2023. költségvetés.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>

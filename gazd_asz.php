@@ -23,11 +23,10 @@ include('header.php');
     
         <div class="contentContainer">
 
-            <div class="row new">
-                <div class="newTitle">Dokumentumok</div>
+            <div class="row">
                
                 <div class="col-12">
-                    <table width="100%" border="0" style="margin-left: unset">
+                    <table width="100%" class="docs-table">
                         <tr>
                             <td>Önkormányzatok ellenőrzése - Az önkormányzatok integritásának ellenőrzése 2021</td>
                             <td><a href="./docs/gazdalkodas/asz_ellenorzes.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
