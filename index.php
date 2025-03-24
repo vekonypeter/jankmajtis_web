@@ -201,6 +201,17 @@ include('header.php');
 
         <div class="contentContainer">
 
+             <div class="new">
+                <div class="newTitle">NODERNA TEAM Kft. végzés</div>
+                <i class="newDate">2025.03.24.</i>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="news/250324/noderna_team_kft_vegzes.pdf" target="_blank">Végzés</a>
+                    </li>
+                </ul>
+            </div>
+
             <div class="new">
                 <div class="newTitle">SK NETWORK Kft. - Földtulajdonosi közösség közgyűlés összehívó</div>
                 <i class="newDate">2025.02.20.</i>
