@@ -201,28 +201,6 @@ include('header.php');
 
         <div class="contentContainer">
 
-            <div class="new">
-                <div class="newTitle">Ingatlanárverési hirdetmény</div>
-                <i class="newDate">2025.05.27.</i>
-                <p>Kapcsolódó dokumentum(ok):</p>
-                <ul class="documentList">
-                    <li>
-                        <a href="news/250527/ingatlan_arveres.pdf" target="_blank">Hirdetmény</a>
-                    </li>
-                </ul>
-            </div>
-
-            <div class="new">
-                <div class="newTitle">NEMESTER 2000 Fémszerkezet Gyártó és Szolgáltató Kft. végzés</div>
-                <i class="newDate">2025.05.27.</i>
-                <p>Kapcsolódó dokumentum(ok):</p>
-                <ul class="documentList">
-                    <li>
-                        <a href="news/250527/nemester_2000_kft_vegzes.pdf" target="_blank">Végzés</a>
-                    </li>
-                </ul>
-            </div>
-
              <div class="new">
                 <div class="newTitle">NODERNA TEAM Kft. végzés</div>
                 <i class="newDate">2025.03.24.</i>
