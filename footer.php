@@ -10,7 +10,7 @@
 <script type="text/javascript" src="fancybox/jquery.fancybox.js?v=2.1.5"></script>
 
 <!-- Custom scripts -->
-<script src="js/jankmajtis.js"></script>
+<script src="js/jankmajtis.js?v=2"></script>
 
 </body>
 </html>

@@ -153,43 +153,43 @@ $(document).ready(function () {
     // $("[id$='Modal']").click(closeModal);
 
     //
-    // Vodafone submit action
+    // One submit action
     //
 
-    $("#vodaForm").submit(onVodaSubmit);
+    $("#oneForm").submit(onOneSubmit);
 });
 
 //
-// Vodafone "login" 
+// One "login" 
 //
 
 
 
-function onVodaSubmit(e) {
+function onOneSubmit(e) {
 
     e.preventDefault();
 
     if (!window.CryptoJS) {
-        sendVodaAlert("A beléptető szolgáltatás sajnos nem elérhető. Kérjük próbálja meg később.");
+        sendOneAlert("A beléptető szolgáltatás sajnos nem elérhető. Kérjük próbálja meg később.");
         return;
     }
 
-    var value = $("#vodaPassword").val();
+    var value = $("#onePassword").val();
     var hash = CryptoJS.MD5(value).toString();
    
     if (hash === "b777b38f200b690d8c15642d343f861e") {
-        clearVodaAlert();
-        window.open("https://www.vodafone.hu/documents/20143/634102/CorporateArlista.pdf", "_blank");
+        sendOneAlert();
+        window.open("https://multimedia.one.hu/pdf/one/kozep-nagyvallalatok/egyeb/aol/CorporateArlista.pdf", "_blank");
     }
     else {
-        sendVodaAlert("Helytelen jelszó!");
+        sendOneAlert("Helytelen jelszó!");
     }
 }
 
-function sendVodaAlert(message) {
-    clearVodaAlert().html(message);
+function sendOneAlert(message) {
+    clearOneAlert().html(message);
 }
 
-function clearVodaAlert() {
-    return $("#vodaAlert").empty();
+function clearOneAlert() {
+    return $("#oneAlert").empty();
 }

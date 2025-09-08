@@ -109,9 +109,9 @@ include('header.php');
                     style="height:unset;">
             </a>
 
-            <a href="vodafone.php" class="sideBarElement sideBarVoda sideBarSelectable">
-                <img src="images_png/vodafonelogo.png" alt="Vodafone">
-                <strong>Kormányzati csomagos készülékárlista</strong>
+            <a href="one.php" class="sideBarElement sideBarOne sideBarSelectable">
+                <img src="images_png/onelogo.png" alt="One">
+                <div><strong>Kormányzati csomagos készülékárlista</strong></div>
             </a>
         </div>
     </div>
