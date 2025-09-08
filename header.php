@@ -12,7 +12,7 @@
         <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
 
         <!-- Custom styles -->
-        <link rel="stylesheet" type="text/css" href="css/jankmajtis.css?v=2">
+        <link rel="stylesheet" type="text/css" href="css/jankmajtis.css?v=3">
         <link rel="stylesheet" type="text/css" href="css/jankmajtis.mobile.css">
 
     </head>
@@ -222,7 +222,7 @@
                     <div class="subMenuHeader" style="margin-top: 20px">Működés</div>
                     <ul>
                         <li>A foglalkoztatottak (a létszám, illetmények, juttatások és költségtérítések adatait a költségvetési beszámoló tartalmazza)</li>
-                        <li>Támogatások</li>
+                        <li><a href="./gazd_tamogatasok.php">Támogatások</a></li>
                         <li>Szerződések</li>
                         <li>Koncessziók</li>
                         <li>Egyéb kifizetések</li>
