@@ -1,0 +1,15 @@
+{
+  "name": "jankmajtis-web-v2",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve",
+    "setup": "node scripts/setup.js"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}
+
+

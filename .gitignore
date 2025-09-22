@@ -4,3 +4,7 @@ docs/
 .DS_STORE
 
 .vscode
+
+# Dependencies
+node_modules/
+_site/
