@@ -11,6 +11,9 @@
         <!-- W3.CSS -->
         <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
 
+        <!-- Bootstrap CSS -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+
         <!-- Custom styles -->
         <link rel="stylesheet" type="text/css" href="css/jankmajtis.css?v=4">
         <link rel="stylesheet" type="text/css" href="css/jankmajtis.mobile.css?v=2">
