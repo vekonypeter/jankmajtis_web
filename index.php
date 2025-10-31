@@ -202,6 +202,17 @@ include('header.php');
         <div class="contentContainer">
 
             <div class="new">
+                <div class="newTitle">Kerpics Bau Kft. végzés</div>
+                <i class="newDate">2025.10.31.</i>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="news/251031/kerpics_bau_kft_vegzes.pdf" target="_blank">Végzés</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="new">
                 <div class="newTitle">Ingatlan árverési hirdetmény</div>
                 <i class="newDate">2025.10.07.</i>
                 <p>Kapcsolódó dokumentum(ok):</p>
