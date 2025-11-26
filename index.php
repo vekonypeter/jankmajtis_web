@@ -202,50 +202,6 @@ include('header.php');
         <div class="contentContainer">
 
             <div class="new">
-                <div class="newTitle">Kerpics Bau Kft. végzés</div>
-                <i class="newDate">2025.10.31.</i>
-                <p>Kapcsolódó dokumentum(ok):</p>
-                <ul class="documentList">
-                    <li>
-                        <a href="news/251031/kerpics_bau_kft_vegzes.pdf" target="_blank">Végzés</a>
-                    </li>
-                </ul>
-            </div>
-
-            <div class="new">
-                <div class="newTitle">Ingatlan árverési hirdetmény</div>
-                <i class="newDate">2025.10.07.</i>
-                <p>Kapcsolódó dokumentum(ok):</p>
-                <ul class="documentList">
-                    <li>
-                        <a href="news/251007/ingatlan_arveres.pdf" target="_blank">Hirdetmény</a>
-                    </li>
-                </ul>
-            </div>
-
-             <div class="new">
-                <div class="newTitle">NODERNA TEAM Kft. végzés</div>
-                <i class="newDate">2025.03.24.</i>
-                <p>Kapcsolódó dokumentum(ok):</p>
-                <ul class="documentList">
-                    <li>
-                        <a href="news/250324/noderna_team_kft_vegzes.pdf" target="_blank">Végzés</a>
-                    </li>
-                </ul>
-            </div>
-
-            <div class="new">
-                <div class="newTitle">SK NETWORK Kft. - Földtulajdonosi közösség közgyűlés összehívó</div>
-                <i class="newDate">2025.02.20.</i>
-                <p>Kapcsolódó dokumentum(ok):</p>
-                <ul class="documentList">
-                    <li>
-                        <a href="news/250220/hirdetmeny_sk_network_kft_foldtulajdonosi_kozossegi_kozgyules.pdf" target="_blank">Hirdetmény</a>
-                    </li>
-                </ul>
-            </div>
-
-            <div class="new">
                 <div class="newTitle">Vegyen részt a KSH Életkörülmény Felmérésében!</div>
                 <i class="newDate">2025.02.07.</i>
                 <p>
