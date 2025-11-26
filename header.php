@@ -175,15 +175,13 @@
 
             <div class="subMenu">
                 <div class="subMenuContainer">
-                    <ul>
-                        <li><a href="https://www.valasztas.hu/ugyintezes" target="_blank">Választási ügyintézés<i class="fa-solid fa-menu fa-arrow-up-right-from-square"></i></a>
-                        </li>
-                    </ul>
-                    <div class="subMenuHeader" style="margin-top: 20px">Jánkmajtis</div>
+                    <div class="subMenuHeader">Jánkmajtis</div>
                     <ul>
                         <li><a href="./valasztas-jm-szervek.php">Választási szervek</a>
                         </li>
-                        <li><a href="./valasztas-jm-altalanos-2024.php">2024. évi általános választások</a>
+                        <li><a href="https://www.valasztas.hu/ugyintezes" target="_blank">Választási ügyintézés<i class="fa-solid fa-menu fa-arrow-up-right-from-square"></i></a>
+                        </li>
+                        <li><a href="https://www.valasztas.hu/" target="_blank">2026. évi választások<i class="fa-solid fa-menu fa-arrow-up-right-from-square"></i></a>
                         </li>
                         <li><a href="./valasztas-jm-korabbi.php">Korábbi választások</a>
                         </li>
@@ -192,7 +190,9 @@
                     <ul>
                         <li><a href="./valasztas-dr-szervek.php">Választási szervek</a>
                         </li>
-                        <li><a href="./valasztas-dr-altalanos-2024.php">2024. évi általános választások</a>
+                        <li><a href="https://www.valasztas.hu/ugyintezes" target="_blank">Választási ügyintézés<i class="fa-solid fa-menu fa-arrow-up-right-from-square"></i></a>
+                        </li>
+                        <li><a href="https://www.valasztas.hu/" target="_blank">2026. évi választások<i class="fa-solid fa-menu fa-arrow-up-right-from-square"></i></a>
                         </li>
                         <li><a href="./valasztas-dr-korabbi.php">Korábbi választások</a>
                         </li>

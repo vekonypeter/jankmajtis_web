@@ -28,6 +28,7 @@ include('header.php');
                 <div class="newTitle">Helyi választási iroda</div>
                 <div class="col-6">
                     <p>
+                        <br />
                         <strong>Vezető: Dr. Erdei Anita</strong>
                     </p>
                     <table width="100%" border="0" style="margin-left: unset">
@@ -58,6 +59,7 @@ include('header.php');
                 </div>
                 <div class="col-12">
                     <p>
+                        <br />
                         <strong>Dokumentumok:</strong>
                     </p>
                     <table border="0" style="margin-left: unset">
@@ -78,9 +80,28 @@ include('header.php');
             </div>
 
             <div class="row new">
-                <div class="newTitle">Választási bizottság</div>
+                <div class="newTitle">Helyi választási bizottság</div>
+                <div class="col-6">
+                    <p>
+                        <br />
+                        <strong>Tagok és póttagok:</strong>
+                    </p>
+                    <table width="100%" border="0" style="margin-left: unset">
+                        <tr>
+                            <td><i>Feltöltés alatt...</i></td>
+                        </tr>
+                    </table>
+                </div>
                 <div class="col-12">
-                    <p>Feltöltés alatt...</p>
+                    <p>
+                        <br />
+                        <strong>Dokumentumok:</strong>
+                    </p>
+                    <table width="100%" border="0" style="margin-left: unset">
+                        <tr>
+                            <td><i>Feltöltés alatt...</i></td>
+                        </tr>
+                    </table>
                 </div>
             </div>
 

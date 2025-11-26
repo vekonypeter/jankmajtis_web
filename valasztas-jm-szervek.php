@@ -24,10 +24,11 @@ include('header.php');
     
         <div class="contentContainer">
 
-            <div class="row new">
+           <div class="row new">
                 <div class="newTitle">Helyi választási iroda</div>
                 <div class="col-6">
                     <p>
+                        <br />
                         <strong>Vezető: Dr. Erdei Anita</strong>
                     </p>
                     <table width="100%" border="0" style="margin-left: unset">
@@ -58,29 +59,49 @@ include('header.php');
                 </div>
                 <div class="col-12">
                     <p>
+                        <br />
                         <strong>Dokumentumok:</strong>
                     </p>
                     <table border="0" style="margin-left: unset">
                         <tr>
                             <td>A választási iroda vezetőjének a mandátumok számának megállapításáról szóló határozata:</td>
-                            <td><a href="./docs/valasztas_2024/kepv_test_letszam_jm.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="./docs/valasztas_2024/kepv_test_letszam_dr.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Egyéni listás és az egyéni választókerületi jelölt állításához szükséges ajánlások számának meghatározása:</td>
-                            <td><a href="./docs/valasztas_2024/egyeni_jm.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="./docs/valasztas_2024/egyeni_dr.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Polgármesterjelölt állításához szükséges ajánlások számának meghatározása:</td>
-                            <td><a href="./docs/valasztas_2024/pm_jm.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="./docs/valasztas_2024/pm_dr.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                     </table>
                 </div>
             </div>
 
             <div class="row new">
-                <div class="newTitle">Választási bizottság</div>
+                <div class="newTitle">Helyi választási bizottság</div>
+                <div class="col-6">
+                    <p>
+                        <br />
+                        <strong>Tagok és póttagok:</strong>
+                    </p>
+                    <table width="100%" border="0" style="margin-left: unset">
+                        <tr>
+                            <td><i>Feltöltés alatt...</i></td>
+                        </tr>
+                    </table>
+                </div>
                 <div class="col-12">
-                    <p>Feltöltés alatt...</p>
+                    <p>
+                        <br />
+                        <strong>Dokumentumok:</strong>
+                    </p>
+                    <table width="100%" border="0" style="margin-left: unset">
+                        <tr>
+                            <td><i>Feltöltés alatt...</i></td>
+                        </tr>
+                    </table>
                 </div>
             </div>
 
