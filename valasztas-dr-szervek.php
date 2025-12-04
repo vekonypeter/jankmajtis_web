@@ -64,6 +64,15 @@ include('header.php');
                     </p>
                     <table border="0" style="margin-left: unset">
                         <tr>
+                            <td>
+                                <p> <!-- using p for more padding to make this stand out a bit from other docs -->
+                                    Jelentkezzen szavazatszámláló bizottsági tagnak az országgyűlési választásokra!<br />
+                                    <i>A kisfilm a <a href="https://www.valasztas.hu" target="_blank">www.valasztas.hu</a> oldalon az alábbi linken elérhető: <a href="https://www.valasztas.hu/szszb-tagok-toborzasa" target="_blank">www.valasztas.hu/szszb-tagok-toborzasa</a></i>
+                                </p>
+                            </td>
+                            <td valign="top"><a href="./docs/valasztas_2026/szszb-jelentkezes.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
                             <td>A választási iroda vezetőjének a mandátumok számának megállapításáról szóló határozata:</td>
                             <td><a href="./docs/valasztas_2024/kepv_test_letszam_dr.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
