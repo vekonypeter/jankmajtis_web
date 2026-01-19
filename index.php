@@ -202,11 +202,35 @@ include('header.php');
         <div class="contentContainer">
 
             <div class="new">
+                <div class="newTitle">Országgyűlési választások 2026</div>
+                <i class="newDate">2026.01.19.</i>
+                <p>
+                    <a class="fancybox"
+                        href="news/260119/valasztas_2026.jpg"
+                        data-fancybox-group="ov_2026"
+                        title="Országgyűlési választások 2026">
+                        <img
+                            class="news-gal-tmb"
+                            style="max-width: 200px; height: 282px"
+                            src="news/260119/valasztas_2026_tmb.jpg"
+                        />
+                    </a>
+                </p>
+            </div>
+
+            <div class="new">
                 <div class="newTitle">Vegyen részt a KSH Életkörülmény Felmérésében!</div>
                 <i class="newDate">2025.02.07.</i>
                 <p>
-                    <a target="_blank" href="news/250207/eletkorulmeny_plakat_2025.pdf" title="KSH Életkörülmény Felmérés">
-                        <img style="max-width: 200px; height: 282px" src="news/250207/eletkorulmeny_plakat_2025_tmb.jpg" />
+                    <a class="fancybox"
+                        href="news/250207/eletkorulmeny_plakat_2025.pdf"
+                        data-fancybox-group="ksh_elet"
+                        title="KSH Életkörülmény Felmérés">
+                        <img
+                            class="news-gal-tmb"
+                            style="max-width: 200px; height: 282px"
+                            src="news/250207/eletkorulmeny_plakat_2025_tmb.jpg"
+                        />
                     </a>
                 </p>
             </div>
