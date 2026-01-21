@@ -111,6 +111,10 @@
                         </li>
                         <li><a href="./kisebbsegionk.php">Roma Nemzetiségi Önkormányzat</a>
                         </li>
+                        <li><a href="./hesz_jm.php">Jánkmajtis HÉSZ és mellékletei</a>
+                        </li>
+                        <li><a href="./hesz_dr.php">Darnó HÉSZ és mellékletei</a>
+                        </li>
                     </ul>
                 </div>
             </div>
