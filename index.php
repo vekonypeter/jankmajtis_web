@@ -202,6 +202,28 @@ include('header.php');
         <div class="contentContainer">
 
             <div class="new">
+                <div class="newTitle">USTD Solution Kft. felszámolás</div>
+                <i class="newDate">2026.02.18.</i>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="news/260218/ustd_solution_vegzes.pdf" target="_blank">Végzés</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="new">
+                <div class="newTitle">Packard Trade Kft. felszámolás</div>
+                <i class="newDate">2026.02.18.</i>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="news/260218/packard_trade_vegzes.pdf" target="_blank">Végzés</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="new">
                 <div class="newTitle">Országgyűlési választások 2026</div>
                 <i class="newDate">2026.01.19.</i>
                 <p>
