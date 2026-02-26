@@ -1,216 +1,312 @@
 <!DOCTYPE html>
-<html>
+<html lang="hu">
     <head>
         <title>{{ title or "Jánkmajtis község" }}</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        <!-- fancybox -->
-        <link rel="stylesheet" type="text/css" href="/fancybox/jquery.fancybox.css?v=2.1.5" media="screen" />
-
-        
+        <!-- Google Fonts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
 
         <!-- Bootstrap CSS -->
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 
-        <!-- Custom styles -->
-        <link rel="stylesheet" type="text/css" href="/css/jankmajtis.css?v=4">
-        <link rel="stylesheet" type="text/css" href="/css/jankmajtis.mobile.css?v=2">
-
+        <!-- Site styles -->
+        <link rel="stylesheet" href="/css/site.css?v=1">
     </head>
     <body>
 
-        <div id="wrapper">
-
-            <div id="header">
-
-                <img class="headerImage" src="/images_jpg/slides/slide0.jpg" alt="slide0">
-                <img class="headerImage" src="/images_jpg/slides/slide1.jpg" alt="slide1">
-                <img class="headerImage" src="/images_jpg/slides/slide2.jpg" alt="slide2">
-                <img class="headerImage" src="/images_jpg/slides/slide3.jpg" alt="slide3">
-                <img class="headerImage" src="/images_jpg/slides/slide4.jpg" alt="slide4">
-
-                <a href="/index.html">
-                    <div id="subheader">
-                        <div id="crest">
-                            <img src="/images_png/cimer_jo_kicsi_javitott.png" alt="Cimer" />
-                        </div>
-                    </div>
+        {# ========== NAVIGATION ========== #}
+        <nav class="site-nav">
+            <div class="site-nav__inner">
+                <a href="/index.html" class="site-nav__brand">
+                    <img class="site-nav__crest" src="/images_png/cimer_jo_kicsi_javitott_korvonal.png" alt="Cimer">
+                    <span class="site-nav__brand-text">Jánkmajtis</span>
                 </a>
-            </div>
 
-            <div id="menuBar">
-                <img id="crest-mobile" src="/images_png/cimer_jo_kicsi_javitott_korvonal.png" alt="Cimer" />
-                <div id="headerCaption-mobile">
-                    <h3>Jánkmajtis</h3>
-                </div>
-
-                <a href="/index.html"><div class="menuBtn">Főoldal</div></a>
-                <div class="menuBtn subbedMenu" onclick="submenu(0)">Településünk</div>
-                <div class="menuBtn subbedMenu" onclick="submenu(1)">Önkormányzat</div>
-                <div class="menuBtn subbedMenu" onclick="submenu(2)">Intézmények</div>
-                <a href="/egyhazak.html"><div class="menuBtn">Egyházak</div></a>
-                <div class="menuBtn subbedMenu" onclick="submenu(3)">Civil szervezetek</div>
-                <div class="menuBtn subbedMenu" onclick="submenu(4)">Vállalkozások</div>
-                <div class="menuBtn subbedMenu" onclick="submenu(5)">Pályázatok</div>
-                <div class="menuBtn subbedMenu" onclick="submenu(6)">Választási információk</div>
-                <div class="menuBtn subbedMenu" onclick="submenu(7)">Gazdálkodási adatok</div>
-                <a href="/ASP.html" target="_blank"><div class="menuBtn">ASP Központ<i class="fa-solid fa-menu fa-arrow-up-right-from-square"></i></div></a>
-            
-                <div id="burger" onclick="mainmenu()">
-                    <span class="burgerLine"></span>
-                    <span class="burgerLine"></span>
-                    <span class="burgerLine"></span>
-                </div>
-            </div>
-
-            <div id="mainMenu">
-                <ul>
-                    <li><a href="/index.html">Főoldal</a>
+                <ul class="site-nav__menu">
+                    <li class="site-nav__item">
+                        <a href="/index.html" class="site-nav__link">Főoldal</a>
                     </li>
-                    <li onclick="submenu(0)"><a>Településünk</a>
+                    <li class="site-nav__item">
+                        <button class="site-nav__link" data-dropdown="dd-telepules">Településünk <i class="fa-solid fa-chevron-down"></i></button>
+                        <div class="site-nav__dropdown" id="dd-telepules">
+                            <ul class="site-nav__dropdown-list">
+                                <li><a href="/kozsegunkrol.html">A község bemutatása</a></li>
+                                <li><a href="/diszpolgarok.html">Díszpolgárok</a></li>
+                            </ul>
+                        </div>
                     </li>
-                    <li onclick="submenu(1)"><a>Önkormányzat</a>
+                    <li class="site-nav__item">
+                        <button class="site-nav__link" data-dropdown="dd-onkormanyzat">Önkormányzat <i class="fa-solid fa-chevron-down"></i></button>
+                        <div class="site-nav__dropdown" id="dd-onkormanyzat">
+                            <ul class="site-nav__dropdown-list">
+                                <li><a href="/korjegyzoseg.html">Körjegyzőség</a></li>
+                                <li><a href="/kisebbsegionk.html">Roma Nemzetiségi Önkormányzat</a></li>
+                            </ul>
+                        </div>
                     </li>
-                    <li onclick="submenu(2)"><a>Intézmények</a>
+                    <li class="site-nav__item">
+                        <button class="site-nav__link" data-dropdown="dd-intezmenyek">Intézmények <i class="fa-solid fa-chevron-down"></i></button>
+                        <div class="site-nav__dropdown" id="dd-intezmenyek">
+                            <ul class="site-nav__dropdown-list">
+                                <li><a href="/iskola.html">Általános iskola</a></li>
+                                <li><a href="/ovoda.html">Óvoda</a></li>
+                                <li><a href="/gondozasikp.html">Gondozási központ</a></li>
+                                <li><a href="/muvhaz.html">Művelődési ház</a></li>
+                                <li><a href="/gyermekjoleti.html">Gyermekjóléti és családsegítő szolgálat</a></li>
+                                <li><a href="/tamogatoszolg.html">Támogató szolgálat</a></li>
+                            </ul>
+                        </div>
                     </li>
-                    <li><a href="/egyhazak.html">Egyházak</a>
+                    <li class="site-nav__item">
+                        <a href="/egyhazak.html" class="site-nav__link">Egyházak</a>
                     </li>
-                    <li onclick="submenu(3)"><a>Civil szervezetek</a>
+                    <li class="site-nav__item">
+                        <button class="site-nav__link" data-dropdown="dd-civil">Civil szervezetek <i class="fa-solid fa-chevron-down"></i></button>
+                        <div class="site-nav__dropdown" id="dd-civil">
+                            <ul class="site-nav__dropdown-list">
+                                <li><a href="/noszovetseg.html">Nőszövetség</a></li>
+                                <li><a href="/polgarorseg.html">Polgárőrség</a></li>
+                                <li><a href="/futbalse.html">Jánkmajtis KSE</a></li>
+                                <li><a href="/nyugdijasklub.html">Nyugdíjasklub</a></li>
+                            </ul>
+                        </div>
                     </li>
-                    <li onclick="submenu(4)"><a>Vállalkozások</a>
+                    <li class="site-nav__item">
+                        <button class="site-nav__link" data-dropdown="dd-vallalkozasok">Vállalkozások <i class="fa-solid fa-chevron-down"></i></button>
+                        <div class="site-nav__dropdown" id="dd-vallalkozasok">
+                            <ul class="site-nav__dropdown-list">
+                                <li><a href="/docs/vallalkozasok.pdf" target="_blank">Jánkmajtison működő vállalkozások <i class="fa-solid fa-file-pdf"></i></a></li>
+                            </ul>
+                        </div>
                     </li>
-                    <li onclick="submenu(5)"><a>Pályázatok</a>
+                    <li class="site-nav__item">
+                        <button class="site-nav__link" data-dropdown="dd-palyazatok">Pályázatok <i class="fa-solid fa-chevron-down"></i></button>
+                        <div class="site-nav__dropdown" id="dd-palyazatok">
+                            <ul class="site-nav__dropdown-list">
+                                <li><a href="/napelem.html">Napelemes rendszer telepítése</a></li>
+                                <li><a href="/ovodafejlesztes.html">Napközi Otthonos Óvoda fejlesztése</a></li>
+                                <li><a href="/docs/GondKozpKonyhaFejlesztes.pdf" target="_blank">Gondozási Központ konyhájának fejlesztése <i class="fa-solid fa-file-pdf"></i></a></li>
+                                <li><a href="/docs/KoztemetoFejlesztes.pdf" target="_blank">Köztemető fejlesztése <i class="fa-solid fa-file-pdf"></i></a></li>
+                            </ul>
+                        </div>
                     </li>
-                    <li onclick="submenu(6)"><a>Választási információk</a>
+                    <li class="site-nav__item">
+                        <button class="site-nav__link" data-dropdown="dd-valasztasok">Választási információk <i class="fa-solid fa-chevron-down"></i></button>
+                        <div class="site-nav__dropdown site-nav__dropdown--wide" id="dd-valasztasok">
+                            <ul class="site-nav__dropdown-list" style="margin-bottom: var(--space-sm);">
+                                <li><a href="https://www.valasztas.hu/ugyintezes" target="_blank">Választási ügyintézés <i class="fa-solid fa-arrow-up-right-from-square"></i></a></li>
+                            </ul>
+                            <div class="site-nav__dropdown-col">
+                                <div class="site-nav__dropdown-header">Jánkmajtis</div>
+                                <ul class="site-nav__dropdown-list">
+                                    <li><a href="/valasztas-jm-szervek.html">Választási szervek</a></li>
+                                    <li><a href="/valasztas-jm-altalanos-2024.html">2024. évi általános választások</a></li>
+                                    <li><a href="/valasztas-jm-korabbi.html">Korábbi választások</a></li>
+                                </ul>
+                            </div>
+                            <div class="site-nav__dropdown-col">
+                                <div class="site-nav__dropdown-header">Darnó</div>
+                                <ul class="site-nav__dropdown-list">
+                                    <li><a href="/valasztas-dr-szervek.html">Választási szervek</a></li>
+                                    <li><a href="/valasztas-dr-altalanos-2024.html">2024. évi általános választások</a></li>
+                                    <li><a href="/valasztas-dr-korabbi.html">Korábbi választások</a></li>
+                                </ul>
+                            </div>
+                        </div>
                     </li>
-                    <li onclick="submenu(7)"><a>Gazdálkodási adatok</a>
+                    <li class="site-nav__item">
+                        <button class="site-nav__link" data-dropdown="dd-gazdalkodas">Gazdálkodási adatok <i class="fa-solid fa-chevron-down"></i></button>
+                        <div class="site-nav__dropdown" id="dd-gazdalkodas">
+                            <ul class="site-nav__dropdown-list">
+                                <li><a href="/gazd_eves_koltsegvetesek.html">Éves költségvetések, zárszámadások</a></li>
+                                <li><a href="/gazd_asz.html">ÁSZ ellenőrzések</a></li>
+                                <li><a href="/gazd_vizsgalatok.html">Vizsgálatok, ellenőrzések</a></li>
+                                <li><a href="/gazd_tamogatasok.html">Támogatások</a></li>
+                                <li><a href="/gazd_egyeb.html">Egyéb gazdálkodási adatok</a></li>
+                            </ul>
+                        </div>
                     </li>
-                    <li><a href="/ASP.html" target="_blank">ASP Központ<i class="fa-solid fa-menu fa-arrow-up-right-from-square"></i></a>
+                    <li class="site-nav__item">
+                        <a href="/ASP.html" class="site-nav__link" target="_blank">ASP <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
                     </li>
                 </ul>
-            </div>
 
-            <div class="subMenu">
-                <div class="subMenuContainer">
-                    <ul>
-                        <li><a href="/kozsegunkrol.html">A község bemutatása</a>
-                        </li>
-                        <li><a href="/diszpolgarok.html">Díszpolgárok</a>
-                        </li>
-                    </ul>
-                </div>
+                <button class="site-nav__burger" aria-label="Menü">
+                    <span class="site-nav__burger-line"></span>
+                    <span class="site-nav__burger-line"></span>
+                    <span class="site-nav__burger-line"></span>
+                </button>
             </div>
+        </nav>
 
-            <div class="subMenu">
-                <div class="subMenuContainer">
-                    <ul>
-                        <li><a href="/korjegyzoseg.html">Körjegyzőség</a>
-                        </li>
-                        <li><a href="/kisebbsegionk.html">Roma Nemzetiségi Önkormányzat</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <div class="subMenu">
-                <div class="subMenuContainer">
-                    <ul>
-                        <li><a href="/iskola.html">Általános iskola</a>
-                        </li>
-                        <li><a href="/ovoda.html">Óvoda</a>
-                        </li>
-                        <li><a href="/gondozasikp.html">Gondozási központ</a>
-                        </li>
-                        <li><a href="/muvhaz.html">Művelődési ház</a>
-                        </li>
-                        <li><a href="/gyermekjoleti.html">Gyermekjóléti és családsegítő szolgálat</a>
-                        </li>
-                        <li><a href="/tamogatoszolg.html">Támogató szolgálat</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <div class="subMenu">
-                <div class="subMenuContainer">
-                    <ul>
-                        <li><a href="/noszovetseg.html">Nőszövetség</a>
-                        </li>
-                        <li><a href="/polgarorseg.html">Polgárőrség</a>
-                        </li>
-                        <li><a href="/futbalse.html">Jánkmajtis KSE</a>
-                        </li>
-                        <li><a href="/nyugdijasklub.html">Nyugdíjasklub</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <div class="subMenu">
-                <div class="subMenuContainer">
-                    <ul>
-                        <li><a href="/docs/vallalkozasok.pdf" target="_blank">Jánkmajtison működő vállalkozások<i class="fa-solid fa-menu fa-file-pdf"></i></a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <div class="subMenu">
-                <div class="subMenuContainer">
-                    <ul>
-                        <li><a href="/napelem.html">Napelemes rendszer telepítése</a>
-                        </li>
-                        <li><a href="/ovodafejlesztes.html">Napközi Otthonos Óvoda fejlesztése</a>
-                        </li>
-                        <li><a href="/docs/GondKozpKonyhaFejlesztes.pdf" target="_blank">Gondozási Központ konyhájának fejlesztése<i class="fa-solid fa-menu fa-file-pdf"></i></a>
-                        </li>
-                        <li><a href="/docs/KoztemetoFejlesztes.pdf" target="_blank">Köztemető fejlesztése<i class="fa-solid fa-menu fa-file-pdf"></i></a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <div class="subMenu">
-                <div class="subMenuContainer">
-                    <ul>
-                        <li><a href="https://www.valasztas.hu/ugyintezes" target="_blank">Választási ügyintézés<i class="fa-solid fa-menu fa-arrow-up-right-from-square"></i></a>
-                        </li>
-                    </ul>
-                    <div class="subMenuHeader" style="margin-top: 20px">Jánkmajtis</div>
-                    <ul>
-                        <li><a href="/valasztas-jm-szervek.html">Választási szervek</a>
-                        </li>
-                        <li><a href="/valasztas-jm-altalanos-2024.html">2024. évi általános választások</a>
-                        </li>
-                        <li><a href="/valasztas-jm-korabbi.html">Korábbi választások</a>
-                        </li>
-                    </ul>
-                    <div class="subMenuHeader" style="margin-top: 20px">Darnó</div>
-                    <ul>
-                        <li><a href="/valasztas-dr-szervek.html">Választási szervek</a>
-                        </li>
-                        <li><a href="/valasztas-dr-altalanos-2024.html">2024. évi általános választások</a>
-                        </li>
-                        <li><a href="/valasztas-dr-korabbi.html">Korábbi választások</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <div class="container">
-                <div id="content" style="margin: 0;">
-                    {{ content | safe }}
-                </div>
-            </div>
+        {# ========== MOBILE MENU ========== #}
+        <div class="mobile-menu">
+            <ul class="mobile-menu__list">
+                <li class="mobile-menu__item">
+                    <a href="/index.html" class="mobile-menu__link">Főoldal</a>
+                </li>
+                <li class="mobile-menu__item">
+                    <button class="mobile-menu__link" data-mobile-toggle="mob-telepules">Településünk <i class="fa-solid fa-chevron-down"></i></button>
+                    <div class="mobile-menu__sub" id="mob-telepules">
+                        <ul class="mobile-menu__sub-list">
+                            <li><a href="/kozsegunkrol.html">A község bemutatása</a></li>
+                            <li><a href="/diszpolgarok.html">Díszpolgárok</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li class="mobile-menu__item">
+                    <button class="mobile-menu__link" data-mobile-toggle="mob-onkormanyzat">Önkormányzat <i class="fa-solid fa-chevron-down"></i></button>
+                    <div class="mobile-menu__sub" id="mob-onkormanyzat">
+                        <ul class="mobile-menu__sub-list">
+                            <li><a href="/korjegyzoseg.html">Körjegyzőség</a></li>
+                            <li><a href="/kisebbsegionk.html">Roma Nemzetiségi Önkormányzat</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li class="mobile-menu__item">
+                    <button class="mobile-menu__link" data-mobile-toggle="mob-intezmenyek">Intézmények <i class="fa-solid fa-chevron-down"></i></button>
+                    <div class="mobile-menu__sub" id="mob-intezmenyek">
+                        <ul class="mobile-menu__sub-list">
+                            <li><a href="/iskola.html">Általános iskola</a></li>
+                            <li><a href="/ovoda.html">Óvoda</a></li>
+                            <li><a href="/gondozasikp.html">Gondozási központ</a></li>
+                            <li><a href="/muvhaz.html">Művelődési ház</a></li>
+                            <li><a href="/gyermekjoleti.html">Gyermekjóléti és családsegítő szolgálat</a></li>
+                            <li><a href="/tamogatoszolg.html">Támogató szolgálat</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li class="mobile-menu__item">
+                    <a href="/egyhazak.html" class="mobile-menu__link">Egyházak</a>
+                </li>
+                <li class="mobile-menu__item">
+                    <button class="mobile-menu__link" data-mobile-toggle="mob-civil">Civil szervezetek <i class="fa-solid fa-chevron-down"></i></button>
+                    <div class="mobile-menu__sub" id="mob-civil">
+                        <ul class="mobile-menu__sub-list">
+                            <li><a href="/noszovetseg.html">Nőszövetség</a></li>
+                            <li><a href="/polgarorseg.html">Polgárőrség</a></li>
+                            <li><a href="/futbalse.html">Jánkmajtis KSE</a></li>
+                            <li><a href="/nyugdijasklub.html">Nyugdíjasklub</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li class="mobile-menu__item">
+                    <a href="/docs/vallalkozasok.pdf" target="_blank" class="mobile-menu__link">Vállalkozások <i class="fa-solid fa-file-pdf"></i></a>
+                </li>
+                <li class="mobile-menu__item">
+                    <button class="mobile-menu__link" data-mobile-toggle="mob-palyazatok">Pályázatok <i class="fa-solid fa-chevron-down"></i></button>
+                    <div class="mobile-menu__sub" id="mob-palyazatok">
+                        <ul class="mobile-menu__sub-list">
+                            <li><a href="/napelem.html">Napelemes rendszer telepítése</a></li>
+                            <li><a href="/ovodafejlesztes.html">Napközi Otthonos Óvoda fejlesztése</a></li>
+                            <li><a href="/docs/GondKozpKonyhaFejlesztes.pdf" target="_blank">Gondozási Központ konyhájának fejlesztése</a></li>
+                            <li><a href="/docs/KoztemetoFejlesztes.pdf" target="_blank">Köztemető fejlesztése</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li class="mobile-menu__item">
+                    <button class="mobile-menu__link" data-mobile-toggle="mob-valasztasok">Választási információk <i class="fa-solid fa-chevron-down"></i></button>
+                    <div class="mobile-menu__sub" id="mob-valasztasok">
+                        <ul class="mobile-menu__sub-list">
+                            <li><a href="https://www.valasztas.hu/ugyintezes" target="_blank">Választási ügyintézés <i class="fa-solid fa-arrow-up-right-from-square"></i></a></li>
+                        </ul>
+                        <div class="mobile-menu__sub-header">Jánkmajtis</div>
+                        <ul class="mobile-menu__sub-list">
+                            <li><a href="/valasztas-jm-szervek.html">Választási szervek</a></li>
+                            <li><a href="/valasztas-jm-altalanos-2024.html">2024. évi általános választások</a></li>
+                            <li><a href="/valasztas-jm-korabbi.html">Korábbi választások</a></li>
+                        </ul>
+                        <div class="mobile-menu__sub-header">Darnó</div>
+                        <ul class="mobile-menu__sub-list">
+                            <li><a href="/valasztas-dr-szervek.html">Választási szervek</a></li>
+                            <li><a href="/valasztas-dr-altalanos-2024.html">2024. évi általános választások</a></li>
+                            <li><a href="/valasztas-dr-korabbi.html">Korábbi választások</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li class="mobile-menu__item">
+                    <button class="mobile-menu__link" data-mobile-toggle="mob-gazdalkodas">Gazdálkodási adatok <i class="fa-solid fa-chevron-down"></i></button>
+                    <div class="mobile-menu__sub" id="mob-gazdalkodas">
+                        <ul class="mobile-menu__sub-list">
+                            <li><a href="/gazd_eves_koltsegvetesek.html">Éves költségvetések, zárszámadások</a></li>
+                            <li><a href="/gazd_asz.html">ÁSZ ellenőrzések</a></li>
+                            <li><a href="/gazd_vizsgalatok.html">Vizsgálatok, ellenőrzések</a></li>
+                            <li><a href="/gazd_tamogatasok.html">Támogatások</a></li>
+                            <li><a href="/gazd_egyeb.html">Egyéb gazdálkodási adatok</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li class="mobile-menu__item">
+                    <a href="/ASP.html" target="_blank" class="mobile-menu__link">ASP Központ <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                </li>
+            </ul>
         </div>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
-<script src="https://kit.fontawesome.com/65be5a5676.js" crossorigin="anonymous"></script>
-<script type="text/javascript" src="/fancybox/jquery.fancybox.js?v=2.1.5"></script>
-<script src="/js/jankmajtis.js?v=2"></script>
+        {# ========== PAGE HERO (inner pages only) ========== #}
+        {% if pageName %}
+        <div class="page-hero">
+            <div class="container-xl">
+                <h1 class="page-hero__title">{{ pageName }}</h1>
+                {% if pageDescription %}
+                <p class="page-hero__subtitle">{{ pageDescription }}</p>
+                {% endif %}
+            </div>
+        </div>
+        {% endif %}
 
+        {# ========== MAIN CONTENT ========== #}
+        <main>
+            {{ content | safe }}
+        </main>
+
+        {# ========== FOOTER ========== #}
+        <footer class="site-footer">
+            <div class="container-xl">
+                <div class="site-footer__grid">
+                    <div>
+                        <div class="site-footer__brand">
+                            <img class="site-footer__crest" src="/images_png/cimer_jo_kicsi_javitott.png" alt="Jánkmajtis címere">
+                            <span class="site-footer__brand-name">Jánkmajtis</span>
+                        </div>
+                        <div class="site-footer__address">
+                            4741 Jánkmajtis, Kossuth út 28.<br>
+                            Tel./Fax: 44/566-088<br>
+                            E-mail: jankmajtisph@freemail.hu
+                        </div>
+                    </div>
+                    <div>
+                        <div class="site-footer__heading">Gyorslinkek</div>
+                        <ul class="site-footer__links">
+                            <li><a href="/kozsegunkrol.html">A község bemutatása</a></li>
+                            <li><a href="/korjegyzoseg.html">Körjegyzőség</a></li>
+                            <li><a href="/egyhazak.html">Egyházak</a></li>
+                            <li><a href="/gazd_eves_koltsegvetesek.html">Gazdálkodási adatok</a></li>
+                            <li><a href="/ASP.html" target="_blank">ASP Központ</a></li>
+                        </ul>
+                    </div>
+                    <div>
+                        <div class="site-footer__heading">Intézmények</div>
+                        <ul class="site-footer__links">
+                            <li><a href="/iskola.html">Általános iskola</a></li>
+                            <li><a href="/ovoda.html">Óvoda</a></li>
+                            <li><a href="/gondozasikp.html">Gondozási központ</a></li>
+                            <li><a href="/muvhaz.html">Művelődési ház</a></li>
+                            <li><a href="/gyermekjoleti.html">Gyermekjóléti szolgálat</a></li>
+                            <li><a href="/tamogatoszolg.html">Támogató szolgálat</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="site-footer__bottom">
+                    &copy; 2026 Jánkmajtis Község Önkormányzata
+                </div>
+            </div>
+        </footer>
+
+        <script src="https://kit.fontawesome.com/65be5a5676.js" crossorigin="anonymous"></script>
+        <script src="/js/site.js?v=1"></script>
     </body>
-    </html>
-
-
+</html>

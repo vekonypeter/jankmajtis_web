@@ -1,35 +1,23 @@
 ---
 layout: base.njk
 permalink: "{{ page.fileSlug }}.html"
+pageName: "Kormányzati csomagos készülékárlista"
 ---
 
-<div id="sideleft">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
 
-        <div id="sideBarGrey">
-
-            <div id="headerCaption" class="sideBarElement">
-                Jánkmajtis<br /><span class="lower">község<br />honlapja</span>
-            </div>
-
-            <div id="pageName" class="sideBarElement">Kormányzati csomagos készülékárlista</div>
-
-        </div>
-    </div>
-
-    <br>
-
-    <div id="sideright"> 
-        <div class="contentContainer">
-            <div class="row g-3">
-                <div id="oneFormContainer" class="col-12">
-                    <img src="images_png/onelogo.png" alt="One">
-                    <p><strong>A lista letöltéséhez kérem adja meg a kapcsolattartótól kapott jelszót:</strong></p>
-                    <form id="oneForm" method="POST">
-                        <input id="onePassword" name="onePassword" type="password" autofocus />
-                        <input type="submit" value="Letöltés"/>
-                    </form>
-                    <div id="oneAlert"></div>
-                </div>
+<section class="container-xl py-5">
+    <div class="content-card animate-on-scroll">
+        <div class="content-card__body">
+            <div id="oneFormContainer">
+                <img src="images_png/onelogo.png" alt="One">
+                <p><strong>A lista letöltéséhez kérem adja meg a kapcsolattartótól kapott jelszót:</strong></p>
+                <form id="oneForm" method="POST">
+                    <input id="onePassword" name="onePassword" type="password" autofocus>
+                    <input type="submit" value="Letöltés">
+                </form>
+                <div id="oneAlert"></div>
             </div>
         </div>
     </div>
+</section>

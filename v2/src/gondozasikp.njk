@@ -1,35 +1,16 @@
 ---
 layout: base.njk
 permalink: "{{ page.fileSlug }}.html"
+pageName: "Gondozási Központ"
+pageDescription: "Az idősek és rászorulók megsegítéséért működik Gondozási Központunk."
 ---
 
-<div id="sideleft">
-
-        <div id="sideBarGrey">
-
-            <div id="headerCaption" class="sideBarElement">
-                Jánkmajtis<br /><span class="lower">község<br />honlapja</span>
-            </div>
-
-            <div id="pageName" class="sideBarElement">
-                Gondozási Központ
-            </div>
-
-            <div id="pageDescription" class="sideBarElement">
-                Az idősek és rászorulók megsegítéséért működik Gondozási Központunk.
-            </div>
-
-        </div>
-    </div>
-
-
-    <div id="sideright">
-
-        <div class="contentContainer">
-
+<section class="container-xl py-5">
+    <div class="content-card animate-on-scroll">
+        <div class="content-card__body">
             <div class="row g-3">
-                <div class="newTitle">Jánkmajtisi Gondozási Központ</div>
-                <div class="col-4">
+                <div class="content-card__header">Jánkmajtisi Gondozási Központ</div>
+                <div class="col-12 col-md-4">
                     <p>
                         Cím: 4741, Jánkmajtis, Kossuth út 2.<br/>
                         Tel./Fax: 44/566-131 vagy 44/566-132<br/>
@@ -39,13 +20,17 @@ permalink: "{{ page.fileSlug }}.html"
                         <strong>Intézmény vezető:</strong><br/>megbízott vezető
                     </p>
                 </div>
-                <div class="col-8">
-                    <iframe style="width: 100%; min-height: 200px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2672.9397790789235!2d22.650227315199583!3d47.93754857305112!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47386d3d575d7829%3A0x975040e6a845d758!2sJ%C3%A1nkmajtis%2C+Kossuth+Lajos+%C3%BAt+2%2C+4741!5e0!3m2!1shu!2shu!4v1468954070038" frameborder="0" style="border:0" allowfullscreen></iframe>
+                <div class="col-12 col-md-8">
+                    <iframe style="width: 100%; min-height: 200px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2672.9397790789235!2d22.650227315199583!3d47.93754857305112!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47386d3d575d7829%3A0x975040e6a845d758!2sJ%C3%A1nkmajtis%2C+Kossuth+Lajos+%C3%BAt+2%2C+4741!5e0!3m2!1shu!2shu!4v1468954070038" frameborder="0" allowfullscreen loading="lazy"></iframe>
                 </div>
             </div>
+        </div>
+    </div>
 
+    <div class="content-card animate-on-scroll mt-4">
+        <div class="content-card__body">
+            <div class="content-card__header">Szervezeti egységek</div>
             <div class="row g-3">
-                <div class="newTitle">Szervezeti egységek</div>
                 <div class="col-12">
                     <ul>
                         <li>
@@ -71,9 +56,13 @@ permalink: "{{ page.fileSlug }}.html"
                     </p>
                 </div>
             </div>
-            
+        </div>
+    </div>
+
+    <div class="content-card animate-on-scroll mt-4">
+        <div class="content-card__body">
+            <div class="content-card__header">Működési terület</div>
             <div class="row g-3">
-                <div class="newTitle">Működési terület</div>
                 <div class="col-12">
                     <ul>
                         <li>
@@ -85,6 +74,6 @@ permalink: "{{ page.fileSlug }}.html"
                     </ul>
                 </div>
             </div>
-
         </div>
     </div>
+</section>
