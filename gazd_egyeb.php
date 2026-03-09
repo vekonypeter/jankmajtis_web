@@ -28,28 +28,40 @@ include('header.php');
                 <div class="col-12">
                     <table width="100%" class="docs-table">
                         <tr>
+                            <td>2025. éves belső ellenőrzési jelentés és éves összefoglaló ellenőrzési jelentés Jánkmajtis Község Önkormányzata, Intézményei és Közös Hivatala</td>
+                            <td><a href="./docs/gazdalkodas/Jánkmajtis Község Önkormányzata, Intézményei és Közös Hivatala éves összefoglaló jelentés 2025..doc" target="_href">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
+                            <td>2025. éves belső ellenőrzési jelentés és éves összefoglaló ellenőrzési jelentés Jánkmajtis-Csegöld Víziközmű Beruházási Társulás</td>
+                            <td><a href="./docs/gazdalkodas/Jánkmajtis-Csegöld Víziközmű Beruházási Társulás éves összefoglaló jelentés 2025.doc" target="_href">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
+                            <td>2025. éves belső ellenőrzési jelentés és éves összefoglaló ellenőrzési jelentés Jánkmajtis-Darnó Intézményfenntartó Társulás</td>
+                            <td><a href="./docs/gazdalkodas/Jánkmajtis-Darnó Intézményfenntartó Társulás éves összefoglaló jelentés 2025.doc" target="_href">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
                             <td>2025. éves Belső ell.-i Terv Jánkmajtis Község Roma Nemzetiségi Önkormányzata</td>
-                            <td><a href="./docs/gazdalkodas/2025. éves Belső ell.-i Terv Jánkmajtis Község Roma Nemzetiségi Önkormányzata.doc">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="./docs/gazdalkodas/2025. éves Belső ell.-i Terv Jánkmajtis Község Roma Nemzetiségi Önkormányzata.doc" target="_href">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>2025. éves Belső ell.-i Terv Jánkmajtis-Csegöld Víziközmű Beruházási Társulás</td>
-                            <td><a href="./docs/gazdalkodas/2025. éves Belső ell.-i Terv Jánkmajtis-Csegöld Víziközmű Beruházási Társulás.doc">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="./docs/gazdalkodas/2025. éves Belső ell.-i Terv Jánkmajtis-Csegöld Víziközmű Beruházási Társulás.doc" target="_href">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>2025. éves Belső ell.-i Terv Jánkmajtis-Darnó Intézményfenntartó Társulás</td>
-                            <td><a href="./docs/gazdalkodas/2025. éves Belső ell.-i Terv Jánkmajtis-Darnó Intézményfenntartó Társulás.doc">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="./docs/gazdalkodas/2025. éves Belső ell.-i Terv Jánkmajtis-Darnó Intézményfenntartó Társulás.doc" target="_href">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>2025. évi Kozkázatelemzés Jánkmajtis Község Roma Nemzetiségi Önkormányzata</td>
-                            <td><a href="./docs/gazdalkodas/2025. évi Kozkázatelemzés Jánkmajtis Község Roma Nemzetiségi Önkormányzata.doc">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="./docs/gazdalkodas/2025. évi Kozkázatelemzés Jánkmajtis Község Roma Nemzetiségi Önkormányzata.doc" target="_href">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>2025. évi Kozkázatelemzés Jánkmajtis-Csegöld Víziközmű Beruházási Társulás</td>
-                            <td><a href="./docs/gazdalkodas/2025. évi Kozkázatelemzés Jánkmajtis-Csegöld Víziközmű Beruházási Társulás.doc">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="./docs/gazdalkodas/2025. évi Kozkázatelemzés Jánkmajtis-Csegöld Víziközmű Beruházási Társulás.doc" target="_href">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>2025. évi Kozkázatelemzés Jánkmajtis-Darnó Intézményfenntartó Társulás</td>
-                            <td><a href="./docs/gazdalkodas/2025. évi Kozkázatelemzés Jánkmajtis-Darnó Intézményfenntartó Társulás.doc">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="./docs/gazdalkodas/2025. évi Kozkázatelemzés Jánkmajtis-Darnó Intézményfenntartó Társulás.doc" target="_href">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Ellenőrzési jelentés utóellenőrzés Jánkmajtis Község Roma Nemzetiségi Önkormányzata</td>
