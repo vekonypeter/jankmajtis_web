@@ -202,23 +202,40 @@ include('header.php');
         <div class="contentContainer">
 
             <div class="new">
-                <div class="newTitle">USTD Solution Kft. felszámolás</div>
-                <i class="newDate">2026.02.18.</i>
+                <div class="newTitle">Poda Info Kft. felszámolás</div>
+                <i class="newDate">2026.04.01.</i>
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
-                        <a href="news/260218/ustd_solution_vegzes.pdf" target="_blank">Végzés</a>
+                        <a href="news/260401/poda_info_kft_vegzes.pdf" target="_blank">Végzés</a>
                     </li>
                 </ul>
             </div>
 
             <div class="new">
-                <div class="newTitle">Packard Trade Kft. felszámolás</div>
-                <i class="newDate">2026.02.18.</i>
+                <div class="newTitle">Evercool Trade Kft. felszámolás</div>
+                <i class="newDate">2026.04.01.</i>
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
-                        <a href="news/260218/packard_trade_vegzes.pdf" target="_blank">Végzés</a>
+                        <a href="news/260401/evercool_trade_kft_vegzes.pdf" target="_blank">Végzés</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="new">
+                <div class="newTitle">Veszettség elleni védekezés - ebzárlat és legeltetési tilalom</div>
+                <i class="newDate">2026.04.01.</i>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="news/260401/veszettseg_hirdetmeny_2026.docx" target="_blank">Veszettség hirdetmény</a>
+                    </li>
+                    <li>
+                        <a href="news/260401/sz-82-00845-8-2026.pdf" target="_blank">Határozat - ebzárlat és legeltetési tilalom elrendelése (SZ/82/00845-8/2026)</a>
+                    </li>
+                    <li>
+                        <a href="news/260401/sz-82-01045-5.pdf" target="_blank">Határozat (SZ/82/01045-5)</a>
                     </li>
                 </ul>
             </div>
