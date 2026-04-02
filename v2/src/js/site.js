@@ -258,6 +258,21 @@
   }
 
   // ========================
+  //  SUPPORT BANNER
+  // ========================
+
+  function initSupportBanner() {
+    var closeBtn = document.getElementById('finSupportClose');
+    var banner = document.getElementById('finSupportCorner');
+    if (!closeBtn || !banner) return;
+
+    closeBtn.addEventListener('click', function(e) {
+      e.preventDefault();
+      banner.remove();
+    });
+  }
+
+  // ========================
   //  INIT
   // ========================
 
@@ -266,6 +281,7 @@
     initLightbox();
     initScrollAnimations();
     initOneForm();
+    initSupportBanner();
   });
 
 })();

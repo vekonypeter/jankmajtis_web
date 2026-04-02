@@ -1059,6 +1059,28 @@ img { max-width: 100%; height: auto; }
   z-index: 50;
 }
 
+#finSupportCorner img {
+  display: block;
+  width: 100%;
+}
+
+#finSupportClose {
+  position: absolute;
+  top: 4px;
+  right: 4px;
+  width: 28px;
+  height: 28px;
+  border: none;
+  border-radius: 50%;
+  background: rgba(0, 0, 0, 0.6);
+  color: white;
+  font-size: 18px;
+  line-height: 28px;
+  text-align: center;
+  padding: 0;
+  cursor: pointer;
+}
+
 /*******************
       ICONS
 ********************/
@@ -1172,7 +1194,7 @@ img { max-width: 100%; height: auto; }
   }
 
   #finSupportCorner {
-    width: 200px;
+    width: 260px;
   }
 }
 
@@ -1191,7 +1213,7 @@ img { max-width: 100%; height: auto; }
   }
 
   #finSupportCorner {
-    width: 160px;
+    width: 220px;
   }
 
   .gallery-grid {
