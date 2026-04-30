@@ -15,6 +15,7 @@ EXCLUDES="\
   --exclude .git/ \
   --exclude .gitignore \
   --exclude CLAUDE.md \
+  --exclude sandbox/ \
   --exclude v2/ \
   --exclude node_modules/ \
   --exclude .DS_Store \
