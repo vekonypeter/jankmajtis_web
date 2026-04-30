@@ -202,39 +202,6 @@ include('header.php');
         <div class="contentContainer">
 
             <div class="new">
-                <div class="newTitle">Béltecki Jánosné pót-hagyatéki tárgyalás</div>
-                <i class="newDate">2026.04.09.</i>
-                <p>Kapcsolódó dokumentum(ok):</p>
-                <ul class="documentList">
-                    <li>
-                        <a href="news/260409/belteczki_pothagyatek_hirdetmeny.pdf" target="_blank">Hirdetmény</a>
-                    </li>
-                </ul>
-            </div>
-
-            <div class="new">
-                <div class="newTitle">Poda Info Kft. felszámolás</div>
-                <i class="newDate">2026.04.01.</i>
-                <p>Kapcsolódó dokumentum(ok):</p>
-                <ul class="documentList">
-                    <li>
-                        <a href="news/260401/poda_info_kft_vegzes.pdf" target="_blank">Végzés</a>
-                    </li>
-                </ul>
-            </div>
-
-            <div class="new">
-                <div class="newTitle">Evercool Trade Kft. felszámolás</div>
-                <i class="newDate">2026.04.01.</i>
-                <p>Kapcsolódó dokumentum(ok):</p>
-                <ul class="documentList">
-                    <li>
-                        <a href="news/260401/evercool_trade_kft_vegzes.pdf" target="_blank">Végzés</a>
-                    </li>
-                </ul>
-            </div>
-
-            <div class="new">
                 <div class="newTitle">Veszettség elleni védekezés - ebzárlat és legeltetési tilalom</div>
                 <i class="newDate">2026.04.01.</i>
                 <p>Kapcsolódó dokumentum(ok):</p>
