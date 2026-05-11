@@ -202,6 +202,28 @@ include('header.php');
         <div class="contentContainer">
 
             <div class="new">
+                <div class="newTitle">Részleges községi zárlat elrendelése mézelö méhek nyúlós költésrothadás miatt</div>
+                <i class="newDate">2026.05.11.</i>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="news/260511/reszleges_zarlat_meh_koltesrothadas.pdf" target="_blank">Hirdetmény</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="new">
+                <div class="newTitle">Szociális gondozó és ápoló álláspályázat</div>
+                <i class="newDate">2026.05.11.</i>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="news/260511/szoc_gondozo_es_apolo_allas.pdf" target="_blank">Álláshirdetés</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="new">
                 <div class="newTitle">Veszettség elleni védekezés - ebzárlat és legeltetési tilalom</div>
                 <i class="newDate">2026.04.01.</i>
                 <p>Kapcsolódó dokumentum(ok):</p>
