@@ -202,6 +202,28 @@ include('header.php');
         <div class="contentContainer">
 
             <div class="new">
+                <div class="newTitle">Sajtóközlemény - Jánkmajtis Község Művelődési Házának energetikai korszerűsítése</div>
+                <i class="newDate">2026.05.27.</i>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="https://docs.jankmajtis.hu/news/260527/sajtokozlemeny_muvelodesi_haz_energetikai.pdf" target="_blank">Sajtóközlemény</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="new">
+                <div class="newTitle">Hirdetmény - VL98 Trade Kft. „felszámolás alatt” (20.Fpk.920/2025/22.)</div>
+                <i class="newDate">2026.05.27.</i>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="https://docs.jankmajtis.hu/news/260527/hirdetmeny_vl98_trade_felszamolas.pdf" target="_blank">Hirdetmény</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="new">
                 <div class="newTitle">Részleges községi zárlat elrendelése mézelö méhek nyúlós költésrothadás miatt</div>
                 <i class="newDate">2026.05.11.</i>
                 <p>Kapcsolódó dokumentum(ok):</p>
