@@ -68,12 +68,24 @@ include('header.php');
                             <td><a href="docs/gazdalkodas/ovoda_2025_kv_mod.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
+                            <td>Óvoda 2025. zárszámadás</td>
+                            <td><a href="docs/gazdalkodas/ovoda_2025_zarszamadas.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
                             <td>Óvoda 2026. költségvetés</td>
                             <td><a href="./docs/gazdalkodas/Óvoda 2026. költségvetés.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Óvoda beszámoló 2023</td>
                             <td><a href="docs/gazdalkodas/Óvoda beszámoló 2023.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
+                            <td>Óvoda Társulás 2025. költségvetés módosítás</td>
+                            <td><a href="docs/gazdalkodas/ovoda_tarsulas_2025_kv_mod.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
+                            <td>Óvoda Társulás 2025. zárszámadás</td>
+                            <td><a href="docs/gazdalkodas/ovoda_tarsulas_2025_zarszamadas.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Roma 2023 zárszámadás</td>
@@ -126,6 +138,10 @@ include('header.php');
                         <tr>
                             <td>Víziközmű 2025 költségvetés módosítás</td>
                             <td><a href="docs/gazdalkodas/vizikozmu_2025_kv_mod.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
+                            <td>Víziközmű 2025 zárszámadás</td>
+                            <td><a href="docs/gazdalkodas/vizikozmu_2025_zarszamadas.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Víziközmű 2026 költségvetés</td>

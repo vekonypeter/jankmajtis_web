@@ -116,6 +116,22 @@
                         <li><a href="./hesz_dr.php">Darnó HÉSZ és mellékletei</a>
                         </li>
                     </ul>
+
+                    <div class="subMenuHeader" style="margin-top: 20px">Képviselő-testületi ülések</div>
+                    <ul>
+                        <li><a href="./testuleti_2026.php">2026. évi Képviselő-testületi ülések</a>
+                        </li>
+                        <li><a href="./testuleti_2025.php">2025. évi Képviselő-testületi ülések</a>
+                        </li>
+                        <li><a href="./testuleti_2024.php">2024. évi Képviselő-testületi ülések</a>
+                        </li>
+                        <li><a href="./testuleti_2023.php">2023. évi Képviselő-testületi ülések</a>
+                        </li>
+                        <li><a href="./testuleti_penzugyi.php">Pénzügyi és Ügyrendi bizottság</a>
+                        </li>
+                        <li><a href="./testuleti_vizikozmu.php">Jánkmajtis-Csegöld Víziközmű Beruházási Társulás</a>
+                        </li>
+                    </ul>
                 </div>
             </div>
 

@@ -202,6 +202,17 @@ include('header.php');
         <div class="contentContainer">
 
             <div class="new">
+                <div class="newTitle">Közlemény - Körzeti erdőtervezési eljárás megindításáról</div>
+                <i class="newDate">2026.05.20.</i>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="news/260520/erdotervezesi_eljaras_kozlemeny.pdf" target="_blank">Hirdetmény</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="new">
                 <div class="newTitle">Részleges községi zárlat elrendelése mézelö méhek nyúlós költésrothadás miatt</div>
                 <i class="newDate">2026.05.11.</i>
                 <p>Kapcsolódó dokumentum(ok):</p>
