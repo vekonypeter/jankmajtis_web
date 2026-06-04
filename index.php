@@ -46,6 +46,13 @@ include('header.php');
                 <div class="sideBarTenderTitle">Csapadékvíz elvezetés fejlesztése Jánkmajtison</div>
             </a>
 
+            <a class="fancybox" href="images_jpg/MuvhazKorszerusites_tabla.jpg" data-fancybox-group="gallery" title="Jánkmajtis Község Művelődési Házának energetikai korszerűsítése">
+                <img src="images_jpg/MuvhazKorszerusites_tabla.jpg"
+                    alt="Jánkmajtis Község Művelődési Házának energetikai korszerűsítése"
+                    class="sideBarElement sideBarImage sideBarSelectable"
+                    style="height:unset;">
+            </a>
+
             <a class="fancybox" href="images_jpg/CsapadekvizElvezetes_tabla.jpg" data-fancybox-group="gallery" title="Csapadékvíz elvezetés fejlesztése Jánkmajtison">
                 <img src="images_jpg/CsapadekvizElvezetes_tabla_thmb.jpg" alt="Csapadékvíz elvezetés fejlesztése Jánkmajtison" class="sideBarElement sideBarImage sideBarSelectable">
             </a>
@@ -208,17 +215,6 @@ include('header.php');
                 <ul class="documentList">
                     <li>
                         <a href="https://docs.jankmajtis.hu/news/260604/erdotervezesi_eljaras_kozlemeny.pdf" target="_blank">Hirdetmény</a>
-                    </li>
-                </ul>
-            </div>
-
-            <div class="new">
-                <div class="newTitle">Tájékoztató tábla - Magyar Falu Program</div>
-                <i class="newDate">2026.06.04.</i>
-                <p>Kapcsolódó dokumentum(ok):</p>
-                <ul class="documentList">
-                    <li>
-                        <a href="https://docs.jankmajtis.hu/news/260604/tajekoztato_tabla.pdf" target="_blank">Tábla minta</a>
                     </li>
                 </ul>
             </div>
