@@ -117,11 +117,11 @@ include('header.php');
                         </tr>
                         <tr>
                             <td>Meghívó 2019.08.27 - Pénzügyi bizottság</td>
-                            <td><a href="./docs/testuleti_ulesek/penzugyi_ugyrendi/meghivo_20190827_p.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="./docs/testuleti_ulesek/penzugyi_ugyrendi/meghivo_p_20190827.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Meghívó 2019.08.27 - Ügyrendi bizottság</td>
-                            <td><a href="./docs/testuleti_ulesek/penzugyi_ugyrendi/meghivo_20190827_u.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="./docs/testuleti_ulesek/penzugyi_ugyrendi/meghivo_u_20190827.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Jegyzőkönyv 2019.08.27 - Pénzügyi bizottság</td>
@@ -137,11 +137,15 @@ include('header.php');
                         </tr>
                         <tr>
                             <td>Meghívó 2019.08.01 - Pénzügyi bizottság</td>
-                            <td><a href="./docs/testuleti_ulesek/penzugyi_ugyrendi/meghivo_20190801_p.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="./docs/testuleti_ulesek/penzugyi_ugyrendi/meghivo_p_20190801.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Jegyzőkönyv 2019.08.01</td>
                             <td><a href="./docs/testuleti_ulesek/penzugyi_ugyrendi/jkv_20190801.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
+                            <td>Jegyzőkönyv 2019.08.01 - Pénzügyi bizottság</td>
+                            <td><a href="./docs/testuleti_ulesek/penzugyi_ugyrendi/jkv_p_20190801.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Meghívó 2019.07.30</td>
@@ -165,7 +169,7 @@ include('header.php');
                         </tr>
                         <tr>
                             <td>Meghívó 2019.05.31 - Ügyrendi bizottság</td>
-                            <td><a href="./docs/testuleti_ulesek/penzugyi_ugyrendi/meghivo_20190531_u.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="./docs/testuleti_ulesek/penzugyi_ugyrendi/meghivo_u_20190531.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Jegyzőkönyv 2019.05.31 - Pénzügyi bizottság</td>
@@ -174,10 +178,6 @@ include('header.php');
                         <tr>
                             <td>Jegyzőkönyv 2019.05.31 - Ügyrendi bizottság</td>
                             <td><a href="./docs/testuleti_ulesek/penzugyi_ugyrendi/jkv_u_20190531.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
-                        </tr>
-                        <tr>
-                            <td>p_20190801.pdf</td>
-                            <td><a href="./docs/testuleti_ulesek/penzugyi_ugyrendi/p_20190801.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                     </table>
                 </div>
