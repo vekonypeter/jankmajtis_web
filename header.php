@@ -116,6 +116,52 @@
                         <li><a href="./hesz_dr.php">Darnó HÉSZ és mellékletei</a>
                         </li>
                     </ul>
+
+                    <div class="subMenuHeader" style="margin-top: 20px">Jánkmajtisi Képviselő-testületi ülések</div>
+                    <ul>
+                        <li><a href="./testuleti_2026.php">2026. évi</a>
+                        </li>
+                        <li><a href="./testuleti_2025.php">2025. évi</a>
+                        </li>
+                        <li><a href="./testuleti_2024.php">2024. évi</a>
+                        </li>
+                        <li><a href="./testuleti_2023.php">2023. évi</a>
+                        </li>
+                        <li><a href="./testuleti_2022.php">2022. évi</a>
+                        </li>
+                        <li><a href="./testuleti_2021.php">2021. évi</a>
+                        </li>
+                        <li><a href="./testuleti_2020.php">2020. évi</a>
+                        </li>
+                        <li><a href="./testuleti_2019.php">2019. évi</a>
+                        </li>
+                    </ul>
+
+                    <div class="subMenuHeader" style="margin-top: 20px">Darnói Képviselő-testületi ülések</div>
+                    <ul>
+                        <li><a href="./testuleti_dr_2022.php">2022. évi</a>
+                        </li>
+                        <li><a href="./testuleti_dr_2021.php">2021. évi</a>
+                        </li>
+                        <li><a href="./testuleti_dr_2020.php">2020. évi</a>
+                        </li>
+                        <li><a href="./testuleti_dr_2019.php">2019. évi</a>
+                        </li>
+                        <li><a href="./testuleti_dr_bizottsagi.php">Bizottsági ülések</a>
+                        </li>
+                    </ul>
+
+                    <div class="subMenuHeader" style="margin-top: 20px">Bizottságok és társulások</div>
+                    <ul>
+                        <li><a href="./testuleti_penzugyi.php">Pénzügyi és Ügyrendi bizottság</a>
+                        </li>
+                        <li><a href="./testuleti_roma.php">Roma Nemzetiségi Önkormányzat ülései</a>
+                        </li>
+                        <li><a href="./testuleti_darno_tarsulas.php">Jánkmajtis-Darnó Intézményfenntartó Társulás</a>
+                        </li>
+                        <li><a href="./testuleti_vizikozmu.php">Jánkmajtis-Csegöld Víziközmű Beruházási Társulás</a>
+                        </li>
+                    </ul>
                 </div>
             </div>
 
