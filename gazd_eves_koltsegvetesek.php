@@ -160,6 +160,22 @@ include('header.php');
                             <td><a href="https://docs.jankmajtis.hu/gazdalkodas/vizikozmu_2025_kv_mod.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
+                            <td>Társulás + Óvoda 2025 költségvetés</td>
+                            <td><a href="https://docs.jankmajtis.hu/gazdalkodas/tarsulas_ovoda_2025_koltsegvetes.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
+                            <td>Társulás + Óvoda 2025 költségvetés módosítás (május)</td>
+                            <td><a href="https://docs.jankmajtis.hu/gazdalkodas/tarsulas_ovoda_2025_kv_mod_majus.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
+                            <td>Társulás + Óvoda 2025 költségvetés módosítás (november)</td>
+                            <td><a href="https://docs.jankmajtis.hu/gazdalkodas/tarsulas_ovoda_2025_kv_mod_november.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
+                            <td>Társulás 2025 zárszámadás</td>
+                            <td><a href="https://docs.jankmajtis.hu/gazdalkodas/tarsulas_2025_zarszamadas.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
                             <td>Víziközmű 2025 zárszámadás</td>
                             <td><a href="docs/gazdalkodas/vizikozmu_2025_zarszamadas.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
