@@ -29,43 +29,43 @@ include('header.php');
                     <table width="100%" class="docs-table">
                         <tr>
                             <td>Meghívó 2025.11.11</td>
-                            <td><a href="https://docs.jankmajtis.hu/testuleti_ulesek/darno_bizottsagi/drb_meghivo_20251111.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="https://files.jankmajtis.hu/testuleti_ulesek/darno_bizottsagi/drb_meghivo_20251111.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Jegyzőkönyv 2025.11.11</td>
-                            <td><a href="https://docs.jankmajtis.hu/testuleti_ulesek/darno_bizottsagi/drb_jkv_20251111.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="https://files.jankmajtis.hu/testuleti_ulesek/darno_bizottsagi/drb_jkv_20251111.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Meghívó 2025.03.14</td>
-                            <td><a href="https://docs.jankmajtis.hu/testuleti_ulesek/darno_bizottsagi/drb_meghivo_20250314.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="https://files.jankmajtis.hu/testuleti_ulesek/darno_bizottsagi/drb_meghivo_20250314.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Jegyzőkönyv 2025.03.14</td>
-                            <td><a href="https://docs.jankmajtis.hu/testuleti_ulesek/darno_bizottsagi/drb_jkv_20250314.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="https://files.jankmajtis.hu/testuleti_ulesek/darno_bizottsagi/drb_jkv_20250314.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Meghívó 2024.12.09</td>
-                            <td><a href="https://docs.jankmajtis.hu/testuleti_ulesek/darno_bizottsagi/drb_meghivo_20241209.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="https://files.jankmajtis.hu/testuleti_ulesek/darno_bizottsagi/drb_meghivo_20241209.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Jegyzőkönyv 2024.12.05</td>
-                            <td><a href="https://docs.jankmajtis.hu/testuleti_ulesek/darno_bizottsagi/drb_jkv_20241205.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="https://files.jankmajtis.hu/testuleti_ulesek/darno_bizottsagi/drb_jkv_20241205.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Meghívó 2023.09.01</td>
-                            <td><a href="https://docs.jankmajtis.hu/testuleti_ulesek/darno_bizottsagi/drb_meghivo_20230901.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="https://files.jankmajtis.hu/testuleti_ulesek/darno_bizottsagi/drb_meghivo_20230901.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Jegyzőkönyv 2023.09.01</td>
-                            <td><a href="https://docs.jankmajtis.hu/testuleti_ulesek/darno_bizottsagi/drb_jkv_20230901.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="https://files.jankmajtis.hu/testuleti_ulesek/darno_bizottsagi/drb_jkv_20230901.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Meghívó 2019.10.22</td>
-                            <td><a href="https://docs.jankmajtis.hu/testuleti_ulesek/darno_bizottsagi/drb_meghivo_20191022.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="https://files.jankmajtis.hu/testuleti_ulesek/darno_bizottsagi/drb_meghivo_20191022.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Jegyzőkönyv 2019.10.22</td>
-                            <td><a href="https://docs.jankmajtis.hu/testuleti_ulesek/darno_bizottsagi/drb_jkv_20191022.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="https://files.jankmajtis.hu/testuleti_ulesek/darno_bizottsagi/drb_jkv_20191022.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                     </table>
                 </div>

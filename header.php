@@ -215,9 +215,9 @@
                         </li>
                         <li><a href="./ovodafejlesztes.php">Napközi Otthonos Óvoda fejlesztése</a>
                         </li>
-                        <li><a href="./docs/GondKozpKonyhaFejlesztes.pdf" target="_blank">Gondozási Központ konyhájának fejlesztése<i class="fa-solid fa-menu fa-file-pdf"></i></a>
+                        <li><a href="https://files.jankmajtis.hu/GondKozpKonyhaFejlesztes.pdf" target="_blank">Gondozási Központ konyhájának fejlesztése<i class="fa-solid fa-menu fa-file-pdf"></i></a>
                         </li>
-                        <li><a href="./docs/KoztemetoFejlesztes.pdf" target="_blank">Köztemető fejlesztése<i class="fa-solid fa-menu fa-file-pdf"></i></a>
+                        <li><a href="https://files.jankmajtis.hu/KoztemetoFejlesztes.pdf" target="_blank">Köztemető fejlesztése<i class="fa-solid fa-menu fa-file-pdf"></i></a>
                         </li>
                     </ul>
                 </div>
@@ -255,7 +255,7 @@
 
                     <div class="subMenuHeader">Közérdekű adatok</div>
                     <ul>
-                        <li><a href="./docs/gazdalkodas/gazdalkodasi_adatok.pdf" target="_blank">Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 1. melléklete szerinti általános közzétételi lista<i class="fa-solid fa-menu fa-file-pdf"></i></a></li>
+                        <li><a href="https://files.jankmajtis.hu/gazdalkodas/gazdalkodasi_adatok.pdf" target="_blank">Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 1. melléklete szerinti általános közzétételi lista<i class="fa-solid fa-menu fa-file-pdf"></i></a></li>
                     </ul>
 
                     <div class="subMenuHeader">A működés törvényessége, ellenőrzések</div>

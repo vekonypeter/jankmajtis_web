@@ -54,9 +54,9 @@ No test or lint commands are configured.
 The site uses **two hosts** for served content:
 
 1. **FTP (`ftp.hosting.atw.hu`)** — PHP pages, CSS, JS, images. Limited quota; do **not** add large PDFs here.
-2. **Cloudflare R2 (`docs.jankmajtis.hu`)** — all PDF documents. Bucket name: `docs`. Public via custom domain. URL structure mirrors local subtree: e.g. `docs/testuleti_ulesek/foo/bar.pdf` (local) ↔ `https://docs.jankmajtis.hu/testuleti_ulesek/foo/bar.pdf` (live).
+2. **Cloudflare R2 (`files.jankmajtis.hu`)** — all PDF documents. Bucket name: `docs`. Public via custom domain. URL structure mirrors local subtree: e.g. `docs/testuleti_ulesek/foo/bar.pdf` (local) ↔ `https://files.jankmajtis.hu/testuleti_ulesek/foo/bar.pdf` (live).
 
-**Rule of thumb for new PDFs**: upload to R2, link with absolute `https://docs.jankmajtis.hu/...` URL. Existing legacy PDFs may still link via relative `./docs/...` paths — leave those as-is unless explicitly migrating.
+**Rule of thumb for new PDFs**: upload to R2, link with absolute `https://files.jankmajtis.hu/...` URL. Existing legacy PDFs may still link via relative `./docs/...` paths — leave those as-is unless explicitly migrating.
 
 R2 access lives in `.env` (gitignored): `AWS_ACCESS_KEY_ID`, `AWS_SECRET_ACCESS_KEY`, `AWS_ENDPOINT_URL`. FTP creds: `FTP_HOST`, `FTP_USER`, `FTP_PASSWORD`.
 
@@ -110,7 +110,7 @@ Pages reference PDFs under `news/<YYMMDD>/` on R2 (newer) or FTP-served `./news/
 
 ### Gazdálkodás
 
-Page: `gazd_eves_koltsegvetesek.php`. Single docs-table with one row per document. New rows should use R2 URLs (`https://docs.jankmajtis.hu/gazdalkodas/...`). Existing rows with `./docs/gazdalkodas/...` paths refer to PDFs already on FTP; leave those untouched.
+Page: `gazd_eves_koltsegvetesek.php`. Single docs-table with one row per document. New rows should use R2 URLs (`https://files.jankmajtis.hu/gazdalkodas/...`). Existing rows with `./docs/gazdalkodas/...` paths refer to PDFs already on FTP; leave those untouched.
 
 ## Email-driven workflow
 

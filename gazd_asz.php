@@ -29,7 +29,7 @@ include('header.php');
                     <table width="100%" class="docs-table">
                         <tr>
                             <td>Önkormányzatok ellenőrzése - Az önkormányzatok integritásának ellenőrzése 2021</td>
-                            <td><a href="./docs/gazdalkodas/asz_ellenorzes.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="https://files.jankmajtis.hu/gazdalkodas/asz_ellenorzes.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                     </table>
                 </div>

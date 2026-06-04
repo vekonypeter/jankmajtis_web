@@ -29,91 +29,91 @@ include('header.php');
                     <table width="100%" class="docs-table">
                         <tr>
                             <td>Meghívó 2022.12.12</td>
-                            <td><a href="https://docs.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_meghivo_20221212.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="https://files.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_meghivo_20221212.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Jegyzőkönyv 2022.12.12</td>
-                            <td><a href="https://docs.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_jkv_20221212.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="https://files.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_jkv_20221212.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Meghívó 2022.11.26</td>
-                            <td><a href="https://docs.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_meghivo_20221126.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="https://files.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_meghivo_20221126.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Jegyzőkönyv 2022.11.26</td>
-                            <td><a href="https://docs.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_jkv_20221126.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="https://files.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_jkv_20221126.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Meghívó 2022.11.18</td>
-                            <td><a href="https://docs.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_meghivo_20221118.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="https://files.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_meghivo_20221118.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Jegyzőkönyv 2022.11.18</td>
-                            <td><a href="https://docs.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_jkv_20221118.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="https://files.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_jkv_20221118.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Meghívó 2022.10.20</td>
-                            <td><a href="https://docs.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_meghivo_20221020.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="https://files.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_meghivo_20221020.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Jegyzőkönyv 2022.10.20</td>
-                            <td><a href="https://docs.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_jkv_20221020.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="https://files.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_jkv_20221020.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Meghívó 2022.09.27</td>
-                            <td><a href="https://docs.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_meghivo_20220927.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="https://files.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_meghivo_20220927.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Jegyzőkönyv 2022.09.27</td>
-                            <td><a href="https://docs.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_jkv_20220927.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="https://files.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_jkv_20220927.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Meghívó 2022.09.06</td>
-                            <td><a href="https://docs.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_meghivo_20220906.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="https://files.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_meghivo_20220906.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Jegyzőkönyv 2022.09.06</td>
-                            <td><a href="https://docs.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_jkv_20220906.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="https://files.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_jkv_20220906.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Meghívó 2022.07.06</td>
-                            <td><a href="https://docs.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_meghivo_20220706.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="https://files.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_meghivo_20220706.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Jegyzőkönyv 2022.07.06</td>
-                            <td><a href="https://docs.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_jkv_20220706.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="https://files.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_jkv_20220706.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Meghívó 2022.05.30</td>
-                            <td><a href="https://docs.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_meghivo_20220530.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="https://files.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_meghivo_20220530.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Jegyzőkönyv 2022.05.30</td>
-                            <td><a href="https://docs.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_jkv_20220530.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="https://files.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_jkv_20220530.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Meghívó 2022.04.20</td>
-                            <td><a href="https://docs.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_meghivo_20220420.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="https://files.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_meghivo_20220420.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Jegyzőkönyv 2022.04.20</td>
-                            <td><a href="https://docs.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_jkv_20220420.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="https://files.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_jkv_20220420.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Meghívó 2022.02.15</td>
-                            <td><a href="https://docs.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_meghivo_20220215.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="https://files.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_meghivo_20220215.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Jegyzőkönyv 2022.02.15</td>
-                            <td><a href="https://docs.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_jkv_20220215.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="https://files.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_jkv_20220215.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Meghívó 2022.01.11</td>
-                            <td><a href="https://docs.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_meghivo_20220111.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="https://files.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_meghivo_20220111.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Jegyzőkönyv 2022.01.11</td>
-                            <td><a href="https://docs.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_jkv_20220111.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="https://files.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2022/jm_jkv_20220111.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                     </table>
                 </div>

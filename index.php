@@ -4,7 +4,7 @@ include('header.php');
 
 <div id="content">
 
-    <a href="docs/csapadekviz_elvezetes_projekt_2023-10-10.pdf">
+    <a href="https://files.jankmajtis.hu/csapadekviz_elvezetes_projekt_2023-10-10.pdf">
         <img id="finSupportCorner" src="images_png/tamogatasok_banner_felso.png" alt="EU_MO_kormanya_Szechenyi2020">
     </a>
 
@@ -214,7 +214,7 @@ include('header.php');
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
-                        <a href="https://docs.jankmajtis.hu/news/260604/erdotervezesi_eljaras_kozlemeny.pdf" target="_blank">Hirdetmény</a>
+                        <a href="https://files.jankmajtis.hu/news/260604/erdotervezesi_eljaras_kozlemeny.pdf" target="_blank">Hirdetmény</a>
                     </li>
                 </ul>
             </div>
@@ -225,10 +225,10 @@ include('header.php');
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
-                        <a href="https://docs.jankmajtis.hu/news/260604/vjp_kozlemeny_jankmajtis.pdf" target="_blank">VJP közlemény - Jánkmajtis</a>
+                        <a href="https://files.jankmajtis.hu/news/260604/vjp_kozlemeny_jankmajtis.pdf" target="_blank">VJP közlemény - Jánkmajtis</a>
                     </li>
                     <li>
-                        <a href="https://docs.jankmajtis.hu/news/260604/vjp_kozlemeny_darno.pdf" target="_blank">VJP közlemény - Darnó</a>
+                        <a href="https://files.jankmajtis.hu/news/260604/vjp_kozlemeny_darno.pdf" target="_blank">VJP közlemény - Darnó</a>
                     </li>
                 </ul>
             </div>
@@ -239,7 +239,7 @@ include('header.php');
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
-                        <a href="https://docs.jankmajtis.hu/news/260527/sajtokozlemeny_muvelodesi_haz_energetikai.pdf" target="_blank">Sajtóközlemény</a>
+                        <a href="https://files.jankmajtis.hu/news/260527/sajtokozlemeny_muvelodesi_haz_energetikai.pdf" target="_blank">Sajtóközlemény</a>
                     </li>
                 </ul>
             </div>
@@ -250,7 +250,7 @@ include('header.php');
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
-                        <a href="https://docs.jankmajtis.hu/news/260527/hirdetmeny_vl98_trade_felszamolas.pdf" target="_blank">Hirdetmény</a>
+                        <a href="https://files.jankmajtis.hu/news/260527/hirdetmeny_vl98_trade_felszamolas.pdf" target="_blank">Hirdetmény</a>
                     </li>
                 </ul>
             </div>
@@ -261,7 +261,7 @@ include('header.php');
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
-                        <a href="news/260511/reszleges_zarlat_meh_koltesrothadas.pdf" target="_blank">Hirdetmény</a>
+                        <a href="https://files.jankmajtis.hu/news/260511/reszleges_zarlat_meh_koltesrothadas.pdf" target="_blank">Hirdetmény</a>
                     </li>
                 </ul>
             </div>
@@ -272,7 +272,7 @@ include('header.php');
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
-                        <a href="news/260511/szoc_gondozo_es_apolo_allas.pdf" target="_blank">Álláshirdetés</a>
+                        <a href="https://files.jankmajtis.hu/news/260511/szoc_gondozo_es_apolo_allas.pdf" target="_blank">Álláshirdetés</a>
                     </li>
                 </ul>
             </div>
@@ -283,13 +283,13 @@ include('header.php');
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
-                        <a href="news/260401/veszettseg_hirdetmeny_2026.docx" target="_blank">Veszettség hirdetmény</a>
+                        <a href="https://files.jankmajtis.hu/news/260401/veszettseg_hirdetmeny_2026.docx" target="_blank">Veszettség hirdetmény</a>
                     </li>
                     <li>
-                        <a href="news/260401/sz-82-00845-8-2026.pdf" target="_blank">Határozat - ebzárlat és legeltetési tilalom elrendelése (SZ/82/00845-8/2026)</a>
+                        <a href="https://files.jankmajtis.hu/news/260401/sz-82-00845-8-2026.pdf" target="_blank">Határozat - ebzárlat és legeltetési tilalom elrendelése (SZ/82/00845-8/2026)</a>
                     </li>
                     <li>
-                        <a href="news/260401/sz-82-01045-5.pdf" target="_blank">Határozat (SZ/82/01045-5)</a>
+                        <a href="https://files.jankmajtis.hu/news/260401/sz-82-01045-5.pdf" target="_blank">Határozat (SZ/82/01045-5)</a>
                     </li>
                 </ul>
             </div>
@@ -299,13 +299,13 @@ include('header.php');
                 <i class="newDate">2026.01.19.</i>
                 <p>
                     <a class="fancybox"
-                        href="news/260119/valasztas_2026.jpg"
+                        href="https://files.jankmajtis.hu/news/260119/valasztas_2026.jpg"
                         data-fancybox-group="ov_2026"
                         title="Országgyűlési választások 2026">
                         <img
                             class="news-gal-tmb"
                             style="max-width: 200px; height: 282px"
-                            src="news/260119/valasztas_2026_tmb.jpg"
+                            src="https://files.jankmajtis.hu/news/260119/valasztas_2026_tmb.jpg"
                         />
                     </a>
                 </p>
@@ -316,13 +316,13 @@ include('header.php');
                 <i class="newDate">2025.02.07.</i>
                 <p>
                     <a class="fancybox"
-                        href="news/250207/eletkorulmeny_plakat_2025.pdf"
+                        href="https://files.jankmajtis.hu/news/250207/eletkorulmeny_plakat_2025.pdf"
                         data-fancybox-group="ksh_elet"
                         title="KSH Életkörülmény Felmérés">
                         <img
                             class="news-gal-tmb"
                             style="max-width: 200px; height: 282px"
-                            src="news/250207/eletkorulmeny_plakat_2025_tmb.jpg"
+                            src="https://files.jankmajtis.hu/news/250207/eletkorulmeny_plakat_2025_tmb.jpg"
                         />
                     </a>
                 </p>
@@ -349,7 +349,7 @@ include('header.php');
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
-                        <a href="news/240815/agrar_felnott_kepzes_hirdetmeny.pdf" target="_blank">Hirdetmény</a>
+                        <a href="https://files.jankmajtis.hu/news/240815/agrar_felnott_kepzes_hirdetmeny.pdf" target="_blank">Hirdetmény</a>
                     </li>
                 </ul>
                 <p>
@@ -363,7 +363,7 @@ include('header.php');
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
-                        <a href="news/240714/beszamolo_roma_eszkoz_2024.pdf" target="_blank">Szakmai beszámoló</a>
+                        <a href="https://files.jankmajtis.hu/news/240714/beszamolo_roma_eszkoz_2024.pdf" target="_blank">Szakmai beszámoló</a>
                     </li>
                 </ul>
             </div>
@@ -383,7 +383,7 @@ include('header.php');
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
-                        <a href="news/231019/szolgalati_lakas_felujitas_jm.pdf" target="_blank">Projekt összefoglaló</a>
+                        <a href="https://files.jankmajtis.hu/news/231019/szolgalati_lakas_felujitas_jm.pdf" target="_blank">Projekt összefoglaló</a>
                     </li>
                 </ul>
             </div>
@@ -394,10 +394,10 @@ include('header.php');
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
-                        <a href="news/231018/kepv_test_letszam_darno.pdf" target="_blank">A megválasztandó önkormányzati képviselők számának megállapítása - Darnó</a>
+                        <a href="https://files.jankmajtis.hu/news/231018/kepv_test_letszam_darno.pdf" target="_blank">A megválasztandó önkormányzati képviselők számának megállapítása - Darnó</a>
                     </li>
                     <li>
-                        <a href="news/231018/kepv_test_letszam_jm.pdf" target="_blank">A megválasztandó önkormányzati képviselők számának megállapítása - Jánkmajtis</a>
+                        <a href="https://files.jankmajtis.hu/news/231018/kepv_test_letszam_jm.pdf" target="_blank">A megválasztandó önkormányzati képviselők számának megállapítása - Jánkmajtis</a>
                     </li>
                 </ul>
             </div>

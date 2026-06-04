@@ -31,15 +31,15 @@ include('header.php');
                         <table width="100%" class="docs-table">
                             <tr>
                                 <td>Szabályozási terv és helyi építési szabályzat</td>
-                                <td><a href="./docs/hesz/hesz_dr.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                                <td><a href="https://files.jankmajtis.hu/hesz/hesz_dr.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                             </tr>
                             <tr>
                                 <td>Belterületi szabályozási terv</td>
-                                <td><a href="./docs/hesz/szab_terv_bel_dr.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                                <td><a href="https://files.jankmajtis.hu/hesz/szab_terv_bel_dr.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                             </tr>
                             <tr>
                                 <td>Külterületi szabályozási terv</td>
-                                <td><a href="./docs/hesz/szab_terv_kul_dr.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                                <td><a href="https://files.jankmajtis.hu/hesz/szab_terv_kul_dr.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                             </tr>
                         </table>
                     </div>
