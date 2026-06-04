@@ -1,9 +1,6 @@
 module.exports = function(eleventyConfig) {
   // Root-level assets shared with legacy PHP site
   eleventyConfig.addPassthroughCopy({
-    "../images_gif": "images_gif",
-    "../images_jpg": "images_jpg",
-    "../images_png": "images_png",
     "../docs": "docs",
     "../news": "news",
     "../ASP.html": "ASP.html",

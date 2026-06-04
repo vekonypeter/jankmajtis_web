@@ -38,7 +38,7 @@ No test or lint commands are configured.
 
 ### Legacy (root level)
 - ~50 PHP pages using `include('header.php')` / `include('footer.php')` pattern
-- Static assets: `/css/`, `/js/`, `/images_gif/`, `/images_jpg/`, `/images_png/`
+- Static assets: `/css/`, `/js/` (images migrated to R2 under `files.jankmajtis.hu/img/`)
 - jQuery 1.12.2, Bootstrap 5.3.3, Font Awesome 5.3.3 (all via CDN)
 - FancyBox v2.1.5 (vendored in `/fancybox/`)
 
