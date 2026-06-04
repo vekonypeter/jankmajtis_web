@@ -44,12 +44,28 @@ include('header.php');
                             <td><a href="./docs/gazdalkodas/2026. költségvetés Jánkmajtis.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
+                            <td>Költségvetés 2025 módosítás</td>
+                            <td><a href="https://docs.jankmajtis.hu/gazdalkodas/jankmajtis_2025_kv_mod.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
                             <td>Zárszámadás 2022</td>
                             <td><a href="./docs/gazdalkodas/Jánkmajtis 2022. zárszámadás.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Zárszámadás 2023</td>
                             <td><a href="./docs/gazdalkodas/Jánkmajtis 2023. zárszámadás.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
+                            <td>Zárszámadás 2025</td>
+                            <td><a href="https://docs.jankmajtis.hu/gazdalkodas/jankmajtis_2025_zarszamadas.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
+                            <td>Darnó 2025. költségvetés módosítás</td>
+                            <td><a href="https://docs.jankmajtis.hu/gazdalkodas/darno_2025_kv_mod.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
+                            <td>Darnó 2025. zárszámadás</td>
+                            <td><a href="https://docs.jankmajtis.hu/gazdalkodas/darno_2025_zarszamadas.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Intézményfenntartó 2023. év beszámoló</td>
@@ -65,11 +81,11 @@ include('header.php');
                         </tr>
                         <tr>
                             <td>Óvoda 2025. költségvetés módosítás</td>
-                            <td><a href="docs/gazdalkodas/ovoda_2025_kv_mod.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="https://docs.jankmajtis.hu/gazdalkodas/ovoda_2025_kv_mod.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Óvoda 2025. zárszámadás</td>
-                            <td><a href="docs/gazdalkodas/ovoda_2025_zarszamadas.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="https://docs.jankmajtis.hu/gazdalkodas/ovoda_2025_zarszamadas.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Óvoda 2026. költségvetés</td>
@@ -101,7 +117,11 @@ include('header.php');
                         </tr>
                         <tr>
                             <td>Roma 2025 költségvetés módosítás</td>
-                            <td><a href="docs/gazdalkodas/roma_2025_kv_mod.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="https://docs.jankmajtis.hu/gazdalkodas/roma_2025_kv_mod.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
+                            <td>Roma 2025 zárszámadás</td>
+                            <td><a href="https://docs.jankmajtis.hu/gazdalkodas/roma_2025_zarszamadas.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Roma 2026 költségvetés</td>
@@ -137,11 +157,15 @@ include('header.php');
                         </tr>
                         <tr>
                             <td>Víziközmű 2025 költségvetés módosítás</td>
-                            <td><a href="docs/gazdalkodas/vizikozmu_2025_kv_mod.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                            <td><a href="https://docs.jankmajtis.hu/gazdalkodas/vizikozmu_2025_kv_mod.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Víziközmű 2025 zárszámadás</td>
                             <td><a href="docs/gazdalkodas/vizikozmu_2025_zarszamadas.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
+                            <td>Víziközmű 2025 zárszámadás módosítás</td>
+                            <td><a href="https://docs.jankmajtis.hu/gazdalkodas/vizikozmu_2025_zarszamadas_mod.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
                             <td>Víziközmű 2026 költségvetés</td>

@@ -202,6 +202,42 @@ include('header.php');
         <div class="contentContainer">
 
             <div class="new">
+                <div class="newTitle">Közlemény - Körzeti erdőtervezési eljárás megindításáról</div>
+                <i class="newDate">2026.06.04.</i>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="https://docs.jankmajtis.hu/news/260604/erdotervezesi_eljaras_kozlemeny.pdf" target="_blank">Hirdetmény</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="new">
+                <div class="newTitle">Tájékoztató tábla - Magyar Falu Program</div>
+                <i class="newDate">2026.06.04.</i>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="https://docs.jankmajtis.hu/news/260604/tajekoztato_tabla.pdf" target="_blank">Tábla minta</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="new">
+                <div class="newTitle">VJP közlemény - Jánkmajtis és Darnó</div>
+                <i class="newDate">2026.06.04.</i>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="https://docs.jankmajtis.hu/news/260604/vjp_kozlemeny_jankmajtis.pdf" target="_blank">VJP közlemény - Jánkmajtis</a>
+                    </li>
+                    <li>
+                        <a href="https://docs.jankmajtis.hu/news/260604/vjp_kozlemeny_darno.pdf" target="_blank">VJP közlemény - Darnó</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="new">
                 <div class="newTitle">Sajtóközlemény - Jánkmajtis Község Művelődési Házának energetikai korszerűsítése</div>
                 <i class="newDate">2026.05.27.</i>
                 <p>Kapcsolódó dokumentum(ok):</p>
