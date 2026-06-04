@@ -28,6 +28,22 @@ include('header.php');
                 <div class="col-12">
                     <table width="100%" class="docs-table">
                         <tr>
+                            <td>Meghívó 2026.05.22</td>
+                            <td><a href="./docs/testuleti_ulesek/darno_tarsulas/if_meghivo_20260522.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
+                            <td>Jegyzőkönyv 2026.05.22</td>
+                            <td><a href="./docs/testuleti_ulesek/darno_tarsulas/if_jkv_20260522.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
+                            <td>Meghívó 2026.05.18</td>
+                            <td><a href="./docs/testuleti_ulesek/darno_tarsulas/if_meghivo_20260518.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
+                            <td>Jegyzőkönyv 2026.05.18</td>
+                            <td><a href="./docs/testuleti_ulesek/darno_tarsulas/if_jkv_20260518.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
                             <td>Meghívó 2026.03.05</td>
                             <td><a href="./docs/testuleti_ulesek/darno_tarsulas/if_meghivo_20260305.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
