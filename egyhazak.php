@@ -31,11 +31,11 @@ include('header.php');
                 <div class="newTitle">A majtisi református templom</div>
                 <div class="col-12 gallery">
                     <p>
-                        <a class="fancybox" href="images_jpg/templom_majtisiref1.jpg" data-fancybox-group="gallery" title="A majtisi református templom - 1. kép">
-                            <img class="galleryTmb" src="images_jpg/templom_majtisiref1.jpg" alt="Majtisi ref. templom" />
+                        <a class="fancybox" href="https://files.jankmajtis.hu/img/templom_majtisiref_1.jpg" data-fancybox-group="gallery" title="A majtisi református templom - 1. kép">
+                            <img class="galleryTmb" src="https://files.jankmajtis.hu/img/templom_majtisiref_1.jpg" alt="Majtisi ref. templom" />
                         </a>
-                        <a class="fancybox" href="images_jpg/templom_majtisiref2.jpg" data-fancybox-group="gallery" title="A majtisi református templom - 2. kép">
-                            <img class="galleryTmb" src="images_jpg/templom_majtisiref2.jpg" alt="Majtisi ref. templom" />
+                        <a class="fancybox" href="https://files.jankmajtis.hu/img/templom_majtisiref_2.jpg" data-fancybox-group="gallery" title="A majtisi református templom - 2. kép">
+                            <img class="galleryTmb" src="https://files.jankmajtis.hu/img/templom_majtisiref_2.jpg" alt="Majtisi ref. templom" />
                         </a>
                     </p>
                 </div>
@@ -48,8 +48,8 @@ include('header.php');
                 <div class="newTitle">A jánki református templom</div>
                 <div class="col-12 gallery">
                     <p>
-                        <a class="fancybox" href="images_jpg/templom_jankref1.jpg" data-fancybox-group="gallery" title="A jánki református templom">
-                            <img class="galleryTmb" src="images_jpg/templom_jankref1.jpg" alt="Janki ref. templom" />
+                        <a class="fancybox" href="https://files.jankmajtis.hu/img/templom_jankref_1.jpg" data-fancybox-group="gallery" title="A jánki református templom">
+                            <img class="galleryTmb" src="https://files.jankmajtis.hu/img/templom_jankref_1.jpg" alt="Janki ref. templom" />
                         </a>
                     </p>
                 </div>
@@ -62,11 +62,11 @@ include('header.php');
                 <div class="newTitle">A jánki római-katolikus templom</div>
                 <div class="col-12 gallery">
                     <p>
-                        <a class="fancybox" href="images_jpg/templom_jankromai1.jpg" data-fancybox-group="gallery" title="A jánki római-katolikus templom - 1. kép">
-                            <img class="galleryTmb" src="images_jpg/templom_jankromai1.jpg"alt="Janki romai templom" />
+                        <a class="fancybox" href="https://files.jankmajtis.hu/img/templom_jankromai_1.jpg" data-fancybox-group="gallery" title="A jánki római-katolikus templom - 1. kép">
+                            <img class="galleryTmb" src="https://files.jankmajtis.hu/img/templom_jankromai_1.jpg"alt="Janki romai templom" />
                         </a>
-                        <a class="fancybox" href="images_jpg/templom_jankromai2.jpg" data-fancybox-group="gallery" title="A jánki római-katolikus templom - 2. kép">
-                            <img class="galleryTmb" src="images_jpg/templom_jankromai2.jpg" alt="Janki romai templom" />
+                        <a class="fancybox" href="https://files.jankmajtis.hu/img/templom_jankromai_2.jpg" data-fancybox-group="gallery" title="A jánki római-katolikus templom - 2. kép">
+                            <img class="galleryTmb" src="https://files.jankmajtis.hu/img/templom_jankromai_2.jpg" alt="Janki romai templom" />
                         </a>
                     </p>
                 </div>
@@ -79,8 +79,8 @@ include('header.php');
                 <div class="newTitle">A jánki görög-katolikus templom</div>
                 <div class="col-12 gallery">
                     <p>
-                        <a class="fancybox" href="images_jpg/templom_jankgorog1.jpg" data-fancybox-group="gallery" title="A jánki görög-katolikus templom">
-                            <img class="galleryTmb" src="images_jpg/templom_jankgorog1.jpg" alt="Janki gorog templom" height="250" />
+                        <a class="fancybox" href="https://files.jankmajtis.hu/img/templom_jankgorog_1.jpg" data-fancybox-group="gallery" title="A jánki görög-katolikus templom">
+                            <img class="galleryTmb" src="https://files.jankmajtis.hu/img/templom_jankgorog_1.jpg" alt="Janki gorog templom" height="250" />
                         </a>
                     </p>
                 </div>

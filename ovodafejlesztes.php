@@ -18,8 +18,8 @@ include('header.php');
                 Napközi Otthonos Óvoda fejlesztése Jánkmajtison
             </div>
 
-            <a class="fancybox" href="images_jpg/Infoblokk_vertical.jpg" data-fancybox-group="gallery" title="A projekt finanszírozói">
-                <img src="images_jpg/Infoblokk_vertical.jpg" alt="Óvodafejlesztési Projekt" class="sideBarElement sideBarImage">
+            <a class="fancybox" href="https://files.jankmajtis.hu/img/infoblokk_vertical.jpg" data-fancybox-group="gallery" title="A projekt finanszírozói">
+                <img src="https://files.jankmajtis.hu/img/infoblokk_vertical.jpg" alt="Óvodafejlesztési Projekt" class="sideBarElement sideBarImage">
             </a>
 
             <div id="pageDescription" class="sideBarElement">
@@ -115,8 +115,8 @@ include('header.php');
             <div class="row new">
                 <div class="newTitle">B tábla</div>
                 <div class="col-12 gallery" style="text-align: center;">
-                    <a class="fancybox" href="images_jpg/OvodaFejlesztes_tabla-B.jpg" data-fancybox-group="gallery" title="B tábla">
-                        <img class="galleryTmb_bg" src="images_jpg/OvodaFejlesztes_tabla-B.jpg" alt="B_tabla" />
+                    <a class="fancybox" href="https://files.jankmajtis.hu/img/ovoda_fejlesztes_tabla_b.jpg" data-fancybox-group="gallery" title="B tábla">
+                        <img class="galleryTmb_bg" src="https://files.jankmajtis.hu/img/ovoda_fejlesztes_tabla_b.jpg" alt="B_tabla" />
                     </a>
                 </div>
             </div>

@@ -19,8 +19,8 @@ include('header.php');
                 A jánkmajtisi Móricz Zsigmond Általános Iskola képzett pedagógusai nem csak a helyi, hanem a környező települések diákjait is készítik a nagybetűs életre.
             </div>
 
-            <a class="fancybox" href="images_png/iskola_cimer.png" data-fancybox-group="gallery" title="A Móricz Zsigmond Általános Iskola címere">
-                <img src="images_png/iskola_cimer.png" alt="iskola címer" />
+            <a class="fancybox" href="https://files.jankmajtis.hu/img/iskola_cimer.png" data-fancybox-group="gallery" title="A Móricz Zsigmond Általános Iskola címere">
+                <img src="https://files.jankmajtis.hu/img/iskola_cimer.png" alt="iskola címer" />
             </a>
 
         </div>
@@ -49,8 +49,8 @@ include('header.php');
             </div>
             <div class="new row">
                 <div class="col-12">
-                    <a class="fancybox" href="images_jpg/slides/slide3.jpg" data-fancybox-group="gallery" title="Móricz Zsigmond Általános Iskola">
-                        <img style="width: 100%;" src="images_jpg/slides/slide3.jpg" alt="iskola" />
+                    <a class="fancybox" href="https://files.jankmajtis.hu/img/slide_3.jpg" data-fancybox-group="gallery" title="Móricz Zsigmond Általános Iskola">
+                        <img style="width: 100%;" src="https://files.jankmajtis.hu/img/slide_3.jpg" alt="iskola" />
                     </a>
                 </div>
             </div>

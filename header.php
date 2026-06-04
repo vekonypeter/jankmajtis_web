@@ -25,23 +25,23 @@
 
             <div id="header">
 
-                <img class="headerImage" src="images_jpg/slides/slide0.jpg" alt="slide0">
-                <img class="headerImage" src="images_jpg/slides/slide1.jpg" alt="slide1">
-                <img class="headerImage" src="images_jpg/slides/slide2.jpg" alt="slide2">
-                <img class="headerImage" src="images_jpg/slides/slide3.jpg" alt="slide3">
-                <img class="headerImage" src="images_jpg/slides/slide4.jpg" alt="slide4">
+                <img class="headerImage" src="https://files.jankmajtis.hu/img/slide_0.jpg" alt="slide0">
+                <img class="headerImage" src="https://files.jankmajtis.hu/img/slide_1.jpg" alt="slide1">
+                <img class="headerImage" src="https://files.jankmajtis.hu/img/slide_2.jpg" alt="slide2">
+                <img class="headerImage" src="https://files.jankmajtis.hu/img/slide_3.jpg" alt="slide3">
+                <img class="headerImage" src="https://files.jankmajtis.hu/img/slide_4.jpg" alt="slide4">
 
                 <a href="index.php">
                     <div id="subheader">
                         <div id="crest">
-                            <img src="images_png/cimer_jo_kicsi_javitott.png" alt="Cimer" />
+                            <img src="https://files.jankmajtis.hu/img/cimer_jo_kicsi_javitott.png" alt="Cimer" />
                         </div>
                     </div>
                 </a>
             </div>
 
             <div id="menuBar">
-                <img id="crest-mobile" src="images_png/cimer_jo_kicsi_javitott_korvonal.png" alt="Cimer" />
+                <img id="crest-mobile" src="https://files.jankmajtis.hu/img/cimer_jo_kicsi_javitott_korvonal.png" alt="Cimer" />
                 <div id="headerCaption-mobile">
                     <h3>Jánkmajtis</h3>
                 </div>

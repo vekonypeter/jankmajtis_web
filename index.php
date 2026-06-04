@@ -5,7 +5,7 @@ include('header.php');
 <div id="content">
 
     <a href="https://files.jankmajtis.hu/csapadekviz_elvezetes_projekt_2023-10-10.pdf">
-        <img id="finSupportCorner" src="images_png/tamogatasok_banner_felso.png" alt="EU_MO_kormanya_Szechenyi2020">
+        <img id="finSupportCorner" src="https://files.jankmajtis.hu/img/tamogatasok_banner_felso.png" alt="EU_MO_kormanya_Szechenyi2020">
     </a>
 
 
@@ -46,78 +46,78 @@ include('header.php');
                 <div class="sideBarTenderTitle">Csapadékvíz elvezetés fejlesztése Jánkmajtison</div>
             </a>
 
-            <a class="fancybox" href="images_jpg/MuvhazKorszerusites_tabla.jpg" data-fancybox-group="gallery" title="Jánkmajtis Község Művelődési Házának energetikai korszerűsítése">
-                <img src="images_jpg/MuvhazKorszerusites_tabla.jpg"
+            <a class="fancybox" href="https://files.jankmajtis.hu/img/muvhaz_korszerusites_tabla.jpg" data-fancybox-group="gallery" title="Jánkmajtis Község Művelődési Házának energetikai korszerűsítése">
+                <img src="https://files.jankmajtis.hu/img/muvhaz_korszerusites_tabla.jpg"
                     alt="Jánkmajtis Község Művelődési Házának energetikai korszerűsítése"
                     class="sideBarElement sideBarImage sideBarSelectable"
                     style="height:unset;">
             </a>
 
-            <a class="fancybox" href="images_jpg/CsapadekvizElvezetes_tabla.jpg" data-fancybox-group="gallery" title="Csapadékvíz elvezetés fejlesztése Jánkmajtison">
-                <img src="images_jpg/CsapadekvizElvezetes_tabla_thmb.jpg" alt="Csapadékvíz elvezetés fejlesztése Jánkmajtison" class="sideBarElement sideBarImage sideBarSelectable">
+            <a class="fancybox" href="https://files.jankmajtis.hu/img/csapadekviz_elvezetes_tabla.jpg" data-fancybox-group="gallery" title="Csapadékvíz elvezetés fejlesztése Jánkmajtison">
+                <img src="https://files.jankmajtis.hu/img/csapadekviz_elvezetes_tabla_thmb.jpg" alt="Csapadékvíz elvezetés fejlesztése Jánkmajtison" class="sideBarElement sideBarImage sideBarSelectable">
             </a>
 
-            <a class="fancybox" href="images_jpg/SzolgalatiLakasFejlesztes_tabla.jpg" data-fancybox-group="gallery" title="Szolgálati lakás felújítása Jánkmajtison">
-                <img src="images_jpg/SzolgalatiLakasFejlesztes_tabla_thmb.jpg" alt="Szolgálati lakás felújítása Jánkmajtison" class="sideBarElement sideBarImage sideBarSelectable">
+            <a class="fancybox" href="https://files.jankmajtis.hu/img/szolgalati_lakas_fejlesztes_tabla.jpg" data-fancybox-group="gallery" title="Szolgálati lakás felújítása Jánkmajtison">
+                <img src="https://files.jankmajtis.hu/img/szolgalati_lakas_fejlesztes_tabla_thmb.jpg" alt="Szolgálati lakás felújítása Jánkmajtison" class="sideBarElement sideBarImage sideBarSelectable">
             </a>
 
-            <a class="fancybox" href="images_jpg/OvodaFejlesztes_tabla-B.jpg" data-fancybox-group="gallery" title="Napközi Otthonos Óvoda fejlesztése Jánkmajtison">
-                <img src="images_jpg/OvodaFejlesztes_tabla-B.jpg" alt="Óvodafejlesztési Projekt" class="sideBarElement sideBarImage sideBarSelectable">
+            <a class="fancybox" href="https://files.jankmajtis.hu/img/ovoda_fejlesztes_tabla_b.jpg" data-fancybox-group="gallery" title="Napközi Otthonos Óvoda fejlesztése Jánkmajtison">
+                <img src="https://files.jankmajtis.hu/img/ovoda_fejlesztes_tabla_b.jpg" alt="Óvodafejlesztési Projekt" class="sideBarElement sideBarImage sideBarSelectable">
             </a>
 
-            <a class="fancybox" href="images_jpg/ASP_tabla.jpg" data-fancybox-group="gallery" title="ASP Központ">
-                <img src="images_jpg/ASP_tabla.jpg" alt="ASP Projekt" class="sideBarElement sideBarImage sideBarSelectable">
+            <a class="fancybox" href="https://files.jankmajtis.hu/img/asp_tabla.jpg" data-fancybox-group="gallery" title="ASP Központ">
+                <img src="https://files.jankmajtis.hu/img/asp_tabla.jpg" alt="ASP Projekt" class="sideBarElement sideBarImage sideBarSelectable">
             </a>
 
-            <a class="fancybox" href="images_jpg/GondKozpKonyhaFejlesztes_tabla.jpg" data-fancybox-group="gallery" title="A Gondozási Központ konyhájának fejlesztése Jánkmajtison">
-                <img src="images_jpg/GondKozpKonyhaFejlesztes_tabla.jpg" alt="A Gondozási Központ konyhájának fejlesztése Jánkmajtison" class="sideBarElement sideBarImage sideBarSelectable">
+            <a class="fancybox" href="https://files.jankmajtis.hu/img/gond_kozp_konyha_fejlesztes_tabla.jpg" data-fancybox-group="gallery" title="A Gondozási Központ konyhájának fejlesztése Jánkmajtison">
+                <img src="https://files.jankmajtis.hu/img/gond_kozp_konyha_fejlesztes_tabla.jpg" alt="A Gondozási Központ konyhájának fejlesztése Jánkmajtison" class="sideBarElement sideBarImage sideBarSelectable">
             </a>
 
-            <a class="fancybox" href="images_jpg/KoztemetoFejlesztes_tabla.jpg" data-fancybox-group="gallery" title="Köztemető fejlesztése Jánkmajtison">
-                <img src="images_jpg/KoztemetoFejlesztes_tabla.jpg" alt="Köztemető fejlesztése Jánkmajtison" class="sideBarElement sideBarImage sideBarSelectable">
+            <a class="fancybox" href="https://files.jankmajtis.hu/img/koztemeto_fejlesztes_tabla.jpg" data-fancybox-group="gallery" title="Köztemető fejlesztése Jánkmajtison">
+                <img src="https://files.jankmajtis.hu/img/koztemeto_fejlesztes_tabla.jpg" alt="Köztemető fejlesztése Jánkmajtison" class="sideBarElement sideBarImage sideBarSelectable">
             </a>
 
-            <a class="fancybox" href="images_jpg/BolcsodeKialakitas_tabla.jpg" data-fancybox-group="gallery" title="Bölcsőde kialakítása Jánkmajtison">
-                <img src="images_jpg/BolcsodeKialakitas_tabla.jpg" alt="Bölcsőde kialakítása Jánkmajtison" class="sideBarElement sideBarImage sideBarSelectable">
+            <a class="fancybox" href="https://files.jankmajtis.hu/img/bolcsode_kialakitas_tabla.jpg" data-fancybox-group="gallery" title="Bölcsőde kialakítása Jánkmajtison">
+                <img src="https://files.jankmajtis.hu/img/bolcsode_kialakitas_tabla.jpg" alt="Bölcsőde kialakítása Jánkmajtison" class="sideBarElement sideBarImage sideBarSelectable">
             </a>
 
-            <a class="fancybox" href="images_jpg/OvodaJatszoUdvar_tabla.jpg" data-fancybox-group="gallery" title="Óvodai játszóudvar kialakítása">
-                <img src="images_jpg/OvodaJatszoUdvar_tabla.jpg"
+            <a class="fancybox" href="https://files.jankmajtis.hu/img/ovoda_jatszo_udvar_tabla.jpg" data-fancybox-group="gallery" title="Óvodai játszóudvar kialakítása">
+                <img src="https://files.jankmajtis.hu/img/ovoda_jatszo_udvar_tabla.jpg"
                     alt="Óvodai játszóudvar kialakítása"
                     class="sideBarElement sideBarImage sideBarSelectable"
                     style="height:unset;">
             </a>
 
-            <a class="fancybox" href="images_jpg/TanyaGondBusz_tabla.jpg" data-fancybox-group="gallery" title="Tanyagondnoki busz beszerzése Jánkmajtison">
-                <img src="images_jpg/TanyaGondBusz_tabla.jpg"
+            <a class="fancybox" href="https://files.jankmajtis.hu/img/tanya_gond_busz_tabla.jpg" data-fancybox-group="gallery" title="Tanyagondnoki busz beszerzése Jánkmajtison">
+                <img src="https://files.jankmajtis.hu/img/tanya_gond_busz_tabla.jpg"
                     alt="Tanyagondnoki busz beszerzése Jánkmajtison"
                     class="sideBarElement sideBarImage sideBarSelectable"
                     style="height:unset;">
             </a>
             
-            <a class="fancybox" href="images_jpg/OrvRendFelujitas_tabla.jpg" data-fancybox-group="gallery" title="Orvosi Rendelő felújítása Jánkmajtison">
-                <img src="images_jpg/OrvRendFelujitas_tabla.jpg"
+            <a class="fancybox" href="https://files.jankmajtis.hu/img/orv_rend_felujitas_tabla.jpg" data-fancybox-group="gallery" title="Orvosi Rendelő felújítása Jánkmajtison">
+                <img src="https://files.jankmajtis.hu/img/orv_rend_felujitas_tabla.jpg"
                 alt="Orvosi Rendelő felújítása Jánkmajtison"
                 class="sideBarElement sideBarImage sideBarSelectable"
                 style="height:unset;">
             </a>
             
-            <a class="fancybox" href="images_jpg/JatszoterDarno_tabla.jpg" data-fancybox-group="gallery" title="Közterületi játszóterek fejlesztése Darnón">
-                <img src="images_jpg/JatszoterDarno_tabla.jpg"
+            <a class="fancybox" href="https://files.jankmajtis.hu/img/jatszoter_darno_tabla.jpg" data-fancybox-group="gallery" title="Közterületi játszóterek fejlesztése Darnón">
+                <img src="https://files.jankmajtis.hu/img/jatszoter_darno_tabla.jpg"
                     alt="Közterületi játszóterek fejlesztése Darnón"
                     class="sideBarElement sideBarImage sideBarSelectable"
                     style="height:unset;">
             </a>
 
-            <a class="fancybox" href="images_jpg/MFP_tabla.jpg" data-fancybox-group="gallery" title="Magyar Falu Program">
-                <img src="images_jpg/MFP_tabla.jpg"
+            <a class="fancybox" href="https://files.jankmajtis.hu/img/mfp_tabla.jpg" data-fancybox-group="gallery" title="Magyar Falu Program">
+                <img src="https://files.jankmajtis.hu/img/mfp_tabla.jpg"
                     alt="Magyar Falu Program"
                     class="sideBarElement sideBarImage sideBarSelectable"
                     style="height:unset;">
             </a>
 
             <a href="one.php" class="sideBarElement sideBarOne sideBarSelectable">
-                <img src="images_png/onelogo.png" alt="One">
+                <img src="https://files.jankmajtis.hu/img/onelogo.png" alt="One">
                 <div><strong>Kormányzati csomagos készülékárlista</strong></div>
             </a>
         </div>

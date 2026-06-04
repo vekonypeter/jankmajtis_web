@@ -22,7 +22,7 @@ include('header.php');
         <div class="contentContainer">
             <div class="new row">
                 <div id="oneFormContainer" class="col-12">
-                    <img src="images_png/onelogo.png" alt="One">
+                    <img src="https://files.jankmajtis.hu/img/onelogo.png" alt="One">
                     <p><strong>A lista letöltéséhez kérem adja meg a kapcsolattartótól kapott jelszót:</strong></p>
                     <form id="oneForm" method="POST">
                         <input id="onePassword" name="onePassword" type="password" autofocus />
