@@ -28,6 +28,14 @@ include('header.php');
                 <div class="col-12">
                     <table width="100%" class="docs-table">
                         <tr>
+                            <td>Meghívó 2026.06.03</td>
+                            <td><a href="https://files.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2026/jm_meghivo_20260603.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
+                            <td>Jegyzőkönyv 2026.06.03</td>
+                            <td><a href="https://files.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2026/jm_jkv_20260603.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
                             <td>Meghívó 2026.06.01</td>
                             <td><a href="https://files.jankmajtis.hu/testuleti_ulesek/kepviselo_testulet_2026/jm_meghivo_20260601.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
