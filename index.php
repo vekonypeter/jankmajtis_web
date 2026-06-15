@@ -209,6 +209,20 @@ include('header.php');
         <div class="contentContainer">
 
             <div class="new">
+                <div class="newTitle">Álláshirdetés - kéményseprő mesterek, szakmunkások és betanított munkások (BM OKF)</div>
+                <i class="newDate">2026.06.15.</i>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="https://files.jankmajtis.hu/news/260615/kemenysepro_allashirdetes.pdf" target="_blank">Álláshirdetés</a>
+                    </li>
+                    <li>
+                        <a href="https://files.jankmajtis.hu/news/260615/kemenysepro_felhivas.pdf" target="_blank">Felhívás - Csatlakozzon a kéményseprőkhöz!</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="new">
                 <div class="newTitle">Közlemény - Körzeti erdőtervezési eljárás megindításáról</div>
                 <i class="newDate">2026.06.04.</i>
                 <p>Kapcsolódó dokumentum(ok):</p>
