@@ -209,6 +209,37 @@ include('header.php');
         <div class="contentContainer">
 
             <div class="new">
+                <div class="newTitle">Hőségriasztás és hőséggel kapcsolatos tájékoztatók</div>
+                <i class="newDate">2026.06.24.</i>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="https://files.jankmajtis.hu/news/260625/hosegriasztas_meghosszabbitas_2026-06-30.pdf" target="_blank">II. fokú hőségriasztás meghosszabbítása (2026.06.26-ig) és III. fokú elrendelése (2026.06.27.–06.30.)</a>
+                    </li>
+                    <li>
+                        <a href="https://files.jankmajtis.hu/news/260625/ii_foku_hosegriasztas_2026-06-20_23.pdf" target="_blank">II. fokú hőségriasztás (2026.06.20.–06.23.)</a>
+                    </li>
+                    <li>
+                        <a href="https://files.jankmajtis.hu/news/260625/tajekoztato_melegben_vegzett_munka.pdf" target="_blank">Tájékoztató a melegben végzett munka veszélyeiről</a>
+                    </li>
+                    <li>
+                        <a href="https://files.jankmajtis.hu/news/260625/folyadekpotlas_kisokos.pdf" target="_blank">Folyadékpótlás kisokos – tájékoztató</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="new">
+                <div class="newTitle">Hirdetmény - hagyatéki tárgyalás (Bélteczki Tamás, 34022/N/127/2026/17.)</div>
+                <i class="newDate">2026.06.24.</i>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="https://files.jankmajtis.hu/news/260625/hagyateki_hirdetmeny_belteczki_34022_n_127_2026_17.pdf" target="_blank">Hirdetmény</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="new">
                 <div class="newTitle">Álláshirdetés - kéményseprő mesterek, szakmunkások és betanított munkások (BM OKF)</div>
                 <i class="newDate">2026.06.15.</i>
                 <p>Kapcsolódó dokumentum(ok):</p>
