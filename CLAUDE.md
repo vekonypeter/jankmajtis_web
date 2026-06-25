@@ -78,6 +78,11 @@ Two mechanisms exist:
 
 **Both require explicit user approval before running.** See Safety Rules above.
 
+**FTP access is IP-restricted.** The `atw.hu` host only accepts FTP logins for user `jankmajtishu` from allowed (residential Hungarian) IPs; datacenter/VPN ranges are rejected with `530 ... Errol az IP cimrol [<ip>] ... nem engedelyez belepest`. Implications:
+- Run `lftp`/`aws` with the **sandbox disabled** — the sandbox's egress IP rotates and is not on the allowlist. Verify the egress with `curl -s https://ifconfig.me`.
+- From abroad: either add the current country in the atw.hu control panel's FTP IP-access settings, or use a **residential** (not datacenter) Hungarian IP. A geo-VPN on a datacenter range (e.g. Datacamp) is still refused.
+- A successful deploy connects and runs silently (exit 0, no per-file `put: ... failed` lines). Verify live with `curl -s https://jankmajtis.hu/<page>.php | grep <new-filename>`.
+
 ## Content sections
 
 ### Testületi ülések (Council meetings)
@@ -102,7 +107,13 @@ Pages live at the root (`testuleti_*.php`), PDFs on R2 under `testuleti_ulesek/<
 
 **Filename pattern**: `<prefix>_(meghivo|jkv)[_<committee>]_<YYYYMMDD>.pdf` — e.g. `jm_jkv_20260601.pdf`, `pu_meghivo_p_20190827.pdf`.
 
-**Generator**: [sandbox/claude/build_testuleti_page.py](sandbox/claude/build_testuleti_page.py) — scans `docs/testuleti_ulesek/<folder>/` and emits PHP pages with R2 URLs. Rerun after adding/removing PDFs.
+**Generator**: [sandbox/claude/build_testuleti_page.py](sandbox/claude/build_testuleti_page.py) — scans `docs/testuleti_ulesek/<folder>/` and emits PHP pages with R2 URLs.
+
+⚠️ **Do not blindly rerun the generator.** It regenerates each page purely from the **local** `docs/` tree, but `docs/` is gitignored and normally absent (PDFs live only on R2). Rerunning against an empty/partial folder **overwrites the page and drops every existing row.** To add an entry, either:
+- **Hand-edit the page** (safe default): insert `<tr>` rows matching the generator's exact markup — newest date first, Meghívó before Jegyzőkönyv. This is what recent commits do.
+- **Or** `aws s3 sync s3://docs/testuleti_ulesek/<folder>/ docs/testuleti_ulesek/<folder>/` to pull the full folder down first, add the new PDFs, then rerun.
+
+The filename regex only matches `meghivo|jkv` (with optional `_p`/`_u`). Other doc types (e.g. `vk_jelenleti_*` attendance sheets) won't parse and the generator dumps them as raw-filename rows at the bottom — hand-edit to label them.
 
 ### News
 
@@ -120,6 +131,26 @@ Auth lives in the `vekonydoktor@gmail.com` gog account. Sessions can pick up whe
 
 Drive-link-only emails (when attachments were too large for email) reference PDFs that aren't downloadable via the API — those need to be obtained from the sender separately or via the `docs/_upload_/` staging folder if the sender provided one.
 
+### Reading & fixing PDFs
+
+Most incoming PDFs are scans from the office copier (Konica Minolta) with **no text layer** — `pdftotext` returns nothing. To read them, render a page to PNG and read it visually:
+
+```bash
+pdftoppm -png -r 130 -l 1 input.pdf out      # → out-1.png, then Read the image
+pdfinfo input.pdf                             # page size + rotation
+```
+
+Reading the content matters for categorization (e.g. a meeting PDF's letterhead tells you Jánkmajtis vs Darnó — the filename often doesn't).
+
+To rotate a mis-oriented scan **losslessly** (sets the page `/Rotate` flag, keeps the scan intact), use `pypdf` in the throwaway venv at `sandbox/claude/venv/`:
+
+```python
+from pypdf import PdfReader, PdfWriter
+r, w = PdfReader("f.pdf"), PdfWriter()
+for p in r.pages: p.rotate(90); w.add_page(p)   # 90 = clockwise
+w.write(open("f.pdf", "wb"))
+```
+
 ## Key Conventions
 
 - All content is in Hungarian.
@@ -128,4 +159,5 @@ Drive-link-only emails (when attachments were too large for email) reference PDF
 - `.env` is gitignored — never commit secrets.
 - PHP pages follow naming patterns: `gazd_*.php` (finances), `valasztas-*.php` (elections), `testuleti_*.php` (council meetings), `hesz_*.php` (HÉSZ), `*_jm.php` / `*_dr.php` (Jánkmajtis / Darnó village).
 - Scratch files / helper scripts go in `./sandbox/claude/`.
+- **Editing accented Hungarian lines**: the PHP files mix Unicode normalization forms (NFC/NFD), so an `Edit` whose `old_string` contains accented text may silently fail to match. Anchor edits on the **ASCII portions** (e.g. the R2 filename in an `href`), or line-target with Python. Never normalize the whole file (e.g. `unicodedata.normalize`) to force a match — it rewrites every other accented line and pollutes the diff.
 - Default git branch is `master`. Feature work happens on topic branches; merge with `--no-ff` to preserve history.
