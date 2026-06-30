@@ -209,6 +209,28 @@ include('header.php');
         <div class="contentContainer">
 
             <div class="new">
+                <div class="newTitle">Háziorvosi rendelés (2026. július 5–10.)</div>
+                <i class="newDate">2026.06.30.</i>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="https://files.jankmajtis.hu/news/260630/haziorvosi_tajekoztato.pdf" target="_blank">Tájékoztató</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="new">
+                <div class="newTitle">Részleges községi zárlat feloldása mézelő méhek nyúlós költésrothadása miatt</div>
+                <i class="newDate">2026.06.30.</i>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="https://files.jankmajtis.hu/news/260630/kozossegi_zarlat_feloldasa.pdf" target="_blank">Határozat</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="new">
                 <div class="newTitle">Hőségriasztás és hőséggel kapcsolatos tájékoztatók</div>
                 <i class="newDate">2026.06.24.</i>
                 <p>Kapcsolódó dokumentum(ok):</p>
@@ -301,7 +323,7 @@ include('header.php');
             </div>
 
             <div class="new">
-                <div class="newTitle">Részleges községi zárlat elrendelése mézelö méhek nyúlós költésrothadás miatt</div>
+                <div class="newTitle">Részleges községi zárlat elrendelése mézelő méhek nyúlós költésrothadása miatt</div>
                 <i class="newDate">2026.05.11.</i>
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
