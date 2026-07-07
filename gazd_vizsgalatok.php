@@ -28,6 +28,14 @@ include('header.php');
                 <div class="col-12">
                     <table width="100%" class="docs-table">
                         <tr>
+                            <td>Belső ellenőrzés jóváhagyása 384/2026. (VI.30.) határozat</td>
+                            <td><a href="https://files.jankmajtis.hu/gazdalkodas/Belső ellenőrzés jóváhagyása 384-2026. (VI.30.) határozat.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
+                            <td>Ellenőrzési jelentés IT-Biztonság Jánkmajtis Község Önkormányzata, Intézményei és Közös Hivatala</td>
+                            <td><a href="https://files.jankmajtis.hu/gazdalkodas/Ellenőrzési jelentés IT-Biztonság Jánkmajtis Község Önkormányzata, Intézményei és Közös Hivatala.doc" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
                             <td>2025. éves Belső ell.-i Terv Jánkmajtis Község Önkormányzata, Intézményei és Közös Hivatala</td>
                             <td><a href="https://files.jankmajtis.hu/gazdalkodas/2025. éves Belső ell.-i Terv Jánkmajtis Község Önkormányzata, Intézményei és Közös Hivatala.doc" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
