@@ -251,17 +251,6 @@ include('header.php');
             </div>
 
             <div class="new">
-                <div class="newTitle">Hirdetmény - hagyatéki tárgyalás (Bélteczki Tamás, 34022/N/127/2026/17.)</div>
-                <i class="newDate">2026.06.24.</i>
-                <p>Kapcsolódó dokumentum(ok):</p>
-                <ul class="documentList">
-                    <li>
-                        <a href="https://files.jankmajtis.hu/news/260625/hagyateki_hirdetmeny_belteczki_34022_n_127_2026_17.pdf" target="_blank">Hirdetmény</a>
-                    </li>
-                </ul>
-            </div>
-
-            <div class="new">
                 <div class="newTitle">Álláshirdetés - kéményseprő mesterek, szakmunkások és betanított munkások (BM OKF)</div>
                 <i class="newDate">2026.06.15.</i>
                 <p>Kapcsolódó dokumentum(ok):</p>
@@ -307,17 +296,6 @@ include('header.php');
                 <ul class="documentList">
                     <li>
                         <a href="https://files.jankmajtis.hu/news/260527/sajtokozlemeny_muvelodesi_haz_energetikai.pdf" target="_blank">Sajtóközlemény</a>
-                    </li>
-                </ul>
-            </div>
-
-            <div class="new">
-                <div class="newTitle">Hirdetmény - VL98 Trade Kft. „felszámolás alatt” (20.Fpk.920/2025/22.)</div>
-                <i class="newDate">2026.05.27.</i>
-                <p>Kapcsolódó dokumentum(ok):</p>
-                <ul class="documentList">
-                    <li>
-                        <a href="https://files.jankmajtis.hu/news/260527/hirdetmeny_vl98_trade_felszamolas.pdf" target="_blank">Hirdetmény</a>
                     </li>
                 </ul>
             </div>
