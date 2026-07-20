@@ -209,6 +209,18 @@ include('header.php');
         <div class="contentContainer">
 
             <div class="new">
+                <div class="newTitle">Fehérgyarmati Kormányablak - ügyfélfogadási szünet (2026. július 23–24.)</div>
+                <i class="newDate">2026.07.20.</i>
+                <p>A Fehérgyarmati Kormányablakban 2026. július 23–24-én (csütörtök, péntek) az ügyfélfogadás technikai okok (előre bejelentett áramszünet) miatt szünetel. Helyettesítő kormányablakok: Mátészalka (Kölcsey tér 2.) és Csenger (Ady Endre utca 14–16.).</p>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="https://files.jankmajtis.hu/news/260720/kormanyablak_ugyfelfogadas_szunet_2026-07-23_24.pdf" target="_blank">Tájékoztató</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="new">
                 <div class="newTitle">Háziorvosi rendelés (2026. július 5–10.)</div>
                 <i class="newDate">2026.06.30.</i>
                 <p>Kapcsolódó dokumentum(ok):</p>
