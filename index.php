@@ -210,7 +210,7 @@ include('header.php');
 
             <div class="new">
                 <div class="newTitle">Helyi zárlat elrendelése mézelő méhek nyúlós költésrothadása miatt</div>
-                <i class="newDate">2026.08.04.</i>
+                <i class="newDate">2026.08.05.</i>
                 <p>A Szabolcs-Szatmár-Bereg Vármegyei Kormányhivatal Fehérgyarmati Járási Hivatala a Jánkmajtis 06/1 hrsz. alatti méhállományra 2026. augusztus 3. napjától kezdődően – mézelő méhek nyúlós költésrothadása fertőző állatbetegség gyanúja miatt – helyi zárlatot rendelt el (visszavonásig).</p>
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
@@ -222,7 +222,7 @@ include('header.php');
 
             <div class="new">
                 <div class="newTitle">Hirdetmény - hagyatéki eljárás (Bélteczki Jánosné pót-hagyatéka)</div>
-                <i class="newDate">2026.08.04.</i>
+                <i class="newDate">2026.08.05.</i>
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
@@ -233,7 +233,7 @@ include('header.php');
 
             <div class="new">
                 <div class="newTitle">Hirdetmény - Nyíregyházi Járásbíróság (Konkoly Ervin László)</div>
-                <i class="newDate">2026.08.03.</i>
+                <i class="newDate">2026.08.05.</i>
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
@@ -244,7 +244,7 @@ include('header.php');
 
             <div class="new">
                 <div class="newTitle">I. fokú vízkorlátozás elrendelése</div>
-                <i class="newDate">2026.08.03.</i>
+                <i class="newDate">2026.08.05.</i>
                 <p>
                     <img src="https://files.jankmajtis.hu/news/260805/vizkorlatozas.jpg" alt="Vízkorlátozás" style="max-width: 100%; width: 500px; height: auto; box-shadow: 2px 2px 5px #000000; margin: 20px 0 15px;" />
                 </p>
