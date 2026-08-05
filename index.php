@@ -209,6 +209,33 @@ include('header.php');
         <div class="contentContainer">
 
             <div class="new">
+                <div class="newTitle">I. fokú vízkorlátozás elrendelése</div>
+                <i class="newDate">2026.08.03.</i>
+                <p>
+                    <img src="https://files.jankmajtis.hu/news/260805/vizkorlatozas.jpg" alt="Vízkorlátozás" style="max-width: 100%; width: 500px; height: auto; box-shadow: 2px 2px 5px #000000; margin: 20px 0 15px;" />
+                </p>
+                <p>Jánkmajtis Község Önkormányzat Polgármestere a vízfogyasztás rendjének megállapításával kapcsolatos hatáskörömben eljárva a Szabolcs-Szatmár-Bereg Vármegyei Önkormányzati Hivatal Víziközmű és Települési Csapadékvíz-Gazdálkodási Főosztály kezdeményezésére a folyamatos ivóvízellátás biztosítása érdekében 2026. augusztus 3. 15:00 órától kezdődően visszavonásig I.fokú vízkorlátozást rendelt el.</p>
+                <p>A I. fokú vízkorlátozás időtartama alatt Jánkmajtis község egész területén az alábbi szabályok érvényesek:</p>
+                <ul>
+                    <li><strong>Locsolási tilalom:</strong> Tilos a közparkok, kertek, pázsitok locsolása ivóvízről (tömlős locsolás).</li>
+                    <li><strong>Medencék feltöltése:</strong> Szigorúan tilos kerti úszómedencék vezetékes vízzel történő feltöltése.</li>
+                    <li><strong>Autómosás:</strong> Gépjárművek tömlős mosásának mellőzése.</li>
+                    <li><strong>Tisztítás:</strong> Tilos a járdák, utak, udvarok csapvízzel való mosása.</li>
+                    <li><strong>Automata öntözőrendszerek:</strong> Az automata locsolók működtetésének szüneteltetése.</li>
+                </ul>
+                <p>A Szabolcs-Szatmár-Bereg Vármegyei Önkormányzati Hivatal Víziközmű és Települési Csapadékvíz-Gazdálkodási Főosztály a 2026. július 31. napján kelt levelében olyan tartalmú jelzéssel élt, hogy a jelenlegi hidrometeorológiai előrejelzések, a víziközmű-rendszerek aktuális üzemeltetés körülményei, valamint az ellátásbiztonság hosszú távon történő fenntartása indokolja, hogy az ország minden településén (legalább) I. fokú vízkorlátozás kerüljön kihirdetésre, ezzel is elősegítve a tudatos ivóvízhasználatot a hőhullám idején. Az I. fokú vízkorlátozás a lakossági nem ivóvíz célú (kertgondozás, medence töltés, autómosás, járófelületek vizes portalanítás és hűtése) vízhasználat visszaszorítását célozza meg, amely a hűhullámok idején jellemzően megugrik.</p>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="https://files.jankmajtis.hu/news/260805/vizkorlatozas_jankmajtis.pdf" target="_blank">Határozat - Jánkmajtis</a>
+                    </li>
+                    <li>
+                        <a href="https://files.jankmajtis.hu/news/260805/vizkorlatozas_darno.pdf" target="_blank">Határozat - Darnó</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="new">
                 <div class="newTitle">Fehérgyarmati Kormányablak - ügyfélfogadási szünet (2026. július 23–24.)</div>
                 <i class="newDate">2026.07.20.</i>
                 <p>A Fehérgyarmati Kormányablakban 2026. július 23–24-én (csütörtök, péntek) az ügyfélfogadás technikai okok (előre bejelentett áramszünet) miatt szünetel. Helyettesítő kormányablakok: Mátészalka (Kölcsey tér 2.) és Csenger (Ady Endre utca 14–16.).</p>
