@@ -209,6 +209,30 @@ include('header.php');
         <div class="contentContainer">
 
             <div class="new">
+                <div class="newTitle">Határozat kiegészítése - mézelő méhek nyúlós költésrothadása</div>
+                <i class="newDate">2026.08.06.</i>
+                <p>A Szabolcs-Szatmár-Bereg Vármegyei Kormányhivatal Fehérgyarmati Járási Hivatala a 2026. augusztus 4. napján kelt határozatát kiegészítette, és a Jánkmajtis 06/1 hrsz. alatti méhészetben a nyúlós költésrothadás fertőző állatbetegséget hatóságilag megállapította (visszavonásig).</p>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="https://files.jankmajtis.hu/news/260806/mehek_hatarozat_kiegeszites.pdf" target="_blank">Határozat</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="new">
+                <div class="newTitle">Hőségriasztás meghosszabbítása</div>
+                <i class="newDate">2026.08.06.</i>
+                <p>Az Országos Tisztifőorvos a 2026. július 30. napjától elrendelt III. fokú hőségriasztást az ország egész területére vonatkozóan 2026. augusztus 7. (péntek) 24.00 óráig meghosszabbította.</p>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="https://files.jankmajtis.hu/news/260806/hosegriasztas_hosszabbitas.pdf" target="_blank">Tájékoztató</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="new">
                 <div class="newTitle">Helyi zárlat elrendelése mézelő méhek nyúlós költésrothadása miatt</div>
                 <i class="newDate">2026.08.05.</i>
                 <p>A Szabolcs-Szatmár-Bereg Vármegyei Kormányhivatal Fehérgyarmati Járási Hivatala a Jánkmajtis 06/1 hrsz. alatti méhállományra 2026. augusztus 3. napjától kezdődően – mézelő méhek nyúlós költésrothadása fertőző állatbetegség gyanúja miatt – helyi zárlatot rendelt el (visszavonásig).</p>
