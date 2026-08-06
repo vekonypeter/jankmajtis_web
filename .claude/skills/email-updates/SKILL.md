@@ -91,33 +91,46 @@ Print a compact summary table: item → type → target file → planned R2 path
 title/date. List anything skipped as a duplicate and why. **Wait for the user's
 approval before editing.**
 
-## Step 5 — Make the changes (local)
+## Step 5 — Make the changes (local, with **local links** for preview)
 
 Conventions (see `CLAUDE.md` for the full folder↔prefix map):
 
 - **News** → new `<div class="new">` blocks at the top of the Aktualitások list in
-  `index.php`, newest first. PDFs/images go to `news/<today YYMMDD>/` on R2, linked
-  `https://files.jankmajtis.hu/news/<YYMMDD>/...`. **News dates: use today unless the
-  user says otherwise.** Inline images use `box-shadow: 2px 2px 5px #000000` to match
-  the other news images.
+  `index.php`, newest first. **News dates: use today unless the user says otherwise.**
+  Inline images use `box-shadow: 2px 2px 5px #000000` to match the other news images.
 - **Testületi ülés** → rows in `testuleti_<YEAR>.php` (newest first, Meghívó before
-  Jegyzőkönyv). Files → `testuleti_ulesek/<folder>/<prefix>_(meghivo|jkv)_<YYYYMMDD>.pdf`.
-  ⚠️ Hand-edit the row; never blindly rerun the generator (it wipes rows from the
-  gitignored `docs/` tree).
-- **Editing accented lines:** anchor Edits on ASCII portions (the R2 filename in the
+  Jegyzőkönyv). ⚠️ Hand-edit the row; never blindly rerun the generator (it wipes rows
+  from the gitignored `docs/` tree).
+- **Editing accented lines:** anchor Edits on ASCII portions (the filename in the
   href); NFC/NFD mismatches make accented `old_string`s silently fail.
 - `php -l <file>` after each edit.
 
-**Commit per meaningful task.** Multiple news entries that arrived together → one
-commit. A testületi update is its own commit. Short one-line Hungarian message, end
-with the `Co-Authored-By` trailer. Do **not** push yet.
+**Link every newly-added document at a LOCAL relative path first**, so the user can
+click through in the local preview (the R2 URLs 404 until upload). The relative path
+**mirrors the eventual R2 subtree**, and you copy the file there locally:
+
+- News PDFs/images → `./news/<today YYMMDD>/<file>` (copy into local `news/<YYMMDD>/`).
+- Testületi PDFs → `./docs/testuleti_ulesek/<folder>/<file>` (copy into that local dir).
+
+`news/` and `docs/` are gitignored, so the copied files never enter the repo — only
+the working-tree href points local for now. **Do not commit yet** — the links still
+need to become R2 URLs after acceptance (Step 7).
 
 ## Step 6 — Hand off for local review
 
 Tell the user what changed and that they can check locally
-(`php -S 127.0.0.1:8765` from repo root). Wait for approval.
+(`php -S 127.0.0.1:8765` from repo root) — the document links resolve against the
+local `news/`/`docs/` copies. Wait for approval.
 
 ## Step 7 — Roll out (only after approval)
+
+0. **Swap local links → R2 URLs, then commit.** Once the preview is accepted, rewrite
+   every local href added in Step 5 to its absolute
+   `https://files.jankmajtis.hu/<subtree>/...` form (news → `.../news/<YYMMDD>/...`;
+   testületi → `.../testuleti_ulesek/<folder>/...`). `php -l` again, then **commit per
+   meaningful task** (news entries that arrived together → one commit; a testületi
+   update is its own commit). Short one-line Hungarian message, end with the
+   `Co-Authored-By` trailer. Do **not** push yet.
 
 1. **R2 upload** (bucket `docs`, keys mirror the URL subtree; creds in `.env`):
    ```bash
