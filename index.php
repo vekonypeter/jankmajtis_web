@@ -245,28 +245,6 @@ include('header.php');
             </div>
 
             <div class="new">
-                <div class="newTitle">Hirdetmény - hagyatéki eljárás (Bélteczki Jánosné pót-hagyatéka)</div>
-                <i class="newDate">2026.08.05.</i>
-                <p>Kapcsolódó dokumentum(ok):</p>
-                <ul class="documentList">
-                    <li>
-                        <a href="https://files.jankmajtis.hu/news/260805/belteczki_tamas_hirdetmeny.pdf" target="_blank">Hirdetmény</a>
-                    </li>
-                </ul>
-            </div>
-
-            <div class="new">
-                <div class="newTitle">Hirdetmény - Nyíregyházi Járásbíróság (Konkoly Ervin László)</div>
-                <i class="newDate">2026.08.05.</i>
-                <p>Kapcsolódó dokumentum(ok):</p>
-                <ul class="documentList">
-                    <li>
-                        <a href="https://files.jankmajtis.hu/news/260805/konkoly_ervin_hirdetmeny.pdf" target="_blank">Hirdetmény</a>
-                    </li>
-                </ul>
-            </div>
-
-            <div class="new">
                 <div class="newTitle">I. fokú vízkorlátozás elrendelése</div>
                 <i class="newDate">2026.08.05.</i>
                 <p>
