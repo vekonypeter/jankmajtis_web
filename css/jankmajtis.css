@@ -199,10 +199,17 @@ table {
     font-weight: bold;
     font-size: 11pt;
     text-align: left;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 2px 15px;
 }
 
 .newDate {
-    float: right;
+    margin-left: auto;
+    flex-shrink: 0;
+    font-weight: normal;
+    white-space: nowrap;
 }
 
 .documentList {

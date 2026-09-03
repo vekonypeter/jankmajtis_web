@@ -209,8 +209,7 @@ include('header.php');
         <div class="contentContainer">
 
             <div class="new">
-                <div class="newTitle">Határozat kiegészítése - mézelő méhek nyúlós költésrothadása</div>
-                <i class="newDate">2026.08.06.</i>
+                <div class="newTitle">Határozat kiegészítése - mézelő méhek nyúlós költésrothadása<i class="newDate">2026.08.06.</i></div>
                 <p>A Szabolcs-Szatmár-Bereg Vármegyei Kormányhivatal Fehérgyarmati Járási Hivatala a 2026. augusztus 4. napján kelt határozatát kiegészítette, és a Jánkmajtis 06/1 hrsz. alatti méhészetben a nyúlós költésrothadás fertőző állatbetegséget hatóságilag megállapította (visszavonásig).</p>
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
@@ -221,8 +220,7 @@ include('header.php');
             </div>
 
             <div class="new">
-                <div class="newTitle">Hőségriasztás meghosszabbítása</div>
-                <i class="newDate">2026.08.06.</i>
+                <div class="newTitle">Hőségriasztás meghosszabbítása<i class="newDate">2026.08.06.</i></div>
                 <p>Az Országos Tisztifőorvos a 2026. július 30. napjától elrendelt III. fokú hőségriasztást az ország egész területére vonatkozóan 2026. augusztus 7. (péntek) 24.00 óráig meghosszabbította.</p>
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
@@ -233,8 +231,7 @@ include('header.php');
             </div>
 
             <div class="new">
-                <div class="newTitle">Helyi zárlat elrendelése mézelő méhek nyúlós költésrothadása miatt</div>
-                <i class="newDate">2026.08.05.</i>
+                <div class="newTitle">Helyi zárlat elrendelése mézelő méhek nyúlós költésrothadása miatt<i class="newDate">2026.08.05.</i></div>
                 <p>A Szabolcs-Szatmár-Bereg Vármegyei Kormányhivatal Fehérgyarmati Járási Hivatala a Jánkmajtis 06/1 hrsz. alatti méhállományra 2026. augusztus 3. napjától kezdődően – mézelő méhek nyúlós költésrothadása fertőző állatbetegség gyanúja miatt – helyi zárlatot rendelt el (visszavonásig).</p>
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
@@ -245,8 +242,7 @@ include('header.php');
             </div>
 
             <div class="new">
-                <div class="newTitle">I. fokú vízkorlátozás elrendelése</div>
-                <i class="newDate">2026.08.05.</i>
+                <div class="newTitle">I. fokú vízkorlátozás elrendelése<i class="newDate">2026.08.05.</i></div>
                 <p>
                     <img src="https://files.jankmajtis.hu/news/260805/vizkorlatozas.jpg" alt="Vízkorlátozás" style="max-width: 100%; width: 500px; height: auto; box-shadow: 2px 2px 5px #000000; margin: 20px 0 15px;" />
                 </p>
@@ -272,8 +268,7 @@ include('header.php');
             </div>
 
             <div class="new">
-                <div class="newTitle">Fehérgyarmati Kormányablak - ügyfélfogadási szünet (2026. július 23–24.)</div>
-                <i class="newDate">2026.07.20.</i>
+                <div class="newTitle">Fehérgyarmati Kormányablak - ügyfélfogadási szünet (2026. július 23–24.)<i class="newDate">2026.07.20.</i></div>
                 <p>A Fehérgyarmati Kormányablakban 2026. július 23–24-én (csütörtök, péntek) az ügyfélfogadás technikai okok (előre bejelentett áramszünet) miatt szünetel. Helyettesítő kormányablakok: Mátészalka (Kölcsey tér 2.) és Csenger (Ady Endre utca 14–16.).</p>
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
@@ -284,8 +279,7 @@ include('header.php');
             </div>
 
             <div class="new">
-                <div class="newTitle">Háziorvosi rendelés (2026. július 5–10.)</div>
-                <i class="newDate">2026.06.30.</i>
+                <div class="newTitle">Háziorvosi rendelés (2026. július 5–10.)<i class="newDate">2026.06.30.</i></div>
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
@@ -295,8 +289,7 @@ include('header.php');
             </div>
 
             <div class="new">
-                <div class="newTitle">Részleges községi zárlat feloldása mézelő méhek nyúlós költésrothadása miatt</div>
-                <i class="newDate">2026.06.30.</i>
+                <div class="newTitle">Részleges községi zárlat feloldása mézelő méhek nyúlós költésrothadása miatt<i class="newDate">2026.06.30.</i></div>
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
@@ -306,8 +299,7 @@ include('header.php');
             </div>
 
             <div class="new">
-                <div class="newTitle">Hőségriasztás és hőséggel kapcsolatos tájékoztatók</div>
-                <i class="newDate">2026.06.24.</i>
+                <div class="newTitle">Hőségriasztás és hőséggel kapcsolatos tájékoztatók<i class="newDate">2026.06.24.</i></div>
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
@@ -326,8 +318,7 @@ include('header.php');
             </div>
 
             <div class="new">
-                <div class="newTitle">Álláshirdetés - kéményseprő mesterek, szakmunkások és betanított munkások (BM OKF)</div>
-                <i class="newDate">2026.06.15.</i>
+                <div class="newTitle">Álláshirdetés - kéményseprő mesterek, szakmunkások és betanított munkások (BM OKF)<i class="newDate">2026.06.15.</i></div>
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
@@ -340,8 +331,7 @@ include('header.php');
             </div>
 
             <div class="new">
-                <div class="newTitle">Közlemény - Körzeti erdőtervezési eljárás megindításáról</div>
-                <i class="newDate">2026.06.04.</i>
+                <div class="newTitle">Közlemény - Körzeti erdőtervezési eljárás megindításáról<i class="newDate">2026.06.04.</i></div>
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
@@ -351,8 +341,7 @@ include('header.php');
             </div>
 
             <div class="new">
-                <div class="newTitle">VJP közlemény - Jánkmajtis és Darnó</div>
-                <i class="newDate">2026.06.04.</i>
+                <div class="newTitle">VJP közlemény - Jánkmajtis és Darnó<i class="newDate">2026.06.04.</i></div>
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
@@ -365,8 +354,7 @@ include('header.php');
             </div>
 
             <div class="new">
-                <div class="newTitle">Sajtóközlemény - Jánkmajtis Község Művelődési Házának energetikai korszerűsítése</div>
-                <i class="newDate">2026.05.27.</i>
+                <div class="newTitle">Sajtóközlemény - Jánkmajtis Község Művelődési Házának energetikai korszerűsítése<i class="newDate">2026.05.27.</i></div>
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
@@ -376,8 +364,7 @@ include('header.php');
             </div>
 
             <div class="new">
-                <div class="newTitle">Részleges községi zárlat elrendelése mézelő méhek nyúlós költésrothadása miatt</div>
-                <i class="newDate">2026.05.11.</i>
+                <div class="newTitle">Részleges községi zárlat elrendelése mézelő méhek nyúlós költésrothadása miatt<i class="newDate">2026.05.11.</i></div>
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
@@ -387,8 +374,7 @@ include('header.php');
             </div>
 
             <div class="new">
-                <div class="newTitle">Szociális gondozó és ápoló álláspályázat</div>
-                <i class="newDate">2026.05.11.</i>
+                <div class="newTitle">Szociális gondozó és ápoló álláspályázat<i class="newDate">2026.05.11.</i></div>
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
@@ -398,8 +384,7 @@ include('header.php');
             </div>
 
             <div class="new">
-                <div class="newTitle">Veszettség elleni védekezés - ebzárlat és legeltetési tilalom</div>
-                <i class="newDate">2026.04.01.</i>
+                <div class="newTitle">Veszettség elleni védekezés - ebzárlat és legeltetési tilalom<i class="newDate">2026.04.01.</i></div>
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
@@ -415,8 +400,7 @@ include('header.php');
             </div>
 
             <div class="new">
-                <div class="newTitle">Országgyűlési választások 2026</div>
-                <i class="newDate">2026.01.19.</i>
+                <div class="newTitle">Országgyűlési választások 2026<i class="newDate">2026.01.19.</i></div>
                 <p>
                     <a class="fancybox"
                         href="https://files.jankmajtis.hu/news/260119/valasztas_2026.jpg"
@@ -432,8 +416,7 @@ include('header.php');
             </div>
 
             <div class="new">
-                <div class="newTitle">Vegyen részt a KSH Életkörülmény Felmérésében!</div>
-                <i class="newDate">2025.02.07.</i>
+                <div class="newTitle">Vegyen részt a KSH Életkörülmény Felmérésében!<i class="newDate">2025.02.07.</i></div>
                 <p>
                     <a class="fancybox"
                         href="https://files.jankmajtis.hu/news/250207/eletkorulmeny_plakat_2025.pdf"
@@ -449,8 +432,7 @@ include('header.php');
             </div>
 
             <div class="new">
-                <div class="newTitle">Bursa Hungarica Pályázat</div>
-                <i class="newDate">2024.11.01.</i>
+                <div class="newTitle">Bursa Hungarica Pályázat<i class="newDate">2024.11.01.</i></div>
                 <p>
                     A Bursa Hungarica Felsőoktatási Önkormányzati Ösztöndíjrendszer célja az esélyteremtés érdekében a hátrányos helyzetű, szociálisan rászoruló fiatalok felsőfokú tanulmányainak támogatása.<br/>
                     <br/>
@@ -464,8 +446,7 @@ include('header.php');
             </div>
 
             <div class="new">
-                <div class="newTitle">Hivatalos Hirdetmény az „Agrárgazdasági képzések és felkészítő tréningek” című (VP1-1.1.1-23 kódszámú) felhívás vonatkozásában</div>
-                <i class="newDate">2024.08.15.</i>
+                <div class="newTitle">Hivatalos Hirdetmény az „Agrárgazdasági képzések és felkészítő tréningek” című (VP1-1.1.1-23 kódszámú) felhívás vonatkozásában<i class="newDate">2024.08.15.</i></div>
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
@@ -478,8 +459,7 @@ include('header.php');
             </div>
 
             <div class="new">
-                <div class="newTitle">Jánkmajtis Község Roma Nemzetiségi Önkormányzatának eszközbeszerzése</div>
-                <i class="newDate">2024.07.14.</i>
+                <div class="newTitle">Jánkmajtis Község Roma Nemzetiségi Önkormányzatának eszközbeszerzése<i class="newDate">2024.07.14.</i></div>
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
@@ -489,8 +469,7 @@ include('header.php');
             </div>
 
             <div class="new">
-                <div class="newTitle">Magyar Máltai Szeretetszolgálat Alapítvány pályázat</div>
-                <i class="newDate">2024.04.16.</i>
+                <div class="newTitle">Magyar Máltai Szeretetszolgálat Alapítvány pályázat<i class="newDate">2024.04.16.</i></div>
                 <p>
                     A Magyar Máltai Szeretetszolgálat Alapítvány nyílt pályázatot hirdet az RRF-3.3.1-22-2022-00001 projekt keretében a Felzárkózó településen lévő ingatlanok szociális alapon történő bérbeadására.
                     <br/><br/>A pályázati anyagok a következő linken érhetőek el: <a href="https://fete.hu/jankmajtis/" target="_blank">https://fete.hu/jankmajtis/</a>
@@ -498,8 +477,7 @@ include('header.php');
             </div>
 
             <div class="new">
-                <div class="newTitle">Szolgálati lakás felújítása Jánkmajtison</div>
-                <i class="newDate">2023.10.19.</i>
+                <div class="newTitle">Szolgálati lakás felújítása Jánkmajtison<i class="newDate">2023.10.19.</i></div>
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
@@ -509,8 +487,7 @@ include('header.php');
             </div>
 
             <div class="new">
-                <div class="newTitle">Jánkmajtis Helyi Választási Iroda vezetőjétől</div>
-                <i class="newDate">2023.10.18.</i>
+                <div class="newTitle">Jánkmajtis Helyi Választási Iroda vezetőjétől<i class="newDate">2023.10.18.</i></div>
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
                     <li>
