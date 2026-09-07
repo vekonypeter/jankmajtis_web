@@ -209,6 +209,16 @@ include('header.php');
         <div class="contentContainer">
 
             <div class="new">
+                <div class="newTitle">Hirdetmény - hagyatéki eljárás (Bélteczki Jánosné hagyatéka)<i class="newDate">2026.09.07.</i></div>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="https://files.jankmajtis.hu/news/260907/belteczki_tamas_hirdetmeny.pdf" target="_blank">Hirdetmény</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="new">
                 <div class="newTitle">Vágányzár - módosított menetrend a Debrecen-Mátészalka és a Nyíregyháza-Mátészalka vonalon<i class="newDate">2026.09.03.</i></div>
                 <p>A MÁV Személyszállítási Zrt. tájékoztatása szerint 2026. szeptember 21. és szeptember 26. között karbantartási munkák miatt a Debrecen-Mátészalka és a Nyíregyháza-Mátészalka vonalon a vonatok menetrendje módosul. Nyírbátor és Mátészalka között valamennyi vonat helyett MÁVBUSZ-ok közlekednek, a vonatpótló autóbuszokon a vasúti menetjegyek érvényesek. A Mátészalka-Fehérgyarmat, a Mátészalka-Záhony és a Tiborszállás-Mátészalka vonalakon egyes vonatok módosított menetrend szerint közlekednek. A részletes módosított menetrendet az alábbi hirdetmény tartalmazza.</p>
                 <p>Kapcsolódó dokumentum(ok):</p>
