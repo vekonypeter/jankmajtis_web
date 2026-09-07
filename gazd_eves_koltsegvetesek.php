@@ -48,6 +48,10 @@ include('header.php');
                             <td><a href="https://files.jankmajtis.hu/gazdalkodas/jankmajtis_2025_kv_mod.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
                         <tr>
+                            <td>Költségvetés 2026 módosítás</td>
+                            <td><a href="https://files.jankmajtis.hu/gazdalkodas/jankmajtis_2026_kv_mod.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
+                        </tr>
+                        <tr>
                             <td>Zárszámadás 2022</td>
                             <td><a href="https://files.jankmajtis.hu/gazdalkodas/Jánkmajtis 2022. zárszámadás.pdf" target="_blank">Letöltés<i class="fa-solid fa-menu fa-file-pdf"></i></a></td>
                         </tr>
