@@ -209,6 +209,17 @@ include('header.php');
         <div class="contentContainer">
 
             <div class="new">
+                <div class="newTitle">Tájékoztató a banki hagyatéki ügyintézéshez<i class="newDate">2026.09.15.</i></div>
+                <p>Az OTP Bank tájékoztatója abban nyújt segítséget, hogy haláleset bekövetkezésekor a hozzátartozók miként intézhetik a szükséges banki ügyeket: hogyan és ki jelentheti be a halálesetet, milyen dokumentumokra van szükség, mi a haláleseti rendelkezés, valamint hogyan indul és zajlik a hagyatéki eljárás.</p>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="https://files.jankmajtis.hu/news/260915/hagyateki_tajekoztato.pdf" target="_blank">Tájékoztató</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="new">
                 <div class="newTitle">Hirdetmény - hagyatéki eljárás (Bélteczki Jánosné hagyatéka)<i class="newDate">2026.09.07.</i></div>
                 <p>Kapcsolódó dokumentum(ok):</p>
                 <ul class="documentList">
