@@ -133,13 +133,19 @@ need to become R2 URLs after acceptance (Step 7).
 
 ## Step 6 — Hand off for local review
 
-Tell the user what changed and that they can check locally
-(`php -S 127.0.0.1:8765` from repo root) — the document links resolve against the
-local `news/`/`docs/` copies. Wait for approval.
+**Start the preview server yourself** — don't ask the user to run it. Run
+`php -S 127.0.0.1:8765` from repo root in the background (skip if already
+listening), check the changed page returns 200, then give the user the direct URL
+(e.g. `http://127.0.0.1:8765/index.php`). The document links resolve against the
+local `news/`/`docs/` copies. Tell the user what changed and wait for approval.
 
 ## Step 7 — Roll out (only after approval)
 
-0. **Swap local links → R2 URLs, then commit.** Once the preview is accepted, rewrite
+0. **Stop the preview server** you started in Step 6 as soon as the preview is
+   accepted (kill the background `php -S 127.0.0.1:8765` task). Also stop it if the
+   session ends or the user abandons the change — never leave it running.
+
+   **Swap local links → R2 URLs, then commit.** Once the preview is accepted, rewrite
    every local href added in Step 5 to its absolute
    `https://files.jankmajtis.hu/<subtree>/...` form (news → `.../news/<YYMMDD>/...`;
    testületi → `.../testuleti_ulesek/<folder>/...`). `php -l` again, then **commit per
