@@ -209,6 +209,31 @@ include('header.php');
         <div class="contentContainer">
 
             <div class="new">
+                <div class="newTitle">Bursa Hungarica Ösztöndíjpályázat 2027<i class="newDate">2026.09.24.</i></div>
+                <p>Az Oktatási és Gyermekügyi Minisztérium megbízásából a Nemzeti Kulturális Támogatáskezelő nyílt pályázat keretében meghirdeti a Bursa Hungarica Felsőoktatási Önkormányzati Ösztöndíjpályázatot felsőoktatási hallgatók számára a 2026/2027. tanév második és a 2027/2028. tanév első félévére vonatkozóan.</p>
+                <p>
+                    A felhívás kódja: BURSA-2027-A<br/>
+                    A pályázat benyújtásának határideje: <b>2026. november 5.</b>
+                </p>
+                <p>
+                    Letölthető:<br/>
+                    <a target="_blank" href="https://emet.gov.hu/app/uploads/2026/08/A-tipusu-palyazati-kiiras.docx">A-típusú pályázati felhívás</a><br/>
+                    <a target="_blank" href="https://emet.gov.hu/app/uploads/2026/08/A-tipusu-palyazati-urlap.pdf">A-típusú pályázati űrlap</a>
+                </p>
+                <p>
+                    Linkek:<br/>
+                    <a target="_blank" href="https://emet.gov.hu/bursa-hungarica-programrol/">A programról</a><br/>
+                    <a target="_blank" href="https://emet.gov.hu/eper-bursa-belepesi-pontok/">Eper-Bursa belépési pont</a>
+                </p>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="https://files.jankmajtis.hu/news/260924/bursa_2027_a.pdf" target="_blank">Felhívás</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="new">
                 <div class="newTitle">Tájékoztató a banki hagyatéki ügyintézéshez<i class="newDate">2026.09.15.</i></div>
                 <p>Az OTP Bank tájékoztatója abban nyújt segítséget, hogy haláleset bekövetkezésekor a hozzátartozók miként intézhetik a szükséges banki ügyeket: hogyan és ki jelentheti be a halálesetet, milyen dokumentumokra van szükség, mi a haláleseti rendelkezés, valamint hogyan indul és zajlik a hagyatéki eljárás.</p>
                 <p>Kapcsolódó dokumentum(ok):</p>
