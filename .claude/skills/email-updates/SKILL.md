@@ -39,15 +39,30 @@ gog -a vekonydoktor@gmail.com --client personal gmail search "from:vekonylajos@g
 - Both fail with `invalid_grant` / `Token has been expired or revoked` → **stop and
   prompt the user.** This session cannot run the browser OAuth flow.
 
-Starting auth **without hijacking the default browser** — suppress auto-open and
-surface the link gog prints so the user opens it themselves:
+Re-auth with `gog auth add` (**not** `auth login` — that's an alias for
+`auth manage`, a localhost accounts-manager page). Limit to Gmail: the default
+requests ~45 scopes, which makes Google's "Verify it's you" check stricter. Run it
+in the background (it waits for the OAuth callback on localhost), suppressing
+auto-open:
 
 ```bash
-BROWSER=echo gog auth login -a vekonydoktor@gmail.com --client personal
+(BROWSER=echo gog auth add vekonydoktor@gmail.com --client personal --services gmail \
+  > sandbox/claude/gog_auth.log 2>&1 &); sleep 4
 ```
 
-Print the URL gog emits to the user verbatim and wait. Do **not** ask for tokens
-or callback URLs. Once they confirm, re-run the probe before continuing.
+Then open the printed Google URL in **Brave** (logged into the personal Gmail; not
+the default browser — never change the default):
+
+```bash
+open -a "Brave Browser" "$(grep -o 'https://accounts.google.com[^ ]*' sandbox/claude/gog_auth.log)"
+```
+
+Also give the user the URL, then wait. Do **not** ask for tokens or callback URLs.
+Once they confirm, re-run the probe before continuing.
+
+Tokens expiring after ~7 days means the OAuth app is in **Testing** publishing
+status; switching it to **In production** (no verification needed) removes that
+limit.
 
 ## Step 2 — Fetch the latest mails, focus on undone work
 
