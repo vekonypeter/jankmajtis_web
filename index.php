@@ -209,6 +209,23 @@ include('header.php');
         <div class="contentContainer">
 
             <div class="new">
+                <div class="newTitle">Kormányablak nyitvatartásának módosulása<i class="newDate">2026.10.01.</i></div>
+                <p>
+                    <a class="fancybox"
+                        href="https://files.jankmajtis.hu/news/261001/kormanyablak_nyitvatartas.jpg"
+                        data-fancybox-group="kormanyablak_2026"
+                        title="A kormányablak nyitvatartása">
+                        <img
+                            class="news-gal-tmb"
+                            style="max-width: 100%; width: 300px; height: auto; margin: 20px 0 15px;"
+                            src="https://files.jankmajtis.hu/news/261001/kormanyablak_nyitvatartas_tmb.jpg"
+                            alt="A kormányablak nyitvatartása"
+                        />
+                    </a>
+                </p>
+            </div>
+
+            <div class="new">
                 <div class="newTitle">Bursa Hungarica Ösztöndíjpályázat 2027<i class="newDate">2026.09.24.</i></div>
                 <p>Az Oktatási és Gyermekügyi Minisztérium megbízásából a Nemzeti Kulturális Támogatáskezelő nyílt pályázat keretében meghirdeti a Bursa Hungarica Felsőoktatási Önkormányzati Ösztöndíjpályázatot felsőoktatási hallgatók számára a 2026/2027. tanév második és a 2027/2028. tanév első félévére vonatkozóan.</p>
                 <p>
