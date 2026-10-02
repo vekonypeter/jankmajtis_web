@@ -209,6 +209,30 @@ include('header.php');
         <div class="contentContainer">
 
             <div class="new">
+                <div class="newTitle">Ingatlanárverési hirdetmény - Darnó, 49/1 hrsz.<i class="newDate">2026.10.02.</i></div>
+                <p>Dr. Orell Zsolt önálló bírósági végrehajtó (ügyszám: 0567.V.0608/2024/219) árverésre bocsátja a Darnó belterület 49/1 helyrajzi számú, 1937 m<sup>2</sup> alapterületű, kivett beépítetlen terület megnevezésű ingatlant. Kikiáltási ár: <b>145 000 Ft</b>.</p>
+                <p>Vételi ajánlattétel időtartama: <b>2026.09.30. - 2026.11.29. 18:00</b>, helye: <a target="_blank" href="https://arveres.mbvk.hu">arveres.mbvk.hu</a> (Elektronikus Árverési Rendszer).</p>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="https://files.jankmajtis.hu/news/261002/ingatlanarveres_dar191_2026.pdf" target="_blank">Hirdetmény</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="new">
+                <div class="newTitle">Ingatlanárverési hirdetmény - Darnó, 22/2 hrsz.<i class="newDate">2026.10.02.</i></div>
+                <p>Dr. Prekub János Róbert önálló bírósági végrehajtó (ügyszám: 0807.V.0593/2026/75) árverésre bocsátja a Darnó belterület 22/2 helyrajzi számú, 2158 m<sup>2</sup> alapterületű lakóingatlan 1/2 tulajdoni hányadát. Kikiáltási ár: <b>1 700 000 Ft</b>.</p>
+                <p>Vételi ajánlattétel időtartama: <b>2026.09.25. - 2026.11.24. 15:00</b>, helye: <a target="_blank" href="https://arveres.mbvk.hu">arveres.mbvk.hu</a> (Elektronikus Árverési Rendszer).</p>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="https://files.jankmajtis.hu/news/261002/ingatlanarveres_dar212_2026.pdf" target="_blank">Hirdetmény</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="new">
                 <div class="newTitle">Kormányablak nyitvatartásának módosulása<i class="newDate">2026.10.01.</i></div>
                 <p>
                     <a class="fancybox"
