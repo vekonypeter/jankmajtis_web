@@ -164,18 +164,17 @@ local `news/`/`docs/` copies. Tell the user what changed and wait for approval.
 
 2. **git push** (if the user asked): `git push origin master`.
 
-3. **FTP deploy** — IP-restricted to HU residential IPs. **Check egress first:**
-   ```bash
-   curl -s https://ifconfig.me            # must be a HU residential IP, not a datacenter/VPN
-   ```
-   A datacenter IP is rejected with `530 ... Errol az IP cimrol [...] nem engedelyez belepest`.
-   If so, tell the user to drop VPN / allowlist the IP, then retry. Deploy only the
-   changed pages:
+3. **FTP deploy** — IP-restricted to HU residential IPs. No preflight IP check — just
+   attempt the upload. Deploy only the changed pages:
    ```bash
    set -a && . ./.env && set +a
    lftp -e "set ftp:ssl-allow no; put -O / index.php; put -O / testuleti_2026.php; bye" \
      -u "$FTP_USER","$FTP_PASSWORD" "$FTP_HOST"
    ```
+   A rejection (`530 ... Errol az IP cimrol [...] nem engedelyez belepest`) almost always
+   means the user is on a VPN (Swiss/German/Austrian IP) — tell them to get off the VPN,
+   then retry.
+
    Silent success = deployed. Verify live: `curl -s https://jankmajtis.hu/<page> | grep <new-filename>`.
 
 Run `aws`/`lftp`/`curl`-to-external with the sandbox disabled (network egress).
