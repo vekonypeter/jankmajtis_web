@@ -209,6 +209,17 @@ include('header.php');
         <div class="contentContainer">
 
             <div class="new">
+                <div class="newTitle">Vágányzár - vonatpótló autóbuszok a Mátészalka-Fehérgyarmat-Zajta vonalon<i class="newDate">2026.10.13.</i></div>
+                <p>A MÁV Személyszállítási Zrt. tájékoztatása szerint 2026. november 9-én 21:10-től november 13-án 7:00-ig karbantartási munkák miatt Mátészalka, Fehérgyarmat és Zajta között a vonatok helyett MÁVBUSZ-ok közlekednek. A vonatpótló autóbuszokon a vasúti menetjegyek érvényesek. Csoportos utazás és kerékpárszállítás nem biztosítható. Jánkmajtison a vonatpótló autóbusz az Iskola megállóhelyen áll meg. A részletes menetrendet az alábbi hirdetmény tartalmazza.</p>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="https://files.jankmajtis.hu/news/261013/vaganyzari_hirdetmeny.pdf" target="_blank">Vágányzári hirdetmény</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="new">
                 <div class="newTitle">Ingatlanárverési hirdetmény - Darnó, 49/1 hrsz.<i class="newDate">2026.10.02.</i></div>
                 <p>Dr. Orell Zsolt önálló bírósági végrehajtó (ügyszám: 0567.V.0608/2024/219) árverésre bocsátja a Darnó belterület 49/1 helyrajzi számú, 1937 m<sup>2</sup> alapterületű, kivett beépítetlen terület megnevezésű ingatlant. Kikiáltási ár: <b>145 000 Ft</b>.</p>
                 <p>Vételi ajánlattétel időtartama: <b>2026.09.30. - 2026.11.29. 18:00</b>, helye: <a target="_blank" href="https://arveres.mbvk.hu">arveres.mbvk.hu</a> (Elektronikus Árverési Rendszer).</p>
