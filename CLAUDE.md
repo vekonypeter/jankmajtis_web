@@ -119,6 +119,8 @@ The filename regex only matches `meghivo|jkv` (with optional `_p`/`_u`). Other d
 
 Pages reference PDFs under `news/<YYMMDD>/` on R2 (newer) or FTP-served `./news/<YYMMDD>/` (legacy). When adding new news items, use **today's date** for the folder name and R2 URLs.
 
+Time-boxed news (show from / hide after a date) are wrapped in `<?php if (visible('YYYY-MM-DD HH:MM', 'YYYY-MM-DD HH:MM')): ?>` — helper in `schedule.php`, Budapest time, either bound may be `null`. The local `php -S` preview ignores start times. Expired blocks stay in source until cleaned up.
+
 ### Gazdálkodás
 
 Page: `gazd_eves_koltsegvetesek.php`. Single docs-table with one row per document. New rows should use R2 URLs (`https://files.jankmajtis.hu/gazdalkodas/...`). Existing rows with `./docs/gazdalkodas/...` paths refer to PDFs already on FTP; leave those untouched.

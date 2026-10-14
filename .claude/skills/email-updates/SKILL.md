@@ -99,11 +99,16 @@ Stage downloads under `sandbox/claude/emails_<YYMMDD>/<messageId>/`.
   by re-rendering** — sibling PDFs in one mail can be rotated opposite ways.
 - Determine for each item: is it a **news** item or a **testületi** row? What title,
   date, body, and document label? Any duration note ("15 napra", "visszavonásig")?
+- **Display window:** does the mail ask for the item to appear only from a later date
+  (e.g. "2026.10.16.-tól") or to come down at some point ("15 napra", "...napjáig")?
+  That becomes a `visible()` window (Step 5). If it's ambiguous whether a date range
+  is the display period or just the document's own content (e.g. an auction's bidding
+  period), ask the user.
 
 ## Step 4 — Plan and get approval
 
 Print a compact summary table: item → type → target file → planned R2 path →
-title/date. List anything skipped as a duplicate and why. **Wait for the user's
+title/date → display window (visible from / until, or "—"). List anything skipped as a duplicate and why. **Wait for the user's
 approval before editing.**
 
 ## Step 5 — Make the changes (local, with **local links** for preview)
@@ -118,6 +123,21 @@ Conventions (see `CLAUDE.md` for the full folder↔prefix map):
   from the gitignored `docs/` tree).
 - **Editing accented lines:** anchor Edits on ASCII portions (the filename in the
   href); NFC/NFD mismatches make accented `old_string`s silently fail.
+- **Scheduled news (`visible()`)** — `index.php` includes `schedule.php`, which provides
+  `visible($from, $until)` (Budapest local time, `'YYYY-MM-DD HH:MM'`, either may be
+  `null`). Wrap a time-boxed news block:
+  ```php
+  <?php if (visible('2026-10-16 08:00', '2026-12-15 12:00')): ?>
+  <div class="new">…</div>
+  <?php endif; ?>
+  ```
+  - Future start → default **08:00** on the start day unless the mail says otherwise;
+    the news date (`newDate`) is the **start day**, not today. Place it at the top of
+    the list like any new item.
+  - End → from the duration note. The last day is always shown in full: "…napjáig",
+    "15 napra" or a closing date (even with a time in the document, e.g. bidding until
+    12:00) → `until` = **00:00 of the following day**.
+  - Expired blocks stay in the source; removing them is a separate cleanup job.
 - `php -l <file>` after each edit.
 
 **Link every newly-added document at a LOCAL relative path first**, so the user can
@@ -139,6 +159,12 @@ listening), check the changed page returns 200, then give the user the direct UR
 (e.g. `http://127.0.0.1:8765/index.php`). The document links resolve against the
 local `news/`/`docs/` copies. Tell the user what changed and wait for approval.
 
+The `php -S` preview **ignores `visible()` start times** (end times still apply), so
+scheduled items show exactly as they will look once live — no temporary date edits.
+Tell the user which items are scheduled and their window. To check the production
+behaviour, render with the plain CLI: `php index.php | grep -c <new-filename>` (0 before
+the start time).
+
 ## Step 7 — Roll out (only after approval)
 
 0. **Stop the preview server** you started in Step 6 as soon as the preview is
@@ -152,6 +178,11 @@ local `news/`/`docs/` copies. Tell the user what changed and wait for approval.
    meaningful task** (news entries that arrived together → one commit; a testületi
    update is its own commit). Short one-line Hungarian message, end with the
    `Co-Authored-By` trailer. Do **not** push yet.
+
+   **Check scheduled windows before committing:** `grep -n "visible(" index.php` — every
+   new block from Step 4 must carry the planned start/end exactly (future start, not
+   today), and the CLI render (`php index.php | grep -c <new-filename>`) must give 0 for
+   items whose start is still ahead.
 
 1. **R2 upload** (bucket `docs`, keys mirror the URL subtree; creds in `.env`):
    ```bash
@@ -175,6 +206,16 @@ local `news/`/`docs/` copies. Tell the user what changed and wait for approval.
    means the user is on a VPN (Swiss/German/Austrian IP) — tell them to get off the VPN,
    then retry.
 
+   If `schedule.php` changed (or isn't live yet: `curl -so/dev/null -w '%{http_code}'
+   https://jankmajtis.hu/schedule.php` ≠ 200), upload it **together with** `index.php` —
+   `index.php` fatals without it.
+
    Silent success = deployed. Verify live: `curl -s https://jankmajtis.hu/<page> | grep <new-filename>`.
+   For an item whose start is still in the future, expect **no** match now — instead
+   verify the page returns 200 and an already-visible item is still there.
+
+4. **Heads-up in the final report:** for every scheduled item, state when it appears
+   and when it will disappear (date + time, Budapest), e.g. "Megjelenik 2026.10.16.
+   08:00-kor, eltűnik 2026.12.15. 12:00-kor."
 
 Run `aws`/`lftp`/`curl`-to-external with the sandbox disabled (network egress).
