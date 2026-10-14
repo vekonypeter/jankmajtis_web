@@ -209,6 +209,20 @@ include('header.php');
 
         <div class="contentContainer">
 
+            <?php if (visible('2026-10-16 08:00', '2026-12-16 00:00')): ?>
+            <div class="new">
+                <div class="newTitle">Ingatlanárverési hirdetmény - Jánkmajtis, 580 hrsz.<i class="newDate">2026.10.16.</i></div>
+                <p>Dr. Prekub János Róbert önálló bírósági végrehajtó (ügyszám: 0807.V.0596/2026/91) árverésre bocsátja a Jánkmajtis belterület 580 helyrajzi számú (Zöldfa utca 1.), 1438 m<sup>2</sup> alapterületű lakóingatlan 1/2 tulajdoni hányadát. Kikiáltási ár: <b>2 500 000 Ft</b>.</p>
+                <p>Vételi ajánlattétel időtartama: <b>2026.10.16. - 2026.12.15. 12:00</b>, helye: <a target="_blank" href="https://arveres.mbvk.hu">arveres.mbvk.hu</a> (Elektronikus Árverési Rendszer).</p>
+                <p>Kapcsolódó dokumentum(ok):</p>
+                <ul class="documentList">
+                    <li>
+                        <a href="https://files.jankmajtis.hu/news/261014/ingatlanarveres_jm580_2026.pdf" target="_blank">Hirdetmény</a>
+                    </li>
+                </ul>
+            </div>
+            <?php endif; ?>
+
             <div class="new">
                 <div class="newTitle">Vágányzár - vonatpótló autóbuszok a Mátészalka-Fehérgyarmat-Zajta vonalon<i class="newDate">2026.10.13.</i></div>
                 <p>A MÁV Személyszállítási Zrt. tájékoztatása szerint 2026. november 9-én 21:10-től november 13-án 7:00-ig karbantartási munkák miatt Mátészalka, Fehérgyarmat és Zajta között a vonatok helyett MÁVBUSZ-ok közlekednek. A vonatpótló autóbuszokon a vasúti menetjegyek érvényesek. Csoportos utazás és kerékpárszállítás nem biztosítható. Jánkmajtison a vonatpótló autóbusz az Iskola megállóhelyen áll meg. A részletes menetrendet az alábbi hirdetmény tartalmazza.</p>
