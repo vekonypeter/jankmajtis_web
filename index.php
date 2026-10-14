@@ -234,6 +234,7 @@ include('header.php');
                 </ul>
             </div>
 
+            <?php if (visible(null, '2026-11-20 00:00')): ?>
             <div class="new">
                 <div class="newTitle">Ingatlanárverési hirdetmény - Darnó, 49/1 hrsz.<i class="newDate">2026.10.02.</i></div>
                 <p>Dr. Orell Zsolt önálló bírósági végrehajtó (ügyszám: 0567.V.0608/2024/219) árverésre bocsátja a Darnó belterület 49/1 helyrajzi számú, 1937 m<sup>2</sup> alapterületű, kivett beépítetlen terület megnevezésű ingatlant. Kikiáltási ár: <b>145 000 Ft</b>.</p>
@@ -245,7 +246,9 @@ include('header.php');
                     </li>
                 </ul>
             </div>
+            <?php endif; ?>
 
+            <?php if (visible(null, '2026-11-25 00:00')): ?>
             <div class="new">
                 <div class="newTitle">Ingatlanárverési hirdetmény - Darnó, 22/2 hrsz.<i class="newDate">2026.10.02.</i></div>
                 <p>Dr. Prekub János Róbert önálló bírósági végrehajtó (ügyszám: 0807.V.0593/2026/75) árverésre bocsátja a Darnó belterület 22/2 helyrajzi számú, 2158 m<sup>2</sup> alapterületű lakóingatlan 1/2 tulajdoni hányadát. Kikiáltási ár: <b>1 700 000 Ft</b>.</p>
@@ -257,6 +260,7 @@ include('header.php');
                     </li>
                 </ul>
             </div>
+            <?php endif; ?>
 
             <div class="new">
                 <div class="newTitle">Kormányablak nyitvatartásának módosulása<i class="newDate">2026.10.01.</i></div>
