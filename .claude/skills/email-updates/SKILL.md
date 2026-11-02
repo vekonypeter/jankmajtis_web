@@ -167,6 +167,10 @@ the start time).
 
 ## Step 7 — Roll out (only after approval)
 
+Approving the preview approves the **whole** roll-out: commit, R2 upload, git push and
+FTP deploy. Run all of it in one go; never stop with the site live but the commit
+unpushed.
+
 0. **Stop the preview server** you started in Step 6 as soon as the preview is
    accepted (kill the background `php -S 127.0.0.1:8765` task). Also stop it if the
    session ends or the user abandons the change — never leave it running.
@@ -177,7 +181,7 @@ the start time).
    testületi → `.../testuleti_ulesek/<folder>/...`). `php -l` again, then **commit per
    meaningful task** (news entries that arrived together → one commit; a testületi
    update is its own commit). Short one-line Hungarian message, end with the
-   `Co-Authored-By` trailer. Do **not** push yet.
+   `Co-Authored-By` trailer. Push happens in step 2 below.
 
    **Check scheduled windows before committing:** `grep -n "visible(" index.php` — every
    new block from Step 4 must carry the planned start/end exactly (future start, not
@@ -193,7 +197,8 @@ the start time).
    Verify live with a **cache-bust** query (Cloudflare negative-caches 404s from
    before upload): `curl -so/dev/null -w '%{http_code}' ".../file.pdf?cb=$(date +%s%N)"`.
 
-2. **git push** (if the user asked): `git push origin master`.
+2. **git push** — always part of the roll-out; the preview approval covers it, so don't
+   ask separately. Live site and repo must never diverge: `git push origin master`.
 
 3. **FTP deploy** — IP-restricted to HU residential IPs. No preflight IP check — just
    attempt the upload. Deploy only the changed pages:
