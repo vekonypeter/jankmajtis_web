@@ -82,6 +82,13 @@ include('header.php');
                 <img src="https://files.jankmajtis.hu/img/bolcsode_kialakitas_tabla.jpg" alt="Bölcsőde kialakítása Jánkmajtison" class="sideBarElement sideBarImage sideBarSelectable">
             </a>
 
+            <a class="fancybox" href="https://files.jankmajtis.hu/img/mfp_darno_utfelujitas_2026_tabla.jpg" data-fancybox-group="gallery" title="Darnó Fő út, Temető utca, Hajnal utca felújítása (Magyar Falu Program)">
+                <img src="https://files.jankmajtis.hu/img/mfp_darno_utfelujitas_2026_tabla_thmb.jpg"
+                    alt="Darnó Fő út, Temető utca, Hajnal utca felújítása"
+                    class="sideBarElement sideBarImage sideBarSelectable"
+                    style="height:unset;">
+            </a>
+
             <a class="fancybox" href="https://files.jankmajtis.hu/img/ovoda_jatszo_udvar_tabla.jpg" data-fancybox-group="gallery" title="Óvodai játszóudvar kialakítása">
                 <img src="https://files.jankmajtis.hu/img/ovoda_jatszo_udvar_tabla.jpg"
                     alt="Óvodai játszóudvar kialakítása"
